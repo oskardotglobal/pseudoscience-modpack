@@ -1,5 +1,6 @@
 name = "seleni"
 filename = "seleni-0.2.5+1.19.2.jar"
+side = "both"
 
 [download]
 url = "https://github.com/oskardotglobal/pseudoscience-server-modpack/raw/main/include/seleni-0.2.5+1.19.2.jar"

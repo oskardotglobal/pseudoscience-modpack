@@ -477,11 +477,6 @@ hash = "34ed651d4994a6759422f60e26521e0980a3393e3f636f10ddb7ce7e35c600f1"
 metafile = true
 
 [[files]]
-file = "mods/origins-plus-plus-no-spawns.pw.toml"
-hash = "8bc71b3bc41501e56b6ff09ab2db14cb165f20280e81cd5d28805e78d721c277"
-metafile = true
-
-[[files]]
 file = "mods/origins-umbrellas.pw.toml"
 hash = "db7eb9490bf80d0c26330a1e0d97227c13b41ba849f3618521547a84bce20162"
 metafile = true
@@ -533,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/seleni.pw.toml"
-hash = "d3c5b256c8cd69d59167e0905b6de0473bff289914474420cf4bb978af1a585d"
+hash = "802ba473bf4a02263139ae21aedb9eea3b2a7083c36ce1ec741536361bc250e2"
 metafile = true
 
 [[files]]
@@ -654,14 +649,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
-metafile = true
-
-[[files]]
-file = "resourcepacks/eureka!-create-airships!.pw.toml"
-hash = "a61d1ba2a695d5ff4752089e34ee44cd50fcf593db323677521f50c69dab08e4"
-metafile = true
-
-[[files]]
-file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "fde89efa0ba937c2f4d05eba0b0ea1259e7e628b90446da5a74cfb95ea9353c9"
 metafile = true
