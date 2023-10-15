@@ -1,0 +1,7 @@
+name = "origins-plus-plus-custom"
+filename = "origins-plus-plus-2.2.1-custom.jar"
+
+[download]
+url = "https://github.com/oskardotglobal/origins-plus-plus-fabric/releases/download/2.2.1-custom/origins-plus-plus-2.2.1-custom.jar"
+hash-format = "sha256"
+hash = "8c54956621e0f3e4e07bd03e73ffad82a8c4c26987066e0f32da647e70c9029c"

@@ -197,11 +197,6 @@ hash = "5a4d31825bdd55127b3716eb8eda5bd2e4d06319fa90850db633421a1d922f44"
 metafile = true
 
 [[files]]
-file = "mods/create-track-map.pw.toml"
-hash = "11dcef38596a6c3594f8c07ad8fb1b4dfe4d3b48ff34c4394811b7ebb366f640"
-metafile = true
-
-[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "c974107e5aca82929bfaf886bcb5cbc646a9fb57def7fcdf7c6dd90ee7d3787f"
 metafile = true
@@ -474,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "34ed651d4994a6759422f60e26521e0980a3393e3f636f10ddb7ce7e35c600f1"
+metafile = true
+
+[[files]]
+file = "mods/origins-plus-plus-custom.pw.toml"
+hash = "a87312e9e9d2886e0b03577ff644d7f22dd51f4fb188643d29efe89cbe0974fa"
 metafile = true
 
 [[files]]
