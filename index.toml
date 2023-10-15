@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e"
-
-[[files]]
-file = "README.md"
-hash = "403815e48afb84261e4476492224a8e52777be978bb74f7346671c39e74ffcd5"
-
-[[files]]
 file = "config/C3H6N6O6.setting"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -19,6 +11,10 @@ hash = "c8aebd75c6e10de6db7a6d66826cfe0519b03d7b876307c7d458a2a482f60f5c"
 [[files]]
 file = "config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
+
+[[files]]
+file = "config/enchancement.json"
+hash = "23e8fcb59426d04f850ae33ecfc1862cb4450343e5238f54821a6238652cae36"
 
 [[files]]
 file = "config/fastload.properties"
@@ -59,58 +55,6 @@ hash = "228d16ac3ebb3efe67596f25498f97eb4a626ac108bdc0deb2ddf0bb5c32cde9"
 [[files]]
 file = "config/vmp.properties"
 hash = "896cd1675121c618521d1593c942b2bb37a6d7a18cf6609fb555466383a2f528"
-
-[[files]]
-file = "data/.fabric-manifest.json"
-hash = "427b9490831d1cf9d278d8c1f67312a53312b16b3002dd3e9ccb69bb3267aeea"
-
-[[files]]
-file = "data/.install-fabric.env"
-hash = "89d55b6ec4a77487d1650db37f371aa4cc20733db0c71f44a8bd9feb5889e85d"
-
-[[files]]
-file = "data/.maven/maven.packwiz.infra.link-link.infra.packwiz-packwiz-installer.xml"
-hash = "1b51b51ea429882b5e00d22cab445a597d71e0cf6e86542a3d8288bee8a6312c"
-
-[[files]]
-file = "data/.rcon-cli.env"
-hash = "6fe0b8c6942142243ff17ac901a8b0a271a1e42dbb1b83117946169ca295658c"
-
-[[files]]
-file = "data/eula.txt"
-hash = "c28a6167be52b348d893fd2889ca57089ea142469b269e154e64ce623f96200f"
-
-[[files]]
-file = "data/fabric-server-mc.1.19.2-loader.0.14.23-launcher.0.11.2.jar"
-hash = "0d1a8be3053b60170237d243dd1e96fab2a9a6f16154edc365bee1c63d07b9e1"
-
-[[files]]
-file = "data/packwiz-installer-v0.5.12-dist.jar"
-hash = "20681dc60906a901b97e6593d1f547149404a808ca35d2f6bfe0e02ee26a463b"
-
-[[files]]
-file = "docker-compose.yml"
-hash = "d3da5cd4a6c2acc40d6e32d705fc13b0f87be427367520dfd5be6e26365f5f74"
-
-[[files]]
-file = "include/carpet-fixes.conf"
-hash = "95bc75d36f28b2d08bb2c63f9c47d11daf2b9a343771c28c7f861d07b97640e7"
-
-[[files]]
-file = "include/carpet.conf"
-hash = "9062aa15da5aa19d94af9f7e67c5b5e0a9494debe1c871bacc9cbfb2156c8acb"
-
-[[files]]
-file = "include/origins-plus-plus-main-no-spawns.jar"
-hash = "b5dcf6f17b50272f79dbaf6490a08f968ea8dc528959aafd13e8697da4bd1981"
-
-[[files]]
-file = "include/seleni-0.2.5+1.19.2.jar"
-hash = "1e03cafca789d66670ab2cf0d30e08b837bb534424b40d8b0ec1315e089c7b2e"
-
-[[files]]
-file = "include/server.properties"
-hash = "a4f99022a272400be28d559211b72a0e8e8c843a5448f189362fb2d7f3df5418"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
@@ -299,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
-hash = "1f87846265206279eb38e4ce9b4f69cb3a4401e8074fc69f039100713e525e58"
+hash = "183037212cfd0fa8c041a68b90cae821ab05760f5df4b46fb98a9e9d64726382"
 metafile = true
 
 [[files]]
@@ -359,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
+hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
 metafile = true
 
 [[files]]
@@ -654,7 +598,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
+hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
 metafile = true
 
 [[files]]
