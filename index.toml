@@ -105,6 +105,10 @@ file = "include/origins-plus-plus-main-no-spawns.jar"
 hash = "b5dcf6f17b50272f79dbaf6490a08f968ea8dc528959aafd13e8697da4bd1981"
 
 [[files]]
+file = "include/seleni-0.2.5+1.19.2.jar"
+hash = "1e03cafca789d66670ab2cf0d30e08b837bb534424b40d8b0ec1315e089c7b2e"
+
+[[files]]
 file = "include/server.properties"
 hash = "a4f99022a272400be28d559211b72a0e8e8c843a5448f189362fb2d7f3df5418"
 
@@ -581,6 +585,11 @@ metafile = true
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "aa1fc71319074fbcdf0356c4d82209f1a4706d9416960b4cb3b3e18a8b70152f"
+metafile = true
+
+[[files]]
+file = "mods/seleni.pw.toml"
+hash = "d3c5b256c8cd69d59167e0905b6de0473bff289914474420cf4bb978af1a585d"
 metafile = true
 
 [[files]]
