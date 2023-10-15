@@ -9,7 +9,7 @@ services:
       - "25565:25565"
     environment:
       EULA: "TRUE"
-      PACKWIZ_URL: "https://raw.githubusercontent.com/oskardotglobal/pseudoscience-server-modpack/main/pack.toml"
+      PACKWIZ_URL: "http://172.19.0.1:8080/pack.toml"
       USE_AIKAR_FLAGS: true
       MEMORY: "4G"
       TYPE: "fabric"

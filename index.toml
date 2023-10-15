@@ -74,7 +74,7 @@ hash = "1b51b51ea429882b5e00d22cab445a597d71e0cf6e86542a3d8288bee8a6312c"
 
 [[files]]
 file = "data/.rcon-cli.env"
-hash = "a892c0629910d2a24c647ca4aae895283c8f7c7169cb49f9706f49d3f60a9179"
+hash = "6fe0b8c6942142243ff17ac901a8b0a271a1e42dbb1b83117946169ca295658c"
 
 [[files]]
 file = "data/eula.txt"
@@ -90,7 +90,7 @@ hash = "20681dc60906a901b97e6593d1f547149404a808ca35d2f6bfe0e02ee26a463b"
 
 [[files]]
 file = "docker-compose.yml"
-hash = "5e8f3e6e947297a0871a82c75097fec0dbab3701bd8f4e6ab1ca09d71aefebb0"
+hash = "d3da5cd4a6c2acc40d6e32d705fc13b0f87be427367520dfd5be6e26365f5f74"
 
 [[files]]
 file = "include/carpet-fixes.conf"
@@ -581,11 +581,6 @@ metafile = true
 [[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "aa1fc71319074fbcdf0356c4d82209f1a4706d9416960b4cb3b3e18a8b70152f"
-metafile = true
-
-[[files]]
-file = "mods/seleni.pw.toml"
-hash = "a6a4c2848436bba53c4725cf3fdde3b807698302b8f23a4de9d90e8cb8ca3dc4"
 metafile = true
 
 [[files]]
