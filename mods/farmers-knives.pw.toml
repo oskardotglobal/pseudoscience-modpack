@@ -1,0 +1,13 @@
+name = "Farmer's Knives [Fabric]"
+filename = "farmersknives-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uc3VdfLM/versions/vjxupi6o/farmersknives-2.4.1.jar"
+hash-format = "sha1"
+hash = "bc97ed1b74062528d2f7b11279213225255d332f"
+
+[update]
+[update.modrinth]
+mod-id = "uc3VdfLM"
+version = "vjxupi6o"

@@ -1,0 +1,13 @@
+name = "MC Dungeons Armors"
+filename = "mcda-2.4.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "653a9d9b531fe0c35e7b25b69d0dd2bf8792fd74"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4416381
+project-id = 426206

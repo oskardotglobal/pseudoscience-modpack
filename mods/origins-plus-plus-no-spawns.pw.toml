@@ -1,0 +1,7 @@
+name = "Origins++ (Origins with spawn powers removed), by harjjw"
+filename = "origins-plus-plus-main-no-spawns.jar"
+
+[download]
+url = "https://github.com/oskardotglobal/pseudoscience-server-modpack/raw/main/include/origins-plus-plus-main-no-spawns.jar"
+hash-format = "sha256"
+hash = "b5dcf6f17b50272f79dbaf6490a08f968ea8dc528959aafd13e8697da4bd1981"

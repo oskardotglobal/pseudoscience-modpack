@@ -1,0 +1,13 @@
+name = "Eureka! Create Airships!"
+filename = "Eureka+Create+1.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tEzYpIwc/versions/TACONXx0/Eureka%2BCreate%2B1.0.zip"
+hash-format = "sha1"
+hash = "a5ba93baa4ee87fa7258f243afa2a9b8dd274e21"
+
+[update]
+[update.modrinth]
+mod-id = "tEzYpIwc"
+version = "TACONXx0"

@@ -1,0 +1,13 @@
+name = "Pick Your Poison 🐸"
+filename = "pickyourpoison-1.0.11.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89619dde7cbedce734283579f434d1c03538579f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4058476
+project-id = 596706

@@ -1,0 +1,13 @@
+name = "Arcanus: Legacy"
+filename = "arcanus-1.30.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zgaWtmrV/versions/1.30/arcanus-1.30.jar"
+hash-format = "sha1"
+hash = "68202b2a803304d7c7afc7d79aef7d807c172313"
+
+[update]
+[update.modrinth]
+mod-id = "zgaWtmrV"
+version = "ydCqPQa4"
