@@ -1,13 +1,13 @@
 name = "Create: SandPaper Overhaul"
-filename = "create_so-1.5+fabric-1.19.2.jar"
+filename = "create_so-1.6+1.19.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/23nOkgI0/versions/iYEJW8qe/create_so-1.5%2Bfabric-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/23nOkgI0/versions/xiChdN69/create_so-1.6%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "feb08ce83439af3d18377bc68701a991c60a7672"
+hash = "89574794993154ad0af4355608d14fd993898553"
 
 [update]
 [update.modrinth]
 mod-id = "23nOkgI0"
-version = "iYEJW8qe"
+version = "xiChdN69"

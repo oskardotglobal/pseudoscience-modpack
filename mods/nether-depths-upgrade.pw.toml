@@ -1,13 +1,13 @@
 name = "Nether Depths Upgrade"
-filename = "netherdepthsupgrade-fabric-3.1.0-1.19.2.jar"
+filename = "netherdepthsupgrade-fabric-3.1.1-1.19.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ef3e3a531c65c129545e36cf1e287b44614703b9"
+hash = "fb11a1ee86bd12885db7acf8017a7786c50066d5"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4690802
+file-id = 4815047
 project-id = 670011
