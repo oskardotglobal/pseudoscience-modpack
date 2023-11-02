@@ -14,7 +14,7 @@ hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "23e8fcb59426d04f850ae33ecfc1862cb4450343e5238f54821a6238652cae36"
+hash = "7b8bed8c98f08ae3211cedfc5f4d9a56dc2811fc4fc915a462ece9ba4a2327f8"
 
 [[files]]
 file = "config/fastload.properties"
