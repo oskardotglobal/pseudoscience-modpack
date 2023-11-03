@@ -1220,11 +1220,6 @@ hash = "c9a625ec9a2f6b2696e90a57d69cd155fd83840ab9cb6f0b30a6935f158e9547"
 metafile = true
 
 [[files]]
-file = "mods/arcanus.pw.toml"
-hash = "825d786d776aaa23885f84c030edafd9b75fc566ae14df745455a5dc09b8bee8"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "7916e9bf676dd9730f970893ff61fd25f43c563ff6133d1e7886366a3cd9e282"
 metafile = true
@@ -1500,6 +1495,11 @@ hash = "87e50238f58b282906aaac34493d4fefb4f7ff58d3d4479a8b90c2bc535320d2"
 metafile = true
 
 [[files]]
+file = "mods/essential.pw.toml"
+hash = "e64ec3a899d30eeada21d743a30c030039cd4053cb66b0316ab207c54674e3aa"
+metafile = true
+
+[[files]]
 file = "mods/extended-cogwheels.pw.toml"
 hash = "2e9fb6794be0508c5afe707536ad16360f821980f0287e33f79ce39beea41ba2"
 metafile = true
@@ -1597,11 +1597,6 @@ metafile = true
 [[files]]
 file = "mods/fsb-interop.pw.toml"
 hash = "37f8395ee7d635ef4f01c92d51f707287da6cf886c7a71c43ad0ec4d4f54dea9"
-metafile = true
-
-[[files]]
-file = "mods/fwaystones.pw.toml"
-hash = "577d6d70b5a7ab61e454ac05d0753bce12726499da97416025285f863308fc89"
 metafile = true
 
 [[files]]

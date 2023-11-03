@@ -1,6 +1,6 @@
 name = "Roughly Enough Loot Tables"
 filename = "RoughlyEnoughLootTables-1.19-1.0.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5hppfLUZ/versions/GvXMNQdq/RoughlyEnoughLootTables-1.19-1.0.jar"
