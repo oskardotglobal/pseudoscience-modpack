@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor"
+  ],
+  "incompatible": [
+    "minecraft:thorns",
+    "twilightforest:chill_aura"
+  ]
+}

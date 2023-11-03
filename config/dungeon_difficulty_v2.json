@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "comment": "IMPORTANT! Make sure to set `allow_customization` to `true` to allow customization of the config",
+    "allow_customization": false,
+    "sanitize_config": true,
+    "rounding_unit": 0.5
+  },
+  "perPlayerDifficulty": {
+    "enabled": true,
+    "counting": "EVERYWHERE",
+    "entities": [
+      {
+        "entity_matches": {
+          "attitude": "ANY",
+          "entity_id_regex": ".*"
+        },
+        "attributes": [
+          {
+            "attribute": "damage",
+            "operation": "MULTIPLY_BASE",
+            "randomness": 0.0,
+            "value": 0.2
+          },
+          {
+            "attribute": "generic.max_health",
+            "operation": "MULTIPLY_BASE",
+            "randomness": 0.0,
+            "value": 0.2
+          }
+        ],
+        "experience_multiplier": 0.0
+      }
+    ]
+  },
+  "difficulty_types": [
+    {
+      "name": "normal",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [
+            {
+              "attribute": "damage",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.0,
+              "value": 0.25
+            },
+            {
+              "attribute": "generic.armor",
+              "operation": "ADDITION",
+              "randomness": 0.0,
+              "value": 1.0
+            },
+            {
+              "attribute": "generic.max_health",
+              "operation": "MULTIPLY_BASE",
+              "randomness": 0.1,
+              "value": 0.25
+            }
+          ],
+          "experience_multiplier": 0.2
+        }
+      ],
+      "rewards": {
+        "armor": [],
+        "weapons": []
+      }
+    },
+    {
+      "name": "dungeon",
+      "parent": "normal",
+      "entities": [
+        {
+          "entity_matches": {
+            "attitude": "ANY",
+            "entity_id_regex": ".*"
+          },
+          "attributes": [],
+          "spawners": {
+            "spawn_range_multiplier": 0.0,
+            "spawn_count_multiplier": 0.5,
+            "max_nearby_entities_multiplier": 1.0,
+            "min_spawn_delay_multiplier": -0.2,
+            "max_spawn_delay_multiplier": -0.2,
+            "required_player_range_multiplier": 0.0
+          },
+          "experience_multiplier": 0.0
+        }
+      ],
+      "rewards": {
+        "armor": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "generic.armor",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.0,
+                "value": 0.1
+              },
+              {
+                "attribute": "generic.max_health",
+                "operation": "ADDITION",
+                "randomness": 0.0,
+                "value": 1.0
+              }
+            ]
+          }
+        ],
+        "weapons": [
+          {
+            "item_matches": {
+              "item_id_regex": ".*",
+              "loot_table_regex": ".*",
+              "rarity_regex": ".*"
+            },
+            "attributes": [
+              {
+                "attribute": "damage",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.15
+              },
+              {
+                "attribute": "power",
+                "operation": "MULTIPLY_BASE",
+                "randomness": 0.05,
+                "value": 0.15
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "dimensions": [
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:overworld"
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "stronghold"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 4
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "monument"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "desert_pyramid"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "jungle_pyramid"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "pillager_outpost"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 2
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": "desert",
+            "biome_tag_regex": ".*"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": "frozen|snowy|ice",
+            "biome_tag_regex": ".*"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 1
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": "jungle",
+            "biome_tag_regex": ".*"
+          },
+          "difficulty": {
+            "name": "normal",
+            "level": 1
+          }
+        }
+      ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:the_nether"
+      },
+      "difficulty": {
+        "name": "normal",
+        "level": 3
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "fortress"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 4
+          }
+        },
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "bastion_remnant"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 4
+          }
+        }
+      ]
+    },
+    {
+      "world_matches": {
+        "dimension_regex": "minecraft:the_end"
+      },
+      "difficulty": {
+        "name": "normal",
+        "level": 5
+      },
+      "zones": [
+        {
+          "zone_matches": {
+            "biome_regex": ".*",
+            "biome_tag_regex": ".*",
+            "structure_id": "end_city"
+          },
+          "difficulty": {
+            "name": "dungeon",
+            "level": 6
+          }
+        }
+      ]
+    }
+  ]
+}

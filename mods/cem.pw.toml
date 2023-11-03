@@ -1,0 +1,13 @@
+name = "Custom Entity Models (CEM)"
+filename = "cem-0.7.3-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YOQCucah/versions/JlpuBMAJ/cem-0.7.3-1.19.jar"
+hash-format = "sha512"
+hash = "ef0959f3e958f5f6a7b62ddcf28c5a6f578c1a9052fcfff7659c8c0506f9181f58b4eea45fcf43dda8c71cf39fd1c087304c73c61874e2a44340504833b05934"
+
+[update]
+[update.modrinth]
+mod-id = "YOQCucah"
+version = "JlpuBMAJ"

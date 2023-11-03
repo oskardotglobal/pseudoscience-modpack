@@ -1,0 +1,6 @@
+cooldown=0
+chatMessage=%player:displayname% is flexing their %itemflexer:item%
+chatMessageWithCount=%player:displayname% is flexing their %itemflexer:count% %itemflexer:item%
+failureNoItem=Can't flex empty item
+failureOnCooldown=On Cooldown: %itemflexer:cooldown% seconds left
+commandName=flex

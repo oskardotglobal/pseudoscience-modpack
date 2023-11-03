@@ -1,0 +1,28 @@
+{
+	// Cooldown time is in seconds.
+	// `/rep set` is not affected by cooldown, but `/rep upvote` and `/rep downvote` are.
+	cooldown: 86400,
+	// The minimum and maximum reputation.
+	// All reputation changes will clamp between these values.
+	minRep: null,
+	maxRep: null,
+	// Minimum required reputation to PvP. Anything lower than this will not be able to hit another player.
+	// Can be set to null to always allow PvP.
+	minPvPRep: null,
+	// Minimum required reputation to modify within the range of spawn protection.
+	// Can be set to null to always disallow modification.
+	minSpawnBuildingRep: null,
+	// Maximum required reputation to be wanted (have co-ords shown).
+	// Can be set to null to not allow anyone to be wanted.
+	maxWantedRep: null,
+	// Require a reason to vote on a player.
+	votingReasonRequired: true,
+	// Show the upvote/downvote reason in notifications.
+	showReason: false,
+	// Notify the player when they get upvoted.
+	upvoteNotifications: false,
+	// Notify the player when they get downvoted.
+	downvoteNotifications: false,
+	// Webhook to log upvotes and downvotes.
+	discordWebhookUrl: null
+}

@@ -1,0 +1,202 @@
+{
+	"basics": {
+		"favorites": [
+			"{data:{Count:1b,id:\"minecraft:enchanted_book\",tag:{StoredEnchantments:[{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:depth_strider\",lvl:3s},{id:\"minecraft:impaling\",lvl:5s},{id:\"minecraft:looting\",lvl:3s},{id:\"create:potato_recovery\",lvl:3s},{id:\"mcda:death_barter\",lvl:3s},{id:\"minecraft:luck_of_the_sea\",lvl:3s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"twilightforest:destruction\",lvl:3s},{id:\"minecraft:lure\",lvl:3s},{id:\"mcda:poison_focus\",lvl:3s},{id:\"mcda:potion_barrier\",lvl:3s},{id:\"minecraft:swift_sneak\",lvl:3s},{id:\"minecraft:mending\",lvl:1s},{id:\"grapplemod:wallrunenchantment\",lvl:1s},{id:\"minecraft:protection\",lvl:4s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"mcda:fire_focus\",lvl:3s},{id:\"mcda:cowardice\",lvl:3s},{id:\"mcda:swiftfooted\",lvl:3s},{id:\"mcda:surprise_gift\",lvl:3s},{id:\"minecraft:power\",lvl:5s},{id:\"mcda:deflect\",lvl:3s},{id:\"mcda:heal_allies\",lvl:3s},{id:\"mcda:chilling\",lvl:3s},{id:\"mcda:recycler\",lvl:3s},{id:\"mcda:bag_of_souls\",lvl:3s},{id:\"minecraft:piercing\",lvl:4s},{id:\"inventorio:deep_pockets\",lvl:3s},{id:\"minecraft:flame\",lvl:1s},{id:\"farmersdelight:backstabbing\",lvl:3s},{id:\"twilightforest:chill_aura\",lvl:3s},{id:\"minecraft:respiration\",lvl:3s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:aqua_affinity\",lvl:1s},{id:\"netherdepthsupgrade:hell_strider\",lvl:2s},{id:\"mcda:lucky_explorer\",lvl:3s},{id:\"create:capacity\",lvl:3s},{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:quick_charge\",lvl:3s},{id:\"mcda:frenzied\",lvl:3s},{id:\"minecraft:soul_speed\",lvl:3s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:food_reserves\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:feather_falling\",lvl:4s},{id:\"minecraft:punch\",lvl:2s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:shulker_box\",tag:{BlockEntityTag:{Items:[{Count:1b,Slot:0b,id:\"simplyswords:watching_warglaive\",tag:{Damage:0,Enchantments:[{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1,nether_power:\"no_socket\",runic_power:\"no_socket\"}},{Count:1b,Slot:1b,id:\"simplyswords:watching_warglaive\",tag:{Damage:0,Enchantments:[{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1,nether_power:\"no_socket\",runic_power:\"no_socket\"}},{Count:1b,Slot:2b,id:\"simplyswords:shadowsting\",tag:{Damage:0,Enchantments:[{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1,nether_power:\"no_socket\",runic_power:\"no_socket\"}},{Count:1b,Slot:3b,id:\"simplyswords:harbinger\",tag:{Damage:0,Enchantments:[{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1,nether_power:\"echo\",runic_power:\"greater_imbued\"}},{Count:1b,Slot:4b,id:\"create:netherite_backtank\",tag:{Air:1425.0f,Enchantments:[{id:\"mcda:death_barter\",lvl:3s},{id:\"mcda:poison_focus\",lvl:3s},{id:\"mcda:potion_barrier\",lvl:3s},{id:\"minecraft:protection\",lvl:4s},{id:\"mcda:fire_focus\",lvl:3s},{id:\"mcda:cowardice\",lvl:3s},{id:\"mcda:surprise_gift\",lvl:3s},{id:\"mcda:deflect\",lvl:3s},{id:\"mcda:heal_allies\",lvl:3s},{id:\"mcda:chilling\",lvl:3s},{id:\"mcda:recycler\",lvl:3s},{id:\"mcda:bag_of_souls\",lvl:3s},{id:\"twilightforest:chill_aura\",lvl:3s},{id:\"create:capacity\",lvl:3s},{id:\"mcda:frenzied\",lvl:3s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:food_reserves\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s}]}},{Count:1b,Slot:5b,id:\"create:netherite_diving_helmet\",tag:{Damage:0,Enchantments:[{id:\"minecraft:aqua_affinity\",lvl:1s},{id:\"mcda:death_barter\",lvl:3s},{id:\"mcda:poison_focus\",lvl:3s},{id:\"mcda:potion_barrier\",lvl:3s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:protection\",lvl:4s},{id:\"mcda:fire_focus\",lvl:3s},{id:\"mcda:cowardice\",lvl:3s},{id:\"mcda:surprise_gift\",lvl:3s},{id:\"mcda:deflect\",lvl:3s},{id:\"mcda:heal_allies\",lvl:3s},{id:\"mcda:chilling\",lvl:3s},{id:\"mcda:recycler\",lvl:3s},{id:\"mcda:bag_of_souls\",lvl:3s},{id:\"twilightforest:chill_aura\",lvl:3s},{id:\"minecraft:respiration\",lvl:3s},{id:\"mcda:frenzied\",lvl:3s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:food_reserves\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1}},{Count:1b,Slot:6b,id:\"create:netherite_diving_boots\",tag:{Damage:0,Enchantments:[{id:\"minecraft:depth_strider\",lvl:3s},{id:\"mcda:death_barter\",lvl:3s},{id:\"mcda:poison_focus\",lvl:3s},{id:\"mcda:potion_barrier\",lvl:3s},{id:\"minecraft:mending\",lvl:1s},{id:\"grapplemod:wallrunenchantment\",lvl:1s},{id:\"minecraft:protection\",lvl:4s},{id:\"mcda:fire_focus\",lvl:3s},{id:\"mcda:cowardice\",lvl:3s},{id:\"mcda:swiftfooted\",lvl:3s},{id:\"mcda:surprise_gift\",lvl:3s},{id:\"mcda:deflect\",lvl:3s},{id:\"mcda:heal_allies\",lvl:3s},{id:\"mcda:chilling\",lvl:3s},{id:\"mcda:recycler\",lvl:3s},{id:\"mcda:bag_of_souls\",lvl:3s},{id:\"twilightforest:chill_aura\",lvl:3s},{id:\"netherdepthsupgrade:hell_strider\",lvl:2s},{id:\"mcda:lucky_explorer\",lvl:3s},{id:\"mcda:frenzied\",lvl:3s},{id:\"minecraft:soul_speed\",lvl:3s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:food_reserves\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:feather_falling\",lvl:4s}],RepairCost:1,x-coord:-8.18833922141813d,z-coord:-49.800259385998615d}},{Count:1b,Slot:7b,id:\"minecraft:netherite_leggings\",tag:{Damage:0,Enchantments:[{id:\"mcda:death_barter\",lvl:3s},{id:\"mcda:poison_focus\",lvl:3s},{id:\"mcda:potion_barrier\",lvl:3s},{id:\"minecraft:swift_sneak\",lvl:3s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:protection\",lvl:4s},{id:\"mcda:fire_focus\",lvl:3s},{id:\"mcda:cowardice\",lvl:3s},{id:\"mcda:surprise_gift\",lvl:3s},{id:\"mcda:deflect\",lvl:3s},{id:\"mcda:heal_allies\",lvl:3s},{id:\"mcda:chilling\",lvl:3s},{id:\"mcda:recycler\",lvl:3s},{id:\"mcda:bag_of_souls\",lvl:3s},{id:\"inventorio:deep_pockets\",lvl:3s},{id:\"twilightforest:chill_aura\",lvl:3s},{id:\"mcda:frenzied\",lvl:3s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:food_reserves\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1}},{Count:1b,Slot:8b,id:\"endium:endium_chestplate\",tag:{Damage:0,Enchantments:[{id:\"enchancement:strafe\",lvl:1s}]}},{Count:1b,Slot:9b,id:\"knavesneeds:deeperdarker/warden/chakram\",tag:{Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:lure\",lvl:3s},{id:\"mcda:deflect\",lvl:3s},{id:\"minecraft:blast_protection\",lvl:4s},{id:\"mcda:potion_barrier\",lvl:3s},{id:\"netherdepthsupgrade:hell_strider\",lvl:2s},{id:\"mcda:death_barter\",lvl:3s},{id:\"minecraft:punch\",lvl:2s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"minecraft:respiration\",lvl:3s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:bag_of_souls\",lvl:3s},{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:impaling\",lvl:5s},{id:\"mcda:swiftfooted\",lvl:3s},{id:\"minecraft:looting\",lvl:3s},{id:\"mcda:lucky_explorer\",lvl:3s},{id:\"minecraft:multishot\",lvl:1s},{id:\"farmersdelight:backstabbing\",lvl:3s},{id:\"minecraft:quick_charge\",lvl:3s},{id:\"mcda:poison_focus\",lvl:3s},{id:\"mcda:heal_allies\",lvl:3s},{id:\"mcda:food_reserves\",lvl:3s},{id:\"minecraft:efficiency\",lvl:5s},{id:\"inventorio:deep_pockets\",lvl:3s},{id:\"create:capacity\",lvl:3s},{id:\"mcda:frenzied\",lvl:3s},{id:\"mcda:fire_focus\",lvl:3s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:infinity\",lvl:1s},{id:\"create:potato_recovery\",lvl:3s},{id:\"minecraft:aqua_affinity\",lvl:1s},{id:\"minecraft:thorns\",lvl:3s},{id:\"minecraft:feather_falling\",lvl:4s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:piercing\",lvl:4s},{id:\"minecraft:depth_strider\",lvl:3s},{id:\"minecraft:flame\",lvl:1s},{id:\"mcda:surprise_gift\",lvl:3s},{id:\"grapplemod:wallrunenchantment\",lvl:1s},{id:\"mcda:chilling\",lvl:3s},{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:power\",lvl:5s},{id:\"minecraft:luck_of_the_sea\",lvl:3s},{id:\"mcda:recycler\",lvl:3s},{id:\"minecraft:protection\",lvl:4s},{id:\"mcda:cowardice\",lvl:3s},{id:\"deeperdarker:sculk_smite\",lvl:1s}],RepairCost:15}},{Count:1b,Slot:10b,id:\"deeperdarker:warden_pickaxe\",tag:{Damage:2,Enchantments:[{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1}},{Count:1b,Slot:11b,id:\"deeperdarker:warden_pickaxe\",tag:{Damage:1,Enchantments:[{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s}]}},{Count:1b,Slot:12b,id:\"impaled:atlan\",tag:{Damage:0,Enchantments:[{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:impaling\",lvl:5s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:loyalty\",lvl:4s}],RepairCost:7}},{Count:1b,Slot:13b,id:\"minecraft:trident\",tag:{Damage:1,Enchantments:[{id:\"minecraft:loyalty\",lvl:4s}],RepairCost:1,impaled:{owner_name:\"KhaosLatet\",trident_owner:[I;-2144358986,-2127280451,-1157590841,1469631595]}}},{Count:1b,Slot:14b,id:\"impaled:soulfork\",tag:{Damage:0,Enchantments:[{id:\"minecraft:loyalty\",lvl:4s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:impaling\",lvl:5s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:riptide\",lvl:3s}],RepairCost:7,impaled:{owner_name:\"KhaosLatet\",trident_owner:[I;-2144358986,-2127280451,-1157590841,1469631595]}}},{Count:1b,Slot:15b,id:\"endium:endium_helmet\",tag:{Damage:0,Enchantments:[{id:\"enchancement:veil\",lvl:1s}]}},{Count:1b,Slot:16b,id:\"simplyswords:watcher_claymore\",tag:{Damage:0,Enchantments:[{id:\"minecraft:sweeping\",lvl:3s},{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:fire_aspect\",lvl:2s},{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:sharpness\",lvl:5s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:1,nether_power:\"echo\",runic_power:\"greater_imbued\"}},{Count:1b,Slot:17b,id:\"endium:endium_leggings\",tag:{Damage:0,Enchantments:[{id:\"enchancement:dash\",lvl:1s}]}},{Count:1b,Slot:18b,id:\"deeperdarker:warden_pickaxe\",tag:{Damage:0}},{Count:1b,Slot:19b,id:\"endium:endium_pickaxe\",tag:{Damage:0}},{Count:1b,Slot:20b,id:\"endium:endium_boots\",tag:{Damage:0,Enchantments:[{id:\"enchancement:bouncy\",lvl:1s}]}},{Count:1b,Slot:21b,id:\"minecraft:netherite_helmet\",tag:{Damage:0,Enchantments:[{id:\"enchancement:veil\",lvl:1s}]}},{Count:1b,Slot:22b,id:\"minecraft:netherite_chestplate\",tag:{Damage:0,Enchantments:[{id:\"enchancement:strafe\",lvl:1s}]}},{Count:1b,Slot:23b,id:\"minecraft:netherite_boots\",tag:{Damage:0,Enchantments:[{id:\"enchancement:gale\",lvl:1s}]}},{Count:1b,Slot:24b,id:\"minecraft:netherite_leggings\",tag:{Damage:0,Enchantments:[{id:\"enchancement:dash\",lvl:1s}]}}],id:\"minecraft:shulker_box\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:firework_star\",tag:{Explosion:{Colors:[I;2437522,8073150,1973019],Flicker:1b,Trail:1b,Type:2b}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:firework_star\",tag:{Explosion:{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:purple_shulker_box\",tag:{BlockEntityTag:{Items:[{Count:64b,Slot:0b,id:\"minecraft:firework_rocket\",tag:{Fireworks:{Explosions:[{Colors:[I;2437522,8073150,1973019],Flicker:1b,Trail:1b,Type:2b},{Colors:[I;2437522,8073150,1973019],Flicker:1b,Trail:1b,Type:2b},{Colors:[I;2437522,8073150,1973019],Flicker:1b,Trail:1b,Type:2b},{Colors:[I;2437522,8073150,1973019],Flicker:1b,Trail:1b,Type:2b},{Colors:[I;2437522,8073150,1973019],Flicker:1b,Trail:1b,Type:2b}],Flight:3b}}},{Count:64b,Slot:1b,id:\"minecraft:firework_rocket\",tag:{Fireworks:{Explosions:[{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b},{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b},{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b},{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b},{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b},{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b},{Colors:[I;11743532,1973019,11743532],Flicker:1b,Trail:1b,Type:4b}],Flight:1b}}},{Count:1b,Slot:2b,id:\"originsumbrellas:umbrella\",tag:{Damage:0,Enchantments:[{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:3b,id:\"pickyourpoison:golden_poison_dart_frog_bowl\"},{Count:1b,Slot:4b,id:\"pickyourpoison:green_poison_dart_frog_bowl\"},{Count:1b,Slot:5b,id:\"pickyourpoison:orange_poison_dart_frog_bowl\"},{Count:1b,Slot:6b,id:\"pickyourpoison:crimson_poison_dart_frog_bowl\"},{Count:1b,Slot:7b,id:\"minecraft:crossbow\",tag:{Charged:1b,ChargedProjectiles:[{Count:1b,id:\"minecraft:lava_bucket\",tag:{enchancement:{Brimstone:1b}}},{Count:1b,id:\"minecraft:lava_bucket\",tag:{enchancement:{Brimstone:1b}}},{Count:1b,id:\"minecraft:lava_bucket\",tag:{enchancement:{Brimstone:1b}}}],Damage:0,Enchantments:[{id:\"enchancement:torch\",lvl:1s},{id:\"enchancement:scatter\",lvl:1s},{id:\"minecraft:multishot\",lvl:1s},{id:\"minecraft:quick_charge\",lvl:1s},{id:\"enchancement:brimstone\",lvl:1s},{id:\"minecraft:infinity\",lvl:1s}],enchancement:{BrimstoneDamage:12,BrimstoneUUID:[I;1535259288,628900144,-1405309816,177414742]}}},{Count:1b,Slot:8b,id:\"minecraft:crossbow\",tag:{Charged:0b,ChargedProjectiles:[],Damage:0,Enchantments:[{id:\"enchancement:torch\",lvl:1s},{id:\"enchancement:scatter\",lvl:1s},{id:\"minecraft:piercing\",lvl:1s},{id:\"minecraft:quick_charge\",lvl:1s},{id:\"minecraft:infinity\",lvl:1s}]}},{Count:1b,Slot:9b,id:\"impaled:soulfork\",tag:{Damage:0,Enchantments:[{id:\"minecraft:impaling\",lvl:1s},{id:\"minecraft:riptide\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:10b,id:\"impaled:elder_trident\",tag:{Damage:0,Enchantments:[{id:\"minecraft:impaling\",lvl:1s},{id:\"minecraft:channeling\",lvl:1s},{id:\"enchancement:leech\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}],impaled:{}}},{Count:1b,Slot:11b,id:\"impaled:atlan\",tag:{Damage:0,Enchantments:[{id:\"minecraft:looting\",lvl:1s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:vanishing_curse\",lvl:1s},{id:\"enchancement:frostbite\",lvl:1s},{id:\"enchancement:warp\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s},{id:\"minecraft:bane_of_arthropods\",lvl:1s},{id:\"minecraft:impaling\",lvl:1s},{id:\"minecraft:channeling\",lvl:1s}],impaled:{}}},{Count:1b,Slot:12b,id:\"botania:crystal_bow\",tag:{Damage:0,Enchantments:[{id:\"minecraft:flame\",lvl:1s},{id:\"enchancement:phasing\",lvl:1s},{id:\"minecraft:punch\",lvl:1s},{id:\"minecraft:power\",lvl:1s},{id:\"minecraft:infinity\",lvl:1s}]}},{Count:1b,Slot:13b,id:\"endium:endium_axe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:sharpness\",lvl:1s},{id:\"minecraft:efficiency\",lvl:1s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"enchancement:beheading\",lvl:1s},{id:\"enchancement:lumberjack\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:14b,id:\"endium:endium_axe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:efficiency\",lvl:1s},{id:\"minecraft:fortune\",lvl:1s},{id:\"enchancement:beheading\",lvl:1s},{id:\"enchancement:lumberjack\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s},{id:\"minecraft:sharpness\",lvl:1s}]}},{Count:1b,Slot:15b,id:\"endium:endium_hoe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:efficiency\",lvl:1s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:16b,id:\"endium:endium_hoe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:fortune\",lvl:1s},{id:\"minecraft:efficiency\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:17b,id:\"endium:endium_shovel\",tag:{Damage:0,Enchantments:[{id:\"minecraft:efficiency\",lvl:1s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"enchancement:bury\",lvl:1s},{id:\"enchancement:scooping\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:18b,id:\"endium:endium_shovel\",tag:{Damage:0,Enchantments:[{id:\"enchancement:bury\",lvl:1s},{id:\"minecraft:efficiency\",lvl:1s},{id:\"minecraft:fortune\",lvl:1s},{id:\"enchancement:scooping\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:19b,id:\"endium:endium_pickaxe\",tag:{Damage:0,Enchantments:[{id:\"enchancement:molten\",lvl:1s},{id:\"minecraft:efficiency\",lvl:1s},{id:\"minecraft:fortune\",lvl:1s},{id:\"enchancement:extracting\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:20b,id:\"endium:endium_pickaxe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:silk_touch\",lvl:1s},{id:\"minecraft:efficiency\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:21b,id:\"endium:endium_helmet\",tag:{Damage:0,Enchantments:[{id:\"minecraft:respiration\",lvl:1s},{id:\"enchancement:assimilation\",lvl:1s},{id:\"enchancement:perception\",lvl:1s},{id:\"enchancement:veil\",lvl:1s},{id:\"mcda:bag_of_souls\",lvl:1s},{id:\"mcda:cowardice\",lvl:1s},{id:\"mcda:death_barter\",lvl:1s},{id:\"mcda:deflect\",lvl:1s},{id:\"mcda:frenzied\",lvl:1s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:surprise_gift\",lvl:1s},{id:\"minecraft:protection\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s},{id:\"yigd:death_sight\",lvl:1s}]}},{Count:1b,Slot:22b,id:\"endium:endium_chestplate\",tag:{Damage:0,Enchantments:[{id:\"enchancement:amphibious\",lvl:1s},{id:\"enchancement:strafe\",lvl:1s},{id:\"enchancement:wardenspine\",lvl:1s},{id:\"mcda:bag_of_souls\",lvl:1s},{id:\"mcda:cowardice\",lvl:1s},{id:\"mcda:death_barter\",lvl:1s},{id:\"mcda:deflect\",lvl:1s},{id:\"mcda:frenzied\",lvl:1s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:surprise_gift\",lvl:1s},{id:\"minecraft:protection\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:23b,id:\"endium:endium_leggings\",tag:{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:1s},{id:\"mcda:surprise_gift\",lvl:1s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:frenzied\",lvl:1s},{id:\"mcda:deflect\",lvl:1s},{id:\"mcda:cowardice\",lvl:1s},{id:\"mcda:death_barter\",lvl:1s},{id:\"inventorio:deep_pockets\",lvl:1s},{id:\"mcda:bag_of_souls\",lvl:1s},{id:\"enchancement:dash\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:24b,id:\"endium:endium_boots\",tag:{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:1s},{id:\"netherdepthsupgrade:hell_strider\",lvl:1s},{id:\"mcda:swiftfooted\",lvl:1s},{id:\"mcda:surprise_gift\",lvl:1s},{id:\"mcda:snowball\",lvl:1s},{id:\"mcda:frenzied\",lvl:1s},{id:\"mcda:deflect\",lvl:1s},{id:\"mcda:death_barter\",lvl:1s},{id:\"mcda:cowardice\",lvl:1s},{id:\"mcda:bag_of_souls\",lvl:1s},{id:\"grapplemod:slidingenchantment\",lvl:1s},{id:\"grapplemod:wallrunenchantment\",lvl:1s},{id:\"minecraft:depth_strider\",lvl:1s},{id:\"enchancement:bouncy\",lvl:1s},{id:\"fireworkfrenzy:jumper_specialist\",lvl:1s},{id:\"enchancement:gale\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s},{id:\"minecraft:soul_speed\",lvl:1s}]}},{Count:1b,Slot:25b,id:\"mythicupgrades:ruby_netherite_sword\",tag:{Damage:0,Enchantments:[{id:\"minecraft:knockback\",lvl:1s},{id:\"deeperdarker:sculk_smite\",lvl:1s},{id:\"minecraft:looting\",lvl:1s},{id:\"minecraft:sharpness\",lvl:1s},{id:\"enchancement:frostbite\",lvl:1s},{id:\"enchancement:berserk\",lvl:1s},{id:\"minecraft:sweeping\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}},{Count:1b,Slot:26b,id:\"mythicupgrades:ruby_netherite_axe\",tag:{Damage:0,Enchantments:[{id:\"minecraft:efficiency\",lvl:1s},{id:\"minecraft:silk_touch\",lvl:1s},{id:\"enchancement:beheading\",lvl:1s},{id:\"enchancement:lumberjack\",lvl:1s},{id:\"minecraft:sharpness\",lvl:1s},{id:\"yigd:soulbound\",lvl:1s}]}}],id:\"minecraft:shulker_box\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"botania:lexicon\",tag:{\"botania:elven_unlock\":1b},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:precision_mechanism\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:gearbox\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"create:wrench\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:podzol\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:mangrove_fence_gate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"botania:mana_mirror\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
+		"hiddenFavorites": [],
+		"displayHistory": [
+			"{DisplayHistoryCategory:\"create:sequenced_assembly\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"b8003920-7b90-4b79-8c9c-d52201733a58\"}",
+			"{DisplayHistoryCategory:\"create:sequenced_assembly\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"347c860d-8465-4b86-921c-abc5127eb006\"}",
+			"{DisplayHistoryCategory:\"create:spout_filling\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"c8a82140-6237-4e80-81f9-94d0c429e5ba\"}",
+			"{DisplayHistoryCategory:\"create:mixing\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"af073744-f07c-4005-8a32-c8e01f501dfd\"}",
+			"{DisplayHistoryCategory:\"minecraft:plugins/tag\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"87b901f1-3968-4e68-8924-29e080362a80\"}"
+		],
+		// Declares whether cheating mode is on.
+		"cheating": false,
+		"favoritesEnabled": true,
+		"keyBindings": {
+			"recipeKeybind": {
+				"keyCode": "key.keyboard.r",
+				"modifier": 0
+			},
+			"usageKeybind": {
+				"keyCode": "key.keyboard.u",
+				"modifier": 0
+			},
+			"hideKeybind": {
+				"keyCode": "key.keyboard.o",
+				"modifier": 2
+			},
+			"previousPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"nextPageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"focusSearchFieldKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"copyRecipeIdentifierKeybind": {
+				"keyCode": "key.mouse.middle",
+				"modifier": 0
+			},
+			"favoriteKeybind": {
+				"keyCode": "key.keyboard.a",
+				"modifier": 0
+			},
+			"exportImageKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			},
+			"previousScreenKeybind": {
+				"keyCode": "key.keyboard.unknown",
+				"modifier": 0
+			}
+		},
+		// Declares whether REI is visible.
+		"overlayVisible": true,
+		"cheatingStyle": "GRAB",
+		"motion": {
+			"favoritesAnimation": true
+		}
+	},
+	"advanced": {
+		"filtering": {
+			"shouldFilterDisplays": true,
+			"filteringRules": [
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}"
+			],
+			"filteringQuickCraftCategories": { },
+			"filteredStacks": []
+		},
+		"enableJeiCompatibilityLayer": true,
+		"tooltips": {
+			// Declares whether REI should append mod names to entries.
+			"appendModNames": true,
+			// Declares whether favorites tooltip should be displayed.
+			"displayFavoritesTooltip": false,
+			"displayIMEHints": true
+		},
+		"layout": {
+			// The ordering of the items on the entry panel.
+			"entryPanelOrdering": "REGISTRY_ASCENDING",
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPerPage": 8,
+			// Declares the maximum amount of recipes displayed in a page if possible.
+			"maxRecipesPageHeight": 300,
+			// Declares whether entry rendering time should be debugged.
+			"debugRenderTimeRequired": false,
+			// Merges displays with equal contents under 1 display.
+			"mergeDisplayUnderOne": true,
+			"favoriteAddWidgetMode": "ALWAYS_VISIBLE"
+		},
+		"accessibility": {
+			"entrySize": 1.0,
+			// Declares the position of the entry panel.
+			"displayPanelLocation": "RIGHT",
+			// Declares how the scrollbar in composite screen should act.
+			"compositeScrollBarPermanent": false,
+			"toastDisplayedOnCopyIdentifier": true,
+			// Declares whether REI should use compact tabs for categories.
+			"useCompactTabs": true,
+			// Declares whether REI should use compact tab buttons for categories.
+			"useCompactTabButtons": false
+		},
+		"search": {
+			// Declares whether search time should be debugged.
+			"debugSearchTimeRequired": false,
+			// Declares whether REI should search async.
+			"asyncSearch": true,
+			// Declares how many entries should be grouped one async search.
+			"asyncSearchPartitionSize": 100,
+			"patchAsyncThreadCrash": true,
+			"tooltipSearch": "ALWAYS",
+			"tagSearch": "PREFIX",
+			"identifierSearch": "ALWAYS",
+			"modSearch": "PREFIX"
+		},
+		"commands": {
+			// Declares the command used to change gamemode.
+			"gamemodeCommand": "/gamemode {gamemode}",
+			// Declares the command used in servers to cheat items.
+			"giveCommand": "/give {player_name} {item_identifier}{nbt} {count}",
+			// Declares the command used to change weather.
+			"weatherCommand": "/weather {weather}",
+			// Declares the command used to change time.
+			"timeCommand": "/time set {time}"
+		},
+		"miscellaneous": {
+			// Declares whether arrows in containers should be clickable.
+			"clickableRecipeArrows": true,
+			"registerRecipesInAnotherThread": true,
+			"newFastEntryRendering": true,
+			"cachingFastEntryRendering": false,
+			"cachingDisplayLookup": true
+		}
+	},
+	"config": {
+		"RS_keybind": {
+			"keyCode": "key.keyboard.i",
+			"modifier": 2
+		},
+		"RS_search": false,
+		"RS_indicator": {
+			"RS_trueSize": 1.2999999523162842,
+			"RS_falseSize": 0.699999988079071,
+			// Uses default REI search
+			"RS_background": false
+		}
+	},
+	"appearance": {
+		"recipeScreenType": "ORIGINAL",
+		// Declares the appearance of REI windows.
+		"theme": "DARK",
+		"layout": {
+			// Declares the position of the search field.
+			"searchFieldLocation": "CENTER",
+			// Declares the position of the config button.
+			"configButtonLocation": "LOWER",
+			// Declares whether the craftable filter button is enabled.
+			"showCraftableOnlyButton": true
+		},
+		// Declares the appearance of recipe's border.
+		"recipeBorder": "DEFAULT",
+		// Declares whether entry panel is scrolled.
+		"scrollingEntryListWidget": false,
+		"horizontalEntriesBoundaries": 1.0,
+		"verticalEntriesBoundaries": 1.0,
+		"horizontalEntriesBoundariesColumns": 50,
+		"verticalEntriesBoundariesRows": 1000,
+		"favoritesHorizontalEntriesBoundaries": 1.0,
+		"favoritesHorizontalEntriesBoundariesColumns": 50,
+		"syntaxHighlightingMode": "COLORFUL",
+		"isFocusModeZoomed": false
+	},
+	"functionality": {
+		"inputMethod": null,
+		// Declares whether REI should remove the recipe book.
+		"disableRecipeBook": false,
+		// Declares whether mob effects should be on the left side instead of the right side.
+		"leftSideMobEffects": true,
+		// Declares whether subsets is enabled.
+		"isSubsetsEnabled": false,
+		"allowInventoryHighlighting": true,
+		"itemCheatingMode": "REI_LIKE"
+	}
+}

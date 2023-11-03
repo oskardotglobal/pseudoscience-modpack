@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger"
+  ],
+  "incompatible": [
+    "minecraft:luck_of_the_sea",
+    "minecraft:looting",
+    "minecraft:fortune"
+  ]
+}

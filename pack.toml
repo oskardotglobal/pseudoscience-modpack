@@ -1,15 +1,15 @@
-name = "Pseudoscience Server Modpack"
+name = "Pseudoscience Modpack Iteration 0"
 author = "oskardotglobal, KhaosLatet"
-version = "1.0.0"
+version = "0.0.5"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "bbb1e183e490b8d13ec1526bfe47335c780b1b71bb4956d9a27b3dd17e84c2c3"
+hash = "081adcd9bb9fb95c5810d8292fdcdabdc669f0fa98760cc0325e3b20e933c5ec"
 
 [versions]
-fabric = "0.14.23"
+fabric = "0.14.24"
 minecraft = "1.19.2"
 
 [options]

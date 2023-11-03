@@ -1,0 +1,14 @@
+{
+  "blacklisted_items": [
+    "//Items here will be unusable completely",
+    "examplemod:example_item"
+  ],
+  "only_disable_interactions": [
+    "//Items here will not be able to be right-clicked (Interact)",
+    "examplemod:example_item"
+  ],
+  "only_disable_attacks": [
+    "//Items here will not be able to be used to attack",
+    "examplemod:example_item"
+  ]
+}

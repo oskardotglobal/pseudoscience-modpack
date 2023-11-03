@@ -1,0 +1,33 @@
+{
+	// The type of flight used by freecam.
+	"flightMode": "DEFAULT",
+	// The source of block/entity interactions.
+	"interactionMode": "CAMERA",
+	// The horizontal speed of freecam.
+	"horizontalSpeed": 1.0,
+	// The vertical speed of freecam.
+	"verticalSpeed": 1.0,
+	/* Whether you can travel through blocks in freecam.
+	   §cNOTE: Can only be used in singleplayer, creative, or with operator status.
+	*/
+	"noclip": false,
+	/* Prevents player movement while freecam is active.
+	   §cNOTE: Can only be used in singleplayer, creative, or with operator status.
+	*/
+	"freezePlayer": false,
+	/* Whether you can interact with blocks/entities in freecam.
+	   §cNOTE: Can only be used in singleplayer, creative, or with operator status.
+	   §c*Unless using interaction mode 'Player'
+	*/
+	"allowInteract": false,
+	// Disables freecam when damage is received.
+	"disableOnDamage": true,
+	// Shows your player in its original position.
+	"showPlayer": true,
+	// Whether you can see your hand in freecam.
+	"showHand": false,
+	// Notifies you when entering/exiting freecam.
+	"notifyFreecam": true,
+	// Notifies you when entering/exiting tripod cameras.
+	"notifyPersistent": true
+}

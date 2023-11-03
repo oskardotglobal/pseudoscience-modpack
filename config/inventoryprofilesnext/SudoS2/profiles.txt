@@ -1,0 +1,69 @@
+
+
+
+
+profile Saved activate HOT5
+	HOT9
+		"netherdepthsupgrade:fortress_grouper"
+	HEAD
+		"endium:endium_helmet" -> "Enchantments" : [{id:"enchancement:assimilation",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"enchancement:veil",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"minecraft:protection",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"enchancement:perception",lvl:1},{id:"minecraft:thorns",lvl:1},{id:"minecraft:respiration",lvl:1},{id:"yigd:death_sight",lvl:1}]
+	CHEST
+		"endium:endium_chestplate" -> "Enchantments" : [{id:"enchancement:wardenspine",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"enchancement:amphibious",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"mcda:surprise_gift",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"enchancement:strafe",lvl:1},{id:"minecraft:fire_protection",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:bag_of_souls",lvl:1}]
+	LEGS
+		"endium:endium_leggings" -> "Enchantments" : [{id:"yigd:soulbound",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"minecraft:protection",lvl:1},{id:"inventorio:deep_pockets",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"minecraft:swift_sneak",lvl:1},{id:"enchancement:dash",lvl:1},{id:"minecraft:thorns",lvl:1}]
+	FEET
+		"endium:endium_boots" -> "Enchantments" : [{id:"minecraft:thorns",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"mcda:surprise_gift",lvl:1},{id:"netherdepthsupgrade:hell_strider",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:swiftfooted",lvl:1},{id:"minecraft:soul_speed",lvl:1},{id:"grapplemod:slidingenchantment",lvl:1},{id:"fireworkfrenzy:jumper_specialist",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"minecraft:depth_strider",lvl:1},{id:"grapplemod:wallrunenchantment",lvl:1},{id:"minecraft:protection",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"mcda:snowball",lvl:1},{id:"enchancement:gale",lvl:1},{id:"mcda:cowardice",lvl:1}]
+
+profile Saved activate HOT6
+	HOT1
+		"impaled:elder_trident" -> "Enchantments" : [{id:"enchancement:leech",lvl:1},{id:"minecraft:impaling",lvl:1},{id:"minecraft:channeling",lvl:1},{id:"yigd:soulbound",lvl:1}]
+	HOT2
+		"minecraft:magenta_dye"
+	HOT5
+		"minecraft:crafting_table"
+	HOT8
+		"minecraft:firework_rocket"
+	HOT9
+		"netherdepthsupgrade:fortress_grouper"
+	HEAD
+		"endium:endium_helmet" -> "Enchantments" : [{id:"enchancement:assimilation",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"enchancement:veil",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"minecraft:protection",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"enchancement:perception",lvl:1},{id:"minecraft:thorns",lvl:1},{id:"minecraft:respiration",lvl:1},{id:"yigd:death_sight",lvl:1}]
+	CHEST
+		"endium:endium_chestplate" -> "Enchantments" : [{id:"enchancement:wardenspine",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"enchancement:amphibious",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"mcda:surprise_gift",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"enchancement:strafe",lvl:1},{id:"minecraft:fire_protection",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:bag_of_souls",lvl:1}]
+	LEGS
+		"endium:endium_leggings" -> "Enchantments" : [{id:"yigd:soulbound",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"minecraft:protection",lvl:1},{id:"inventorio:deep_pockets",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"minecraft:swift_sneak",lvl:1},{id:"enchancement:dash",lvl:1},{id:"minecraft:thorns",lvl:1}]
+	FEET
+		"endium:endium_boots" -> "Enchantments" : [{id:"minecraft:thorns",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"mcda:surprise_gift",lvl:1},{id:"netherdepthsupgrade:hell_strider",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:swiftfooted",lvl:1},{id:"minecraft:soul_speed",lvl:1},{id:"grapplemod:slidingenchantment",lvl:1},{id:"fireworkfrenzy:jumper_specialist",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"minecraft:depth_strider",lvl:1},{id:"grapplemod:wallrunenchantment",lvl:1},{id:"minecraft:protection",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"mcda:snowball",lvl:1},{id:"enchancement:gale",lvl:1},{id:"mcda:cowardice",lvl:1}]
+
+profile Saved activate HOT5
+	HOT1
+		"pickyourpoison:batrachotoxin_poison_dart"
+	HOT2
+		"pickyourpoison:torpor_poison_dart"
+	HOT3
+		"pickyourpoison:numbness_poison_dart"
+	HOT4
+		"pickyourpoison:vulnerability_poison_dart"
+	HOT5
+		"endium:endium_helmet"
+	HOT7
+		"endium:endium_chestplate"
+	HOT8
+		"endium:endium_leggings"
+	HOT9
+		"endium:endium_boots"
+	HEAD
+		"endium:endium_helmet" -> "Enchantments" : [{id:"enchancement:assimilation",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"enchancement:veil",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"minecraft:protection",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"enchancement:perception",lvl:1},{id:"minecraft:thorns",lvl:1},{id:"minecraft:respiration",lvl:1},{id:"yigd:death_sight",lvl:1}]
+	CHEST
+		"endium:endium_chestplate" -> "Enchantments" : [{id:"enchancement:wardenspine",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"enchancement:amphibious",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"mcda:surprise_gift",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"enchancement:strafe",lvl:1},{id:"minecraft:fire_protection",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:bag_of_souls",lvl:1}]
+	LEGS
+		"endium:endium_leggings" -> "Enchantments" : [{id:"yigd:soulbound",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:snowball",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"minecraft:protection",lvl:1},{id:"inventorio:deep_pockets",lvl:1},{id:"mcda:cowardice",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"minecraft:swift_sneak",lvl:1},{id:"enchancement:dash",lvl:1},{id:"minecraft:thorns",lvl:1}]
+	FEET
+		"endium:endium_boots" -> "Enchantments" : [{id:"minecraft:thorns",lvl:1},{id:"mcda:bag_of_souls",lvl:1},{id:"mcda:surprise_gift",lvl:1},{id:"netherdepthsupgrade:hell_strider",lvl:1},{id:"mcda:deflect",lvl:1},{id:"mcda:swiftfooted",lvl:1},{id:"minecraft:soul_speed",lvl:1},{id:"grapplemod:slidingenchantment",lvl:1},{id:"fireworkfrenzy:jumper_specialist",lvl:1},{id:"yigd:soulbound",lvl:1},{id:"minecraft:depth_strider",lvl:1},{id:"grapplemod:wallrunenchantment",lvl:1},{id:"minecraft:protection",lvl:1},{id:"mcda:death_barter",lvl:1},{id:"mcda:frenzied",lvl:1},{id:"mcda:snowball",lvl:1},{id:"enchancement:gale",lvl:1},{id:"mcda:cowardice",lvl:1}]
+
+profile Saved activate HOT4
+	HOT1
+		"minecraft:shulker_box"
+
+profile Saved activate HOT8
+	
+
