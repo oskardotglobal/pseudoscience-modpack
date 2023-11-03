@@ -6,3 +6,4 @@ docker-compose.yml
 LICENSE
 README.md
 .gitmodules
+.github

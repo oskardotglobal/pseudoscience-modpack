@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "MultiMC/.minecraft/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "MultiMC/.minecraft/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "MultiMC/instance.cfg"
-hash = "fe957350c1af538a4e4ac573f9528b8d284f23f6636f90a1eda61d531f93b77e"
-
-[[files]]
-file = "MultiMC/mmc-pack.json"
-hash = "3e756d8c40f4cfa4994a4417f14aff8d3b2d126f5b34360a93480808a9a7caae"
-
-[[files]]
 file = "config/C3H6N6O6.setting"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
