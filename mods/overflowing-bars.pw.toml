@@ -1,0 +1,13 @@
+name = "Overflowing Bars"
+filename = "OverflowingBars-v4.0.1-1.19.2-Fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XD7XOrAF/versions/bIhOx8WK/OverflowingBars-v4.0.1-1.19.2-Fabric.jar"
+hash-format = "sha1"
+hash = "5fe9e3157292749020439d11a5ac98976f5c7da6"
+
+[update]
+[update.modrinth]
+mod-id = "XD7XOrAF"
+version = "bIhOx8WK"

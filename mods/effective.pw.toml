@@ -1,0 +1,13 @@
+name = "Effective"
+filename = "effective-1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d59df028b38ceec82a079f1d3747b4ec08868aa5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4036489
+project-id = 556381
