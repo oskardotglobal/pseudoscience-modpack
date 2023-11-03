@@ -1556,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
+hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
 metafile = true
 
 [[files]]
@@ -1807,11 +1807,6 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "f1128e7959731059900093f9f2835dbac03d2e888533bff4eef44588f8c93ca5"
-metafile = true
-
-[[files]]
-file = "mods/optigui.pw.toml"
-hash = "eb2ae41a228b73aaa1e02849c7d77e06d052c27da03b6282616656c818bb6167"
 metafile = true
 
 [[files]]
