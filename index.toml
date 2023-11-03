@@ -242,7 +242,7 @@ hash = "b2a67ba0133250f9c0912d7cef9530ef25c14572d7185e62c8362d4930014cbc"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "7b8bed8c98f08ae3211cedfc5f4d9a56dc2811fc4fc915a462ece9ba4a2327f8"
+hash = "8cb0f21894b72f4c9bb27e232b11ceece968003da09c43d9fb38a46cadbcbad5"
 
 [[files]]
 file = "config/enchant_giver/config.json"
@@ -1665,6 +1665,16 @@ hash = "8b7d66d060cd640af8df7bac02529d4d0773c24d3a83399219942df1c41f44c5"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "41a55e304b9f9ce700598c76d71152d188b32c905a2506cb830d7351c5e1855e"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "39552eb1e891bd82ea7459448a04250224b605a5f4edfdf3be2fe5eb6bc5ef16"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
@@ -1891,12 +1901,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "d6696013c9c6bafa947b8e998124080bb41c97fe89d1c91098ca1dbec3350e37"
+hash = "91c99fd3ec921bb95c48092123f9881c88900bb0b5ae0278af8c230b75f3cd2a"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "7f67f250f1ac5f71b62d9682db7e99fc1652271ad574dce12a295ab148cc8e2c"
+hash = "e6689a3e859ca1b1325d0d45807b058b0d184c08894c6250a4ce13d486a018e5"
 metafile = true
 
 [[files]]
