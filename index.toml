@@ -1326,7 +1326,7 @@ metafile = true
 
 [[files]]
 file = "mods/charter.pw.toml"
-hash = "3c573c7f27d174d9e1cbe8db3ed8090866328ae7a2e690d67a46ffa7b3d51498"
+hash = "b4504a688a1389ceac8bcce6cb892f72af392acb5a203e76cf5b547d9682ef2b"
 metafile = true
 
 [[files]]
