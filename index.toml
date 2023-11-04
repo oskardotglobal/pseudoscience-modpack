@@ -1599,11 +1599,6 @@ hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
 
 [[files]]
-file = "mods/goml.pw.toml"
-hash = "cbe51a31751f9f8a7c460ba2f1e108d3b758bd687e31a94aaacf8240620c26b5"
-metafile = true
-
-[[files]]
 file = "mods/heartstone.pw.toml"
 hash = "03aa525998063d2652c7fc1343e90a15a4e5f3b44ae483ca64d8c26038567ea4"
 metafile = true
@@ -1806,6 +1801,16 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "f1128e7959731059900093f9f2835dbac03d2e888533bff4eef44588f8c93ca5"
+metafile = true
+
+[[files]]
+file = "mods/opac-fabric-create-support.pw.toml"
+hash = "5f9113ba8565bb1bbfc6534dbb3e0dcc767b721d534dd1a0f210f9ae16fb5d40"
+metafile = true
+
+[[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "34ed651d4994a6759422f60e26521e0980a3393e3f636f10ddb7ce7e35c600f1"
 metafile = true
 
 [[files]]
@@ -2036,6 +2041,16 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "22ca59122823ab00f6d5f4d219cd290ed093b1a56569225a2904502aeb70d84a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5e215ef1c7078e578d29d12803cd40d56f29e54d17374635148ec9eb5fb2b060"
 metafile = true
 
 [[files]]
