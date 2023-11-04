@@ -1524,11 +1524,6 @@ hash = "03172fc7c193dcaadece7dd864ddd969fc6af0525c2ea972f61f09b8e00976ae"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "dac6798159d0de80dd9458dd4228ce3a31de7e8811d8f4fe9f2af9f7ef7723fd"
-metafile = true
-
-[[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "de90c0337f807337dc368ef5fdaea0f0f84bf02a4b2ad546e7e5d160f6fce047"
 metafile = true
@@ -1736,11 +1731,6 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "7954a23991b5e75ec6045726e6aa15f0fb5502c47a394661944e862c7a5ee22e"
-metafile = true
-
-[[files]]
-file = "mods/midnightcontrols.pw.toml"
-hash = "4889bba6ce49d2c4c5c7bb0e61cdb6e554311a33d185dfce292d8c4308d295ea"
 metafile = true
 
 [[files]]
@@ -2086,11 +2076,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "455bd61468b04ec66000901d5c112a97dabd3343f9e6d96ad3c148726e7c5bf8"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "fb2d59112294b5fa973c5726c1ac7d804e51a8837cb74badae970aea5ed7dce1"
 metafile = true
 
 [[files]]
