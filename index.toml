@@ -1325,11 +1325,6 @@ hash = "edb1e6e0060167c36ad4fb70eefb8fd601b299260b3db5a2d60d96c3a03f9acb"
 metafile = true
 
 [[files]]
-file = "mods/charter.pw.toml"
-hash = "b4504a688a1389ceac8bcce6cb892f72af392acb5a203e76cf5b547d9682ef2b"
-metafile = true
-
-[[files]]
 file = "mods/cinderscapes.pw.toml"
 hash = "9b995af454d8e7458cb2862c25f2e8c75f623aacaad97a6e810d3b9d12024394"
 metafile = true
@@ -1602,6 +1597,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+metafile = true
+
+[[files]]
+file = "mods/goml-reserved.pw.toml"
+hash = "33d1d93211c1d46f59b658c8873b92cd80ca5eba595b25a73f79ed71b1665fa8"
 metafile = true
 
 [[files]]

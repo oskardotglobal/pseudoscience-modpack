@@ -1,7 +1,0 @@
-name = "charter"
-filename = "charter-0.3.0.jar"
-
-[download]
-url = "https://github.com/oskardotglobal/pseudoscience-modpack/raw/main/include/charter-0.3.0.jar"
-hash-format = "sha256"
-hash = "86c19a30adb06c66b3b6ff9a3fa5cdb77d4ab93a2d01476da6bef1ec9cffa946"

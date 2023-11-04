@@ -1,0 +1,31 @@
+{
+  "makeshiftRadius": 10,                
+  "reinforcedRadius": 25,               
+  "glisteningRadius": 50,               
+  "crystalRadius": 75,                  
+  "emeradicRadius": 125,                
+  "witheredRadius": 200,
+  "claimProtectsFullWorldHeight": true,
+  "dimensionBlacklist": [],
+  "regionBlacklist": {},
+  "enabledAugments": { 
+    "goml:lake_spirit_grace": false,
+    "goml:angelic_aura": false,
+    "goml:greeter": false,
+    "goml:force_field": false,
+    "goml:village_core": false,
+    "goml:withering_seal": false,
+    "goml:ender_binding": false,
+    "goml:heaven_wings": false,
+    "goml:chaos_zone": false
+  },
+  "allowedBlockInteraction": [],
+  "allowedEntityInteraction": [],
+  "messagePrefix": "<dark_gray>[<#a1ff59>GOML</color>]",
+  "placeholderNoClaimInfo": "<gray><italic>Wilderness",
+  "placeholderNoClaimOwners": "<gray><italic>Nobody",
+  "placeholderNoClaimTrusted": "<gray><italic>Nobody",
+  "placeholderClaimCanBuildInfo": "${owners} <gray>(<green>${anchor}</green>)",
+  "placeholderClaimCantBuildInfo": "${owners} <gray>(<red>${anchor}</red>)"
+}
+
