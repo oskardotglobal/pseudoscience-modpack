@@ -1346,7 +1346,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "693aa4f50783e6feb9c88b52bac6a67b5c26084733111572cd95952a3e7fa48e"
+hash = "5ac0bac6d3f0219afb83d3c22558cb14f241ae7022a69a9574a01e5ed240b6ee"
 metafile = true
 
 [[files]]
@@ -1441,7 +1441,7 @@ metafile = true
 
 [[files]]
 file = "mods/deeperdarker.pw.toml"
-hash = "405d8095b3c28540def5f7faed79cc132da881442ee94f501168171ccb4a3332"
+hash = "0715cc5f980cea935b351f7929cd40710d021d4f2cae74780be4f7882886d24d"
 metafile = true
 
 [[files]]
@@ -1486,7 +1486,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity_texture_features.pw.toml"
-hash = "a96ddf73a74018c349ecb38c86c828fa65da0a503dd5707f225b4fdd41a735e4"
+hash = "9360c74ce809ef1688497d468486385f138bc2829e6262ca5fb89a4644c62856"
 metafile = true
 
 [[files]]
