@@ -1,0 +1,7 @@
+name = "goml"
+filename = "goml-1.6.4-custom+1.19.2.jar"
+
+[download]
+url = "https://github.com/oskardotglobal/pseudoscience-modpack/raw/main/include/goml-1.6.4-custom+1.19.2.jar"
+hash-format = "sha256"
+hash = "be5aad58784a87584c20efabb0539e991f84c1ce0c5fb00917057522070834cd"

@@ -333,6 +333,10 @@ file = "config/fwaystones/config.json5"
 hash = "5d1b4500279323b37ce215a30d08ef2bb1bd8e00292ce5d2eca6cc919cf6ed17"
 
 [[files]]
+file = "config/getoffmylawn.json"
+hash = "d949fabe1838d61caa1e48c1d9a44771271378daac30d1d6178fd58213d0588b"
+
+[[files]]
 file = "config/gottagofast.json"
 hash = "df658c6b0362509d84b6b27e92e93be122a8a0856a83b323b12c21882e6dde3d"
 
@@ -350,7 +354,7 @@ hash = "2dd58424d2ba937c9b17c36eceff29a26a06f14f8d41bd4a5e25aba288e46b2e"
 
 [[files]]
 file = "config/inventorio.json"
-hash = "ac8205904a6bc9c6134fb846ca8ed1aea5ee88f136cf7aac2eababa7e3c412b5"
+hash = "be9ef4daa2b56889a31582d25b41cc90b76a06da17894573f09c0a3f02300876"
 
 [[files]]
 file = "config/inventorio_shared.json"
@@ -1600,8 +1604,8 @@ hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
 
 [[files]]
-file = "mods/goml-reserved.pw.toml"
-hash = "33d1d93211c1d46f59b658c8873b92cd80ca5eba595b25a73f79ed71b1665fa8"
+file = "mods/goml.pw.toml"
+hash = "cbe51a31751f9f8a7c460ba2f1e108d3b758bd687e31a94aaacf8240620c26b5"
 metafile = true
 
 [[files]]
