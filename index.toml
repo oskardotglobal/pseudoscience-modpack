@@ -1589,11 +1589,6 @@ hash = "42bb289a615bfb1d712690defc833812517e0be5c290af68cd344c2e19a37d53"
 metafile = true
 
 [[files]]
-file = "mods/fsb-interop.pw.toml"
-hash = "37f8395ee7d635ef4f01c92d51f707287da6cf886c7a71c43ad0ec4d4f54dea9"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
 metafile = true
