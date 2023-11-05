@@ -1564,11 +1564,6 @@ hash = "956d39f0b93aa2f92c9b5521387cc16438fafc035a9601a9d55494ae92ed8c0f"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a38a1991d430fcc5c8e78121b3423e2998041e20dc3fa2e4e574da57f3545f8c"
-metafile = true
-
-[[files]]
 file = "mods/firework-frenzy.pw.toml"
 hash = "c3525aee3ddecf43d88d396581e61a60b40ca5016b27d965d77b913d11b7161b"
 metafile = true
