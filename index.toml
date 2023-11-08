@@ -242,7 +242,7 @@ hash = "b2a67ba0133250f9c0912d7cef9530ef25c14572d7185e62c8362d4930014cbc"
 
 [[files]]
 file = "config/enchancement.json"
-hash = "8cb0f21894b72f4c9bb27e232b11ceece968003da09c43d9fb38a46cadbcbad5"
+hash = "d1799764c8abaff00a13e048d22b320bfcb7c7783e25cf50a197866ebcbda2b7"
 
 [[files]]
 file = "config/enchant_giver/config.json"
