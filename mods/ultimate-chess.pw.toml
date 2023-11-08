@@ -1,0 +1,13 @@
+name = "Ultimate Chess"
+filename = "chessmod-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CXKUu3x4/versions/jEhwMSJS/chessmod-1.1.2.jar"
+hash-format = "sha1"
+hash = "350d1b1eb2e54b8c4faba10873be1fbaeeb004d9"
+
+[update]
+[update.modrinth]
+mod-id = "CXKUu3x4"
+version = "jEhwMSJS"

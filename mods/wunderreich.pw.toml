@@ -1,0 +1,13 @@
+name = "Wunderreich"
+filename = "wunderreich-3.0.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P6czZwFh/versions/3h0GUzCI/wunderreich-3.0.18.jar"
+hash-format = "sha1"
+hash = "ac55b530781dd56bd888e7ecb2897ba73e5d535d"
+
+[update]
+[update.modrinth]
+mod-id = "P6czZwFh"
+version = "3h0GUzCI"

@@ -1,0 +1,13 @@
+name = "Additional Lanterns"
+filename = "additionallanterns-1.1.1-fabric-mc1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jXNvTKds/versions/yadwqSKK/additionallanterns-1.1.1-fabric-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "42429187ffd2049d10e3729e405ad863952c67ea"
+
+[update]
+[update.modrinth]
+mod-id = "jXNvTKds"
+version = "yadwqSKK"

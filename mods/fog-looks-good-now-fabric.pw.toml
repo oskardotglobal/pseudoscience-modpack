@@ -1,0 +1,13 @@
+name = "Fog Looks Good Now [Fabric]"
+filename = "FogLooksGoodNow-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/WuGVWUF2/versions/buO8cPKe/FogLooksGoodNow-1.1.2.jar"
+hash-format = "sha1"
+hash = "a07f59e7f1df13dedb4aa6777a58be2229804628"
+
+[update]
+[update.modrinth]
+mod-id = "WuGVWUF2"
+version = "buO8cPKe"

@@ -1189,6 +1189,11 @@ file = "config/yosbr/options.txt"
 hash = "fa32fb5f03af862a301c06b71a70f03e5c8f8579acf28f883604a93ff19fef30"
 
 [[files]]
+file = "mods/additional-lanterns.pw.toml"
+hash = "3566eef157ce7bf7ffef1fb1dd62a33153027cacf57b399070b8c39430882ea4"
+metafile = true
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "03586e60a57ea47f8c0f67e6ae8e74c411a1e3787979f593530e9c8cb9f2a2ca"
 metafile = true
@@ -1414,11 +1419,6 @@ hash = "87034149b9a8a520543ac8483499777c4df90a4182478b87f8f00341ce345eb9"
 metafile = true
 
 [[files]]
-file = "mods/createfoundry.pw.toml"
-hash = "420ada847251f713b448be63cc98b17db838e1ea91724702598c42a9b285bb09"
-metafile = true
-
-[[files]]
 file = "mods/cull-less-leaves.pw.toml"
 hash = "c7eccad65192d2a53d94454f187551b10cf8f6b07e17b48f4850cb31efe3a1c6"
 metafile = true
@@ -1446,6 +1446,11 @@ metafile = true
 [[files]]
 file = "mods/delightful-creators-fabric.pw.toml"
 hash = "8a62c6eff516c9c85195cf84a166b0087b71be3b64fa7dbd6e669e51c54b89b8"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "42dc7e4be5b69e41283c072e4065995081c1203d416ca168e2deee3f2ef3fa9e"
 metafile = true
 
 [[files]]
@@ -1579,6 +1584,11 @@ hash = "a786cc215debb45a8c755393b9fc0ae3e437a641afe56b2e677d994382aeddfe"
 metafile = true
 
 [[files]]
+file = "mods/fog-looks-good-now-fabric.pw.toml"
+hash = "da1a3b53837fadb725f6600ea0d8af58e186760382904b688bbc7ba2eaa008d2"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "3a68d8f694877589b9d29bd7b44b590a123007f28142d0deed1ba34c9b90b51c"
 metafile = true
@@ -1591,6 +1601,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "febe79b541e162e6789eedbe66a4ecf00fe66d9838f23c3bc3d3c1683704f910"
+metafile = true
+
+[[files]]
+file = "mods/haunted-harvest.pw.toml"
+hash = "657500d339d9d617f6fd9fc0af2c37127a0be38c4b660f904c02f49c4547be6a"
 metafile = true
 
 [[files]]
@@ -1894,6 +1909,11 @@ hash = "aa1fc71319074fbcdf0356c4d82209f1a4706d9416960b4cb3b3e18a8b70152f"
 metafile = true
 
 [[files]]
+file = "mods/rottencreatures.pw.toml"
+hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-loot-tables.pw.toml"
 hash = "91c99fd3ec921bb95c48092123f9881c88900bb0b5ae0278af8c230b75f3cd2a"
 metafile = true
@@ -1964,6 +1984,11 @@ hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
+file = "mods/spellbound.pw.toml"
+hash = "15f3e47b482ca2bae94b0817fec2ddd85e8e7a69cbcbe677079d88cea55b56b5"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7c42bb0fe982cf5004bfcb62690e9b433890ebd76ea94611fd91c68b00f386fe"
 metafile = true
@@ -1979,6 +2004,11 @@ hash = "7950578bd59e5693a4519f5beaee81be2a934d41df3789c8dccfe6f7796141ef"
 metafile = true
 
 [[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "7801a82f08420b8feba86caf69dd770fbefb4d29fd218b78543c3d196468333f"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "7abc412903f61a1768dd4fba8106bf8ee30834f74adc3f7e94ca98400c5d1733"
 metafile = true
@@ -1986,6 +2016,11 @@ metafile = true
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
 hash = "f4899afec6500b2a8e3f061abbb6bc34287f3f6992b9e24ba4706d4dad825cc4"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "aca72bb930f282a424763ae45f941f1c0ff17810c9ac4ed59bdd29b903657927"
 metafile = true
 
 [[files]]
@@ -1999,11 +2034,6 @@ hash = "115708f32db501f577bd48fce5b56cd0b4114edbfd2e38bbe4e03466a31220db"
 metafile = true
 
 [[files]]
-file = "mods/things-fabric.pw.toml"
-hash = "deff7fd65d51e5dce332b0cce4c55f8fe6c072f6d9167787a2d36b67832d1fb2"
-metafile = true
-
-[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "b6d4b85f76ab7c63f30c6c2f12f3188c34b7e3977c092cc7062b2902319e3ed2"
 metafile = true
@@ -2011,6 +2041,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+metafile = true
+
+[[files]]
+file = "mods/ultimate-chess.pw.toml"
+hash = "e72d56959dfd55279add78508f8261cc434dedd657a52afbb0586e7c3bb06036"
 metafile = true
 
 [[files]]
@@ -2036,6 +2071,11 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "9e86144c0543f6bcfa735d71451e93d3b101c94bd7956079c080e9e2a4f90f60"
+metafile = true
+
+[[files]]
+file = "mods/wunderreich.pw.toml"
+hash = "c2b25d1c11e757a2d36fe1c78184163ddf5cac0b8bafb0f20db44046a35c142e"
 metafile = true
 
 [[files]]
