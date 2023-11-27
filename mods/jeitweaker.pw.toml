@@ -1,0 +1,13 @@
+name = "JEITweaker"
+filename = "JeiTweaker-fabric-1.19.2-4.0.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ba05da74a1d6687de78842d89d7259ad0fa6c510"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4781702
+project-id = 368718
