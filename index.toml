@@ -1979,11 +1979,6 @@ hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
-file = "mods/spellbound.pw.toml"
-hash = "15f3e47b482ca2bae94b0817fec2ddd85e8e7a69cbcbe677079d88cea55b56b5"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "7c42bb0fe982cf5004bfcb62690e9b433890ebd76ea94611fd91c68b00f386fe"
 metafile = true
