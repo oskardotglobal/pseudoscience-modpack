@@ -1,0 +1,13 @@
+name = " Unsuspicious Stew"
+filename = "Unsuspicious Stew 0.2 (1.19.2).jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DXGYpkZr/versions/iSn5sIDp/Unsuspicious%20Stew%200.2%20%281.19.2%29.jar"
+hash-format = "sha1"
+hash = "f50e3dcd59da713b851e94147a6d87683a8e79ab"
+
+[update]
+[update.modrinth]
+mod-id = "DXGYpkZr"
+version = "iSn5sIDp"
