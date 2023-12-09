@@ -1399,6 +1399,11 @@ hash = "2e30808f998481e8e17b995fcd74394e0a7aaace16be55a0292f3f80157df578"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "9cb47609466c82102cf7d365bc6cd8c9a745cb97cce75842f745cd0a2e7544ed"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "c9bf52162f2cecfee5de65defec2dced5b1c32f28174b0dd5127143c3e7131ea"
 metafile = true
@@ -1584,6 +1589,11 @@ hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "77e374467d6b7c78361abecf31f3fa6b32867c9f8598e7bf3bea5725b78e3aa2"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
@@ -1654,6 +1664,11 @@ hash = "eb586c82b82374cbae08d6cbb80a947834020159b4d06256cce2095a832b5636"
 metafile = true
 
 [[files]]
+file = "mods/ingredient-extension-api.pw.toml"
+hash = "2b6969305cf06523684d31043844f1c8f147a875c899bfbc1097e60468f274d7"
+metafile = true
+
+[[files]]
 file = "mods/inventorio.pw.toml"
 hash = "a851be445f60ab23302c6e2543d846f35d5f0a4a9a1a1b626ebbf68eb4d3af6e"
 metafile = true
@@ -1696,6 +1711,31 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "39552eb1e891bd82ea7459448a04250224b605a5f4edfdf3be2fe5eb6bc5ef16"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "dd946cf9e07c71a533fda08f470b7973ff6c9dfd2aaecd087fd7528961cee49f"
+metafile = true
+
+[[files]]
+file = "mods/jeitweaker.pw.toml"
+hash = "1f60cfdfa034c5e86512e1c1df9da65c124f158cb10f02a7bcfc985ee9482a01"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-effect-descriptions-jeed.pw.toml"
+hash = "b7ff24cd1366c9c2daca2dcbf377a6419ac78cd0bcfab17ea82d9900731b137e"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "083d00bbaaa3bd277f1e829f13144398eae81d9cd0351dd54310477cff389005"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "4cf82498772f32b8957d940145ff1950832f9774b0865ac05edbf2ec300b8131"
 metafile = true
 
 [[files]]
@@ -1924,11 +1964,6 @@ hash = "c614bb6c4c3f2d8fe0793cdec37b4ce38f5b2e561606349243fbfb8c9a59dfb5"
 metafile = true
 
 [[files]]
-file = "mods/rei.pw.toml"
-hash = "68b62713383b52d67c1c726b2a8cad12a73eb30580764585fecfba172704b7a9"
-metafile = true
-
-[[files]]
 file = "mods/respite-creators-fabric.pw.toml"
 hash = "aa1fc71319074fbcdf0356c4d82209f1a4706d9416960b4cb3b3e18a8b70152f"
 metafile = true
@@ -1936,26 +1971,6 @@ metafile = true
 [[files]]
 file = "mods/rottencreatures.pw.toml"
 hash = "3695e7bbeed755d9f746f114dd5329e854b2ceecf39bab90844427a083c269ce"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-loot-tables.pw.toml"
-hash = "91c99fd3ec921bb95c48092123f9881c88900bb0b5ae0278af8c230b75f3cd2a"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "e6689a3e859ca1b1325d0d45807b058b0d184c08894c6250a4ce13d486a018e5"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-trades.pw.toml"
-hash = "253d24d518bf1c952361a25e91d1c80d0c30f83a47c8a94a05bdf8d51a6e97a9"
-metafile = true
-
-[[files]]
-file = "mods/roughly-searchable.pw.toml"
-hash = "c9f8c764916df95c23fa7fa09738078d275d31f435f9e7a19e2b4b07952f9b58"
 metafile = true
 
 [[files]]
