@@ -1225,7 +1225,7 @@ metafile = true
 
 [[files]]
 file = "mods/antiqueatlas.pw.toml"
-hash = "c9a625ec9a2f6b2696e90a57d69cd155fd83840ab9cb6f0b30a6935f158e9547"
+hash = "7653b63f1c1475950815936faccd6376f55f81ff57a1b64097e730a61f76fd14"
 metafile = true
 
 [[files]]
@@ -1610,7 +1610,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "0b40fc1d9e03c1b7515f7072ee7be73a7ea2db1da661f42437e0e293d71d761e"
+hash = "12a2355e64a184a2ee0ddd489c66768f869a76fb934d0122b06f5a2ba904c8af"
 metafile = true
 
 [[files]]
@@ -1985,7 +1985,7 @@ metafile = true
 
 [[files]]
 file = "mods/seleni.pw.toml"
-hash = "af16f2b3a48477cecbeee3998b05c6b3ed452dc57ad3004d29890911019a7313"
+hash = "fa35b6cab545bd2aa193a5631dd84924f3ba68045817efb525a09c3c065ddd11"
 metafile = true
 
 [[files]]

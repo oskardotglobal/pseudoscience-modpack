@@ -2,6 +2,6 @@ name = "antiqueatlas"
 filename = "antiqueatlas-8.0.0-fabric-mc1.19.2.jar"
 
 [download]
-url = "https://github.com/oskardotglobal/pseudoscience-modpack/raw/main/include/antiqueatlas-8.0.0-fabric-mc1.19.2.jar"
+url = "https://github.com/nyxmc/pseudoscience-modpack/raw/v0/include/antiqueatlas-8.0.0-fabric-mc1.19.2.jar"
 hash-format = "sha256"
 hash = "0066960806966c2019173058902b45387afd242654d1973f52bae8dbd92ffa6d"
