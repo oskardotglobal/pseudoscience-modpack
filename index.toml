@@ -211,6 +211,16 @@ hash = "92dcd587a66356d3e321fef7e9537383aa8046a523f3275fb67457cf3fc98b3f"
 metafile = true
 
 [[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "98cd4ec5c05f16d6440520cab6780d4fdc9d78b7a5f0d6e4146aa38cc88d3c5e"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "55f0f4a055003bd1945e35248bb71798de2b04963b6ad2d1b716a6f1953c29a7"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "bb326d03345b6d50bd5f854a8094ceebb9bd6d85328788db12e5694cf1117e1a"
 metafile = true
@@ -278,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
 hash = "dbc9e7501c32756e841cf54f5de62c35bfe5a87171e52fbf514b24685988efd7"
+metafile = true
+
+[[files]]
+file = "mods/held-item-tooltips.pw.toml"
+hash = "ab1b8e35eca9ed480255cafd24a9f7fd3b93c9974103bf539e0bb978ada26ec7"
 metafile = true
 
 [[files]]
@@ -426,6 +441,11 @@ hash = "a5862796543fa9c88755a666fafde5e36c10e3269469f787f6d9079a2161c652"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
+metafile = true
+
+[[files]]
 file = "mods/moyai.pw.toml"
 hash = "f02c0eeff2362b8fbb20a6f0d8ffc4cdbfc03900b2c345fc95bf42e0bb2c032a"
 metafile = true
@@ -488,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "07460c53ebbe8ea403b10b73d1abc79c6601c6c91c0549d23695065121698a2a"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "f8e2f77844dfd64dcb36b6b91215de38102e952065841a4f9155d2663f3b03b4"
 metafile = true
 
 [[files]]
