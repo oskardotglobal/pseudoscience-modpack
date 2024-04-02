@@ -1,0 +1,13 @@
+name = "Create: Power Loader"
+filename = "create_power_loader-1.4.0-mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wPQ6GgFE/versions/gYdBvixa/create_power_loader-1.4.0-mc1.20.1.jar"
+hash-format = "sha1"
+hash = "64d7c2bac7c5654dcc70b9a6c2e9c8de53059e38"
+
+[update]
+[update.modrinth]
+mod-id = "wPQ6GgFE"
+version = "gYdBvixa"

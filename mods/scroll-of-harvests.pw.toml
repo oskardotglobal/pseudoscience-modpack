@@ -1,13 +1,13 @@
-name = "Scroll of Harvests"
-filename = "harvests-1.19.2-2.2.0.jar"
+name = "Scroll of harvests"
+filename = "harvests-1.20.1-3.0.0.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/EWTTSGkj/versions/2ab4fyhf/harvests-1.20.1-3.0.0.jar"
 hash-format = "sha1"
-hash = "726e7bac50494ef686c7bfe7a65a7c757642a83a"
-mode = "metadata:curseforge"
+hash = "ae542ea80922fc681f700cf31f45f072856a9eb2"
 
 [update]
-[update.curseforge]
-file-id = 4379788
-project-id = 571339
+[update.modrinth]
+mod-id = "EWTTSGkj"
+version = "2ab4fyhf"

@@ -1,13 +1,13 @@
 name = "Yeetus Experimentus"
-filename = "yeetusexperimentus-1.0.1-build.2+mc1.19.1.jar"
+filename = "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HaaH232J/versions/YnVV0O6w/yeetusexperimentus-1.0.1-build.2%2Bmc1.19.1.jar"
+url = "https://cdn.modrinth.com/data/HaaH232J/versions/LgPc1FbC/YeetusExperimentus-Forge-2.3.0-build.4%2Bmc1.20.1.jar"
 hash-format = "sha1"
-hash = "18fb59ed7b6ff320b532e76e7f3607a70345dc02"
+hash = "d40beae393ec07da5faf925cea380e31a7f08d39"
 
 [update]
 [update.modrinth]
 mod-id = "HaaH232J"
-version = "YnVV0O6w"
+version = "LgPc1FbC"

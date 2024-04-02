@@ -1,0 +1,13 @@
+name = "Eyes in the Darkness"
+filename = "EyesInTheDarkness-1.20.1-1.3.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5e0998c09cac3200c488d84203fadab6f0120d94"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4722765
+project-id = 304719

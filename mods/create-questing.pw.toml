@@ -1,13 +1,13 @@
 name = "Create Questing"
-filename = "Create_Questing-FORGE-1.19.2-1.0.0.jar"
-side = "both"
+filename = "Create_Questing-FORGE-1.20.1-1.0.0.jar"
+side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jUlR3XZM/versions/QXBmxVDA/Create_Questing-FORGE-1.19.2-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/jUlR3XZM/versions/djVCzXFV/Create_Questing-FORGE-1.20.1-1.0.0.jar"
 hash-format = "sha1"
-hash = "023dfa4413f96020f543e7538646682c6ed214bb"
+hash = "5c7fae895d8de470b709c2332b4f82be3d712607"
 
 [update]
 [update.modrinth]
 mod-id = "jUlR3XZM"
-version = "QXBmxVDA"
+version = "djVCzXFV"

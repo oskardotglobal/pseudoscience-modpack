@@ -9,7 +9,7 @@
 	#Handles increase in difficulty regarding current difficulty.
 	#Format is <minimum current difficulty>-<increase every 2400 ticks>
 	#Example ["0-0.01","10-0.1","30-0"]
-	#-> So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
+	#So the difficulty increases by 0.01 every 2400 ticks (->0.1 per mc day since a mc day has 24000 ticks) till it reaches a difficulty of 10.
 	#Then it increases by 1 per mc day till it reaches 30 and then stops.
 	"Difficulty Increase" = ["0-0.01", "250-0"]
 	#Wether difficulty should only increase with at least one online players or not
@@ -29,21 +29,32 @@
 	#GLOBAL: Serverwide difficulty value
 	#PLAYERMAX: Maximum difficulty of players in a 256 radius around the position
 	#PLAYERMEAN: Average difficulty of players in a 256 radius around the position
-	#Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN
+	#DISTANCE: Uses the distance to the position defined in Center Position to define the difficulty
+	#DISTANCESPAWN: Uses the distance to the world spawn to define the difficulty
+	#If the type is any of the distance types the functionality of Difficulty Increase is changed to the following where the 1. value is the minimum distance and the 2. is the difficulty that applies. 
+	#E.g. ["0-0","1000-5"] translates to 0 difficulty between 0-1000 distance and 5 difficulty for distance >= 1000
+	#You can also define it as a triple x-y-z instead where z is the increase per block in for that area.
+	#E.g. ["0-0-0.1","1000-5-1"] the difficulty increases between 0-1000 by 0.1 per block and >= 1000 by 1 per block with a starting value of 5
+	#Allowed Values: GLOBAL, PLAYERMAX, PLAYERMEAN, DISTANCE, DISTANCESPAWN
 	"Difficulty type" = "PLAYERMAX"
+	#If true ignores mobs from spawners
+	"Ignore Spawner" = false
+	#Position used for DISTANCE difficulty type
+	"Center Position" = "0-0"
 
 #Black/Whitelist for various stuff
 [list]
 	#Entities added here will be blacklisted from their assigned flags. Usage:
-	#<entity registry name> or <namespace> followed by any of:
+	#<entity registry name> or <namespace> or <#tag> followed by any of:
 	#[ALL,ATTRIBUTES,ARMOR,HELDITEMS,BLOCKBREAK,USEITEM,LADDER,STEAL,GUARDIAN,PARROT,TARGETVILLAGER,NEUTRALAGGRO,REVERSE].
 	#Having no flags is equal to ALL. Use REVERSE to reverse all flags. Some flags do nothing for certain mobs!
 	#Examples (without <>):
 	#<minecraft:sheep> (equal to minecraft:sheep|ALL) excludes sheeps from all modifications
 	#<minecraft:sheep|REVERSE|ATTRIBUTES will> add sheep to attributes modification only
+	#<#minecraft:raiders|ATTRIBUTES> will add all entities in the raiders tag to everything except attributes
 	#<minecraft:sheep|ATTRIBUTES> will add sheep to everything except attributes
-	#<minecraft> blacklists all minecraft mobs from everything
-	"Entity Configs" = ["UNINITIALIZED"]
+	#<minecraft> disables everything for all minecraft mobs
+	"Entity Configs" = ["ars_nouveau:familiar_whirlisprig", "galosphere:specterpillar", "ars_nouveau:wixie", "netherdepthsupgrade:magmacubefish", "neapolitan:chimpanzee", "minecraft:glow_squid", "netherdepthsupgrade:glowdine", "netherdepthsupgrade:eyeball_fish", "minecraft:strider", "minecraft:trader_llama", "starbunclemania:starby_mount", "minecraft:parrot", "quark:crab", "ars_nouveau:familiar_wixie", "ars_nouveau:cascading_weald_walker", "ars_nouveau:vexing_weald_walker", "minecraft:horse", "ars_nouveau:drygmy", "minecraft:polar_bear", "endlessbiomes:shiftling", "minecraft:bat", "minecraft:wandering_trader", "ars_nouveau:summon_horse", "ars_nouveau:familiar_bookwyrm", "minecraft:llama", "minecraft:pig", "minecraft:frog", "minecraft:iron_golem", "minecraft:turtle", "netherdepthsupgrade:lava_pufferfish", "netherdepthsupgrade:blazefish", "minecraft:sheep", "whisperwoods:moth", "netherdepthsupgrade:searing_cod", "minecraft:tadpole", "minecraft:goat", "minecraft:dolphin", "whisperwoods:hidebehind", "dummmmmmy:target_dummy", "ars_nouveau:familiar_amethyst_golem", "railways:conductor", "endlessbiomes:anklor", "ars_nouveau:animated_block", "netherdepthsupgrade:bonefish", "ars_nouveau:animated_head", "minecraft:cod", "netherdepthsupgrade:wither_bonefish", "ars_nouveau:familiar_starbuncle", "galosphere:spectator_vision", "netherdepthsupgrade:soulsucker", "minecraft:donkey", "ars_nouveau:starbuncle", "minecraft:squid", "endlessbiomes:falling_frisbee", "minecraft:mule", "minecraft:skeleton_horse", "ars_nouveau:bookwyrm", "quark:stoneling", "minecraft:cow", "minecraft:zombie_horse", "ars_nouveau:dummy", "ars_nouveau:lily", "ars_nouveau:familiar_drygmy", "minecraft:bee", "ars_nouveau:whirlisprig", "quark:shiba", "minecraft:cat", "minecraft:pufferfish", "galosphere:sparkle", "ars_nouveau:amethyst_golem", "quark:toretoise", "ars_nouveau:gift_starby", "whisperwoods:wisp", "ars_nouveau:blazing_weald_walker", "minecraft:salmon", "minecraft:fox", "ars_nouveau:summon_wolf", "minecraft:allay", "galosphere:spectre", "minecraft:tropical_fish", "minecraft:snow_golem", "minecraft:mooshroom", "ars_nouveau:flourishing_weald_walker", "netherdepthsupgrade:obsidianfish", "netherdepthsupgrade:fortressgrouper", "minecraft:villager", "deeperdarker:sculk_snapper", "minecraft:ocelot", "minecraft:chicken", "rottencreatures:treasure_chest", "minecraft:wolf", "supplementaries:red_merchant", "minecraft:panda", "rottencreatures:hunter_wolf", "minecraft:rabbit", "minecraft:axolotl"]
 	#Any of the following 
 	#[ATTRIBUTES, ARMOR, HELDITEMS, BLOCKBREAK, USEITEM, LADDER, STEAL, GUARDIAN, PARROT, TARGETVILLAGER, NEUTRALAGGRO]
 	#added here will disable that feature completely.
@@ -57,8 +68,6 @@
 	"Held Equip Whitelist" = false
 	#Treat BLOCKBREAK flags as whitelist
 	"Breaker Whitelist" = false
-	#Treat USEITEM flags as whitelist
-	"Item Use Whitelist" = false
 	#Treat LADDER flags as whitelist
 	"Ladder Whitelist" = false
 	#Treat STEAL flags as whitelist
@@ -71,6 +80,8 @@
 	"Villager Whitelist" = false
 	#Treat NEUTRALAGGRO flags as whitelist
 	"Neutral Aggro Whitelist" = false
+	#Treat USEITEM flags as whitelist
+	"Use Flag Whitelist" = false
 
 #Settings for mod integration
 [integration]
@@ -80,11 +91,19 @@
 	"Use Player EX Mod" = true
 	#If true and LevelZ is installed will use the the total skill level from LevelZ as difficulty
 	"Use LevelZ Mod" = true
+	#Using pehkui to vary the size of mobs
+	"Use pehkui Mod" = true
+	#The Max scale of mobs. Range [1.0,10], default 2.0
+	#Range: 1.0 ~ 10.0
+	"Max size Multiplier" = 2.0
+	#The Minimum scale of mobs. Range (0,1.0), default 0.5
+	#Range: 0.0 ~ 1.0
+	"Minimum size Multiplier" = 0.5
 
 #Settings regarding custom ai for mobs
 [ai]
 	#Whitelist for blocks, which can be actively broken. 
-	#Usage: <registry name;classname;tag;namespace> put "!" infront to exclude blocks
+	#Usage: id|namespace|#tag. Put "!" infront to exclude blocks. E.g. "minecraft", "minecraft:dirt" or "#minecraft:planks"
 	#Note: If you include common blocks (like grass blocks) the pathfinding can have undesirable results.
 	"Block Break Whitelist" = ["forge:glass", "forge:glass_panes", "minecraft:fence_gates", "forge:fence_gates", "minecraft:wooden_doors"]
 	#Treat Block Whitelist as Blocklist
@@ -128,6 +147,12 @@
 	#Chance for mobs to be able to summon a flying mount
 	#Range: 0.0 ~ 1.0
 	"Phantom Chance" = 0.25
+	#Blocks will be restored after x ticks being broken. If set to 0 will never restore
+	#This will not restore block entity data!
+	#Range: > 0
+	"Restore delay" = 0
+	#List of blocks mobs shouldn't steal from. You can also add a modid to blacklist whole mods
+	"Steal Block Blacklist" = []
 
 #Configs regarding mobs spawning with equipment
 [equipment]
@@ -176,10 +201,14 @@
 	"Item Chance add" = 0.2
 	#Should mobs drop the armor equipped through this mod? Will not change drops if the mob obtained the armor through other means (e.g. vanilla)
 	"Should drop equipment" = false
+	#Blacklist enchantments from being applied to equipments
+	"Enchanting Blacklist" = []
+	#Turn the enchant blacklist to a whitelist
+	"Enchanting Whitelist" = false
 
 #Settings for attribute modifiers
 [attributes]
-	#Health will be multiplied by difficulty*0.016*x. Set to 0 to disable
+	#Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Health Increase Multiplier" = 1.0
 	#Health will be multiplied by at maximum this. Set to 0 means no limit
@@ -188,7 +217,7 @@
 	#Round health to the nearest x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Round HP" = 0.5
-	#Damage will be multiplied by difficulty*0.008*x. Set to 0 to disable
+	#Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Damage Increase Multiplier" = 1.0
 	#Damage will be multiplied by at maximum this. Set to 0 means no limit
@@ -212,10 +241,16 @@
 	#Maximum increase in magic resistance. Magic reduction is percentage
 	#Range: 0.0 ~ 1.0
 	"Max Magic Resistance" = 0.4
-	#Projectile Damage will be multiplied by 1+difficulty*0.008*x. Set to 0 to disable
+	#Projectile Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Projectile Damage Increase" = 1.0
 	#Projectile damage will be multiplied by maximum of this
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Max Projectile Damage" = 2.0
+	#Explosion Damage will be multiplied by 1 + difficulty*0.003*x. Set to 0 to disable
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Explosion Damage Increase" = 1.0
+	#Explosion damage will be multiplied by maximum of this
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Max Explosion Damage" = 1.75
 

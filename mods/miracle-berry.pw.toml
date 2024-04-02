@@ -1,0 +1,13 @@
+name = "Miracle Berry"
+filename = "miracle_berry_mod-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "af52e83fb5b93690d8c4d6dc217c059601ecdaac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5176805
+project-id = 843703

@@ -1,0 +1,13 @@
+name = "Off Hand Combat [Forge]"
+filename = "off-hand-combat-2.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "275f3cc8194f0fd804e973063ca442539f579e8f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5020562
+project-id = 417112

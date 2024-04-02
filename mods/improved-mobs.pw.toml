@@ -1,13 +1,13 @@
-name = "Improved Mobs (Forge)"
-filename = "improvedmobs-1.19-1.11.0-forge.jar"
-side = "both"
+name = "Improved Mobs"
+filename = "improvedmobs-1.20.1-1.12.2-forge.jar"
+side = "server"
 
 [download]
+url = "https://cdn.modrinth.com/data/23MovWyi/versions/RTLFrktb/improvedmobs-1.20.1-1.12.2-forge.jar"
 hash-format = "sha1"
-hash = "d371590c1460e8911917df9ae3d7497f17ef8cb7"
-mode = "metadata:curseforge"
+hash = "81b1b5768c6e63adf43e98f25063103aa14688b3"
 
 [update]
-[update.curseforge]
-file-id = 4278215
-project-id = 282639
+[update.modrinth]
+mod-id = "23MovWyi"
+version = "RTLFrktb"

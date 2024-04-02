@@ -1,0 +1,13 @@
+name = "William Wythers' Expanded Ecosphere"
+filename = "WWOO-FABRIC+FORGE+QUILT-3.2.0-beta2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/O1XGs7ps/versions/MGGk0kZU/WWOO-FABRIC%2BFORGE%2BQUILT-3.2.0-beta2.jar"
+hash-format = "sha1"
+hash = "05c31fb950ddd55306d40668ae15296b77201c71"
+
+[update]
+[update.modrinth]
+mod-id = "O1XGs7ps"
+version = "MGGk0kZU"

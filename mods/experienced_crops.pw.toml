@@ -1,0 +1,13 @@
+name = "Experienced Crops"
+filename = "experienced_crops-1.20.1-1.1.0-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Obi0OZ4c/versions/IYPAlitn/experienced_crops-1.20.1-1.1.0-forge.jar"
+hash-format = "sha1"
+hash = "90137ed6af2efcdbc06890aefbb5fb273393ca6b"
+
+[update]
+[update.modrinth]
+mod-id = "Obi0OZ4c"
+version = "IYPAlitn"

@@ -1,13 +1,13 @@
 name = "Difficult Spawners"
-filename = "Difficult Spawners 1.1.0 - 1.19.2.jar"
+filename = "Difficult Spawners 1.1.0 - 1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9d01e929f2a0c469e731ab65d2f58e03591e0333"
+hash = "f40c4a39f3639aa0f5b644d497b690ca7914999c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4562532
+file-id = 5160726
 project-id = 810915
