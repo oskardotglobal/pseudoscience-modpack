@@ -1,13 +1,13 @@
-name = "TenshiLib"
-filename = "tenshilib-1.20.1-1.7.5-forge.jar"
-side = "server"
+name = "TenshiLib (Forge)"
+filename = "tenshilib-1.19.2-1.6.15-forge.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/P2rffivS/versions/AmitT21Z/tenshilib-1.20.1-1.7.5-forge.jar"
 hash-format = "sha1"
-hash = "48a870b10634de1509e51465f6a3e561c86eeb2b"
+hash = "b46757c4d4eeabfc035beee9c4eba928e607bc72"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "P2rffivS"
-version = "AmitT21Z"
+[update.curseforge]
+file-id = 4396883
+project-id = 312040

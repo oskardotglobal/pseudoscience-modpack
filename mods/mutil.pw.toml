@@ -1,13 +1,13 @@
 name = "mutil"
-filename = "mutil-1.20.1-6.1.1.jar"
+filename = "mutil-1.19.2-5.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HWHl8Evb/versions/PI1cIWsh/mutil-1.20.1-6.1.1.jar"
 hash-format = "sha1"
-hash = "a5030682cbbb003aa487763e7476643e0793d840"
+hash = "b575fd494ee6161917aaea028aa23b9695312186"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "HWHl8Evb"
-version = "PI1cIWsh"
+[update.curseforge]
+file-id = 4941248
+project-id = 351914

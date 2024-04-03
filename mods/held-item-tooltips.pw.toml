@@ -1,13 +1,13 @@
 name = "Held Item Tooltips"
-filename = "HeldItemTooltips-v8.0.0-1.20.1-Forge.jar"
+filename = "HeldItemTooltips-v4.0.0-1.19.2-Forge.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3wWtgZGB/versions/KTwi0wP7/HeldItemTooltips-v8.0.0-1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/3wWtgZGB/versions/q3WY4GQl/HeldItemTooltips-v4.0.0-1.19.2-Forge.jar"
 hash-format = "sha1"
-hash = "a022976a33affa5a16e0d98b3f112a1276b407c9"
+hash = "78f8261afb90a2d1c9a43c8569b79bcb0ee13041"
 
 [update]
 [update.modrinth]
 mod-id = "3wWtgZGB"
-version = "KTwi0wP7"
+version = "q3WY4GQl"
