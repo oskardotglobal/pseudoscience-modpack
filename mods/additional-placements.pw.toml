@@ -1,13 +1,13 @@
 name = "Additional Placements"
-filename = "AdditionalPlacements-1.20-1.8.0.jar"
+filename = "AdditionalPlacements-1.19.2-1.7.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/f5TwOKkb/versions/HQ77A1bp/AdditionalPlacements-1.20-1.8.0.jar"
 hash-format = "sha1"
-hash = "6ccb8a1a21b6cd898600dac6133a2d3be90c119a"
+hash = "0fa7fec8d78018deb60475e2f2ba5ca866abba8c"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "f5TwOKkb"
-version = "HQ77A1bp"
+[update.curseforge]
+file-id = 4828013
+project-id = 674852

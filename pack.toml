@@ -1,14 +1,14 @@
 name = "Pseudoscience Modpack Iteration 1"
-author = "oskardotglobal, emorydeer2"
-version = "1.1.0"
+author = "oskardotglobal, khaoslatet"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "492fd8414f9e525f5b22275726679e42dd21d621f40ea8e3c40a36bae3223c9a"
+hash = "10453a98a0ea65874417ce39e92054416084cf5b3f6a9362ccd7e2796018da19"
 
 [versions]
-forge = "47.2.20"
-minecraft = "1.20.1"
+forge = "43.3.7"
+minecraft = "1.19.2"
 unsup = "0.2.0"
