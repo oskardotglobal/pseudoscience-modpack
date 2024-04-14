@@ -1007,6 +1007,11 @@ hash = "716b58e8b849a86e83a89b11d03fed7eb90b2d079584a93de27e4e2afa56ac8a"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "c8dad6abaa841e4283e2ab9b618c75b26e6b5cdb86c733ed1adbeac4835e6246"
+metafile = true
+
+[[files]]
 file = "mods/create-central-kitchen.pw.toml"
 hash = "2491a4f1b76a1aeee3578a530ec6c62449c0b585707dd98458cd84b450417e8c"
 metafile = true
@@ -1134,11 +1139,6 @@ metafile = true
 [[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1eece46dbaa953c27cb398180534bc71bffc0fc40bced2718aeaeb929a402647"
-metafile = true
-
-[[files]]
-file = "mods/expanded-ecosphere.pw.toml"
-hash = "b635e6c2e6976b14140c9ae1539ea06936def38f77565298a7df100eaf87f6ee"
 metafile = true
 
 [[files]]
@@ -1427,6 +1427,11 @@ hash = "24ff2fc07890c3fae3e080da2852b4120427393a237f810d58d5280247c40550"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "c5e06d475ce3ebc68d5a531c0b4bcf2d6368862fe9d6ab554f1d380865ff7789"
+metafile = true
+
+[[files]]
 file = "mods/ob-aquamirae.pw.toml"
 hash = "cc24ee332a95fcae64ccb5dd9905fc25b2f8a2ccab500add27f0ff05fc130abf"
 metafile = true
@@ -1637,11 +1642,6 @@ hash = "6e75d0188ca89dd041b0a8ada5d97c073df336da62bd0b8dc7aa90e32153ac12"
 metafile = true
 
 [[files]]
-file = "mods/unifiedoptions.pw.toml"
-hash = "34070092bcc47fcba943a6b3d09226ff9a0e54512fa91e3e34371a965c84ce8e"
-metafile = true
-
-[[files]]
 file = "mods/useful-spyglass.pw.toml"
 hash = "bd573c119ac9f7dfcf46b4cd20735debd4e4ab8becf51e69337ce45bbe4ab94b"
 metafile = true
@@ -1649,6 +1649,16 @@ metafile = true
 [[files]]
 file = "mods/visuality-forge.pw.toml"
 hash = "9a417c6fc118cbb0938c118853b7016d674bd07cb170215f1b0d21a1683d974e"
+metafile = true
+
+[[files]]
+file = "mods/weather-storms-tornadoes.pw.toml"
+hash = "fd57040aa76f9aa1ef678020b623c37c9a1ce0cced3d93fda9c9db6bfe94776c"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "178818392bbf7f759f5ac91784336cd89390d76d869264cf00226fdc744fc80b"
 metafile = true
 
 [[files]]
