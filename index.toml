@@ -1352,6 +1352,11 @@ hash = "e10bacddaa7815b0ec925be8e07405f5cc0ae170a2b17bc749928987f0a17f36"
 metafile = true
 
 [[files]]
+file = "mods/magic-origins.pw.toml"
+hash = "02b78f146b5c65a9aa58da500302a7e022734cb2f781e6c5cf078f376642aefc"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "5f774bed83562d6f96a83b182deaec8e980e751d13692465bcfa85db1a40d286"
 metafile = true
@@ -1519,6 +1524,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "6be79c8aeb5bddbe5957a1292a7977d8e03926c3126472edeaa906ef54f51b58"
+metafile = true
+
+[[files]]
+file = "mods/rpg-origins.pw.toml"
+hash = "a148d6f200161ca56d84a84ad59cbaf10fdab1f6cb5f42abe853409e0d7f83ba"
 metafile = true
 
 [[files]]

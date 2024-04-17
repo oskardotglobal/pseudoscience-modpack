@@ -1,0 +1,13 @@
+name = "Magic  Origins"
+filename = "magic_origins_1.4.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mattYXZw/versions/iRtOWbjY/magic_origins_1.4.0.1.jar"
+hash-format = "sha1"
+hash = "976d5a0173282dd34fb0ce452e1f194cf4587121"
+
+[update]
+[update.modrinth]
+mod-id = "mattYXZw"
+version = "iRtOWbjY"
