@@ -721,11 +721,6 @@ hash = "3553b15512a2e368b1d61be28ca92e6084999c00fcc21a07f6a282005739273c"
 metafile = true
 
 [[files]]
-file = "mods/placeable-goat-horns.pw.toml"
-hash = "3df123a2b09f2e339965199f57b36894021e8deca8297a38dab5dd487f1ea911"
-metafile = true
-
-[[files]]
 file = "mods/placebo.pw.toml"
 hash = "14eb87dea15b2484cda7bed648ed7382d8636e1e953a0e3f73f92c528c145934"
 metafile = true
