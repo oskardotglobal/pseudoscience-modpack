@@ -81,11 +81,6 @@ hash = "8341be7376192fe2cbffa3af36060ab8684adb2862efe478d697810cdd979e95"
 metafile = true
 
 [[files]]
-file = "mods/biome_particle_weather.pw.toml"
-hash = "3dab0c12ac33d048ea2051120d1feb7ec5a0f3819294f294c18810d22296c609"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "36cfe23c658f8819d1857769c59829f22f98bc594a65eb97f8df4bdd6c432ec5"
 metafile = true
