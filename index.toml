@@ -194,6 +194,11 @@ hash = "b4cc8e095b7f51683e7938042c97cae5a281fa353a4fb421a8182b39de08825f"
 metafile = true
 
 [[files]]
+file = "mods/ars-instrumentum.pw.toml"
+hash = "a21b070c85af000dd4385876cfda648205de70079f7c9bd8bd2b66e4b4b1d83c"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "7ae86f78307485e26ba7c762c19f720c42baa617a5a91bb29f63fd2d318f2113"
 metafile = true
