@@ -1,4 +1,4 @@
-# The Pseudoscience modpack
+# pseudoscience-modpack
 
 ## Installation (3 Methods)
 > [!IMPORTANT]

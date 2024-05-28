@@ -17,7 +17,7 @@
 	#If true will increase difficulty by the amount of time skipped. Else will only increase difficulty once.
 	"Punish Time Skip" = false
 	#Disable/Enable friendly fire for owned pets.
-	FriendlyFire = true
+	FriendlyFire = false
 	#Blacklist for pet you should't be able to give armor to. Pets from mods, which have custom armor already should be included here (for balancing reasons).
 	"Pet Blacklist" = []
 	#Treat pet blacklist as whitelist
