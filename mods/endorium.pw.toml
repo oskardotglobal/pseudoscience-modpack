@@ -1,13 +1,13 @@
 name = "Endorium"
-filename = "endorium-forge-1.1.0.jar"
+filename = "endorium-fabric-1.1.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vEAzPrqy/versions/abC7lixY/endorium-forge-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/vEAzPrqy/versions/RfyMcKrb/endorium-fabric-1.1.3.jar"
 hash-format = "sha1"
-hash = "18dc12bf550bd0514d2d32c77eadd1f9b6d47c6e"
+hash = "a013dcb275d03ac3cf7dbf613a0022369fa91dde"
 
 [update]
 [update.modrinth]
 mod-id = "vEAzPrqy"
-version = "abC7lixY"
+version = "RfyMcKrb"

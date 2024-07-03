@@ -1,13 +1,13 @@
 name = "Integrated API"
-filename = "integrated_api-1.5.1+1.20.1-forge.jar"
+filename = "integrated_api-1.5.1+1.20.1-fabric.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/QxGJmu0m/integrated_api-1.5.1%2B1.20.1-fabric.jar"
 hash-format = "sha1"
-hash = "f26d3cd0f80510d478a7f867ee59fe878192e9b0"
-mode = "metadata:curseforge"
+hash = "7afd6e27ecb16774a28ae38635c05979c3481082"
 
 [update]
-[update.curseforge]
-file-id = 5241489
-project-id = 817709
+[update.modrinth]
+mod-id = "V6fKbpBN"
+version = "QxGJmu0m"
