@@ -1,0 +1,13 @@
+name = "Embeddium"
+filename = "embeddium-fabric-0.3.22+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/sk9rgfiA/versions/yHr1TDpG/embeddium-fabric-0.3.22%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "195503ffa50aef0637c88d61d8160124d1999c47"
+
+[update]
+[update.modrinth]
+mod-id = "sk9rgfiA"
+version = "yHr1TDpG"

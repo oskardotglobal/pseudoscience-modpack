@@ -1,0 +1,13 @@
+name = "Blunderbombs"
+filename = "blunderbombs-1.0.0_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sl9vxsvf/versions/zvj8wxKK/blunderbombs-1.0.0_1.20.1.jar"
+hash-format = "sha1"
+hash = "dce516685af264b95c68b963b561f60fd38fbc5d"
+
+[update]
+[update.modrinth]
+mod-id = "sl9vxsvf"
+version = "zvj8wxKK"

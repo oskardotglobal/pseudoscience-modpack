@@ -1,0 +1,13 @@
+name = "Enchantment Groups"
+filename = "EnchantmentGroups-1.4.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/i2K44Qi6/versions/xx9C7q7X/EnchantmentGroups-1.4.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "275671d1cd4302d670424c193d408d475408c088"
+
+[update]
+[update.modrinth]
+mod-id = "i2K44Qi6"
+version = "xx9C7q7X"

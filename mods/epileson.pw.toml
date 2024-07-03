@@ -1,0 +1,13 @@
+name = "Epileson"
+filename = "epileson-fabric-1.0.1+1.20-1.20.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qbzGjA1u/versions/ZD5rEH0H/epileson-fabric-1.0.1%2B1.20-1.20.4.jar"
+hash-format = "sha1"
+hash = "3fc1635ed9ea8e661a4bd348a38921e5803e376e"
+
+[update]
+[update.modrinth]
+mod-id = "qbzGjA1u"
+version = "ZD5rEH0H"

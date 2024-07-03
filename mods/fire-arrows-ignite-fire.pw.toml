@@ -1,0 +1,13 @@
+name = "Fire arrows ignite fire"
+filename = "flamearrows-1.20.2-11-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NoajjpZQ/versions/2uVxOiSI/flamearrows-1.20.2-11-fabric.jar"
+hash-format = "sha1"
+hash = "1814453db29657059e52e117612b166b7466cc9d"
+
+[update]
+[update.modrinth]
+mod-id = "NoajjpZQ"
+version = "2uVxOiSI"

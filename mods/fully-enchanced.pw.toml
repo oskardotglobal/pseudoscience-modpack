@@ -1,0 +1,13 @@
+name = "Fully Enchanced"
+filename = "fullyenchanced-0.7-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZwqMp1J0/versions/yB2qaoed/fullyenchanced-0.7-1.20.1.jar"
+hash-format = "sha1"
+hash = "19295e46b128bdb1ad90014cd039236526abb29c"
+
+[update]
+[update.modrinth]
+mod-id = "ZwqMp1J0"
+version = "yB2qaoed"

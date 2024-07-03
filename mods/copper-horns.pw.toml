@@ -1,0 +1,13 @@
+name = "Return Copper Horns"
+filename = "copper-horns-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ile7qLGI/versions/ymvfrJys/copper-horns-1.0.2.jar"
+hash-format = "sha1"
+hash = "0028928d52a5c27fa1d904ed1dbe535166f4bc7b"
+
+[update]
+[update.modrinth]
+mod-id = "ile7qLGI"
+version = "ymvfrJys"
