@@ -528,6 +528,11 @@ hash = "29320d9de73f76fda0c0e5a68d80606c2c23e0d1653fedc7aa18a52ec6cedb7d"
 metafile = true
 
 [[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "3ae3bffdac2e274dd7ba6feaf76f89572dbf97c025cfa8c798978c089e309620"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
@@ -830,6 +835,11 @@ metafile = true
 [[files]]
 file = "mods/nmuk.pw.toml"
 hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "dfcf0446ce11ef9691761c4a696b7ca8763854d977c5074a56fa266d92aebd86"
 metafile = true
 
 [[files]]
