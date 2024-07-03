@@ -1,0 +1,13 @@
+name = "Portal Linking Compass"
+filename = "portal-linking-compass-fabric-1.0.1+mc1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tluXynrx/versions/mTlqWsNF/portal-linking-compass-fabric-1.0.1%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "23676825b10784b6bc72f1c1ca379e7298ac7f0b"
+
+[update]
+[update.modrinth]
+mod-id = "tluXynrx"
+version = "mTlqWsNF"

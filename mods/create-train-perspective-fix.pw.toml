@@ -1,0 +1,13 @@
+name = "Create: Train Perspective Fix"
+filename = "trainperspectivefix-1.0.0-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xm1BSBfU/versions/dgw8quWQ/trainperspectivefix-1.0.0-universal.jar"
+hash-format = "sha1"
+hash = "ee75c6551a3fef1a26fa7c404d61b062f7e9338f"
+
+[update]
+[update.modrinth]
+mod-id = "Xm1BSBfU"
+version = "dgw8quWQ"

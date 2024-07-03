@@ -1,0 +1,13 @@
+name = "It's Still Explosive"
+filename = "itsstillexplosive-1.20.1-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/IRfEcbdS/versions/q77HuDZM/itsstillexplosive-1.20.1-1.0.2.jar"
+hash-format = "sha1"
+hash = "46478ccd0067dc489f89d216ffba6ae2d17fb446"
+
+[update]
+[update.modrinth]
+mod-id = "IRfEcbdS"
+version = "q77HuDZM"
