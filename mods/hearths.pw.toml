@@ -1,0 +1,13 @@
+name = "Hearths"
+filename = "Hearths v1.0.1 f12-48.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/pASfBwdH/Hearths%20v1.0.1%20f12-48.jar"
+hash-format = "sha1"
+hash = "40f280ffb0b4c797d7e31536b74b92e2bfc30ef4"
+
+[update]
+[update.modrinth]
+mod-id = "XCIMrYn0"
+version = "pASfBwdH"
