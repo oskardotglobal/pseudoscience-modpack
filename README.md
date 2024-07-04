@@ -7,8 +7,8 @@
 ### #1 (Vanilla Launcher)
 0. <del>Ensure you have the latest <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">Forge for 1.20.1</a> installed</del><br><ins>Ensure you have the latest <a href="https://fabricmc.net/use/installer/">Fabric for 1.20.1</a> installed</ins>
 1. Download and execute this script for: 
-- Windows: https://github.com/team-skyline/pseudoscience-modpack/raw/v1.1/include/Launcher/install.ps1
-- Mac: https://github.com/team-skyline/pseudoscience-modpack/raw/v1.1/include/Launcher/install.command
+- Windows: https://github.com/team-skyline/pseudoscience-modpack/raw/v2/include/Launcher/install.ps1
+- Mac: https://github.com/team-skyline/pseudoscience-modpack/raw/v2/include/Launcher/install.command
 #### #2 (Prism Launcher)
 > [!NOTE]
 > This doesn't work with MultiMC.
