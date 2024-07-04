@@ -5,7 +5,7 @@
 > This pack requires Java 17, which can be installed from https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html, ensure you have it selected in your launcher.
 
 ### #1 (Vanilla Launcher)
-0. Download the latest Forge https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html
+0. <del>Ensure you have the latest <a href="https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html">Forge for 1.20.1</a> installed</del><br><ins>Ensure you have the latest <a href="https://fabricmc.net/use/installer/">Fabric for 1.20.1</a> installed</ins>
 1. Download and execute this script for: 
 - Windows: https://github.com/team-skyline/pseudoscience-modpack/raw/v1.1/include/Launcher/install.ps1
 - Mac: https://github.com/team-skyline/pseudoscience-modpack/raw/v1.1/include/Launcher/install.command
