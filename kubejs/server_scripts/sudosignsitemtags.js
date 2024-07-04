@@ -1,7 +1,5 @@
 ServerEvents.tags('item', event => {
-  event.add('minecraft:soul_fire_base_blocks', 'quark:soul_bead')
-  event.add('forge:eggs', 'minecraft:sniffer_egg', 'minecraft:dragon_egg', 'quark:egg_parrot_red_blue', 'quark:egg_parrot_blue', 'quark:egg_parrot_green', 'quark:egg_parrot_yellow_blue', 'quark:egg_parrot_grey')
-  event.add('createaddition:plants', 'gardens_of_the_dead:whistlecane', '#quark:seed_pouch_holdable')
-  event.add('quark:seed_pouch_holdable', 'gardens_of_the_dead:whistlecane')
-  event.add('forge:ingots', 'create_dd:experience_ingot')
+  event.add('createaddition:plants', 'gardens_of_the_dead:whistlecane')
+  event.add('pseudoscience:containers', '#c:chests', 'minecraft:barrel', '#c:shulker_boxes', 'minecraft:chiseled_bookshelf', '#supplementaries:sacks', 'supplementaries:safe', 'minecraft:decorated_pot', 'beansbackpacks:backpack', 'beansbackpacks:metal_backpack', 'beansbackpacks:winged_backpack', 'beansbackpacks:ender_backpack', 'minecraft:hopper', 'minecraft:hopper_minecart', '#minecraft:chest_boats', 'minecraft:chest_minecart')
+  event.add('pseudoscience:interactible_blocks', '#minecraft:anvils', 'minecraft:composter', '#c:chests', 'minecraft:barrel', '#c:shulker_boxes', 'minecraft:chiseled_bookshelf', '#supplementaries:sacks', 'supplementaries:safe', 'minecraft:decorated_pot', 'beansbackpacks:backpack', 'beansbackpacks:metal_backpack', 'beansbackpacks:winged_backpack', 'beansbackpacks:ender_backpack', 'minecraft:hopper', 'minecraft:hopper_minecart', '#minecraft:chest_boats', 'minecraft:chest_minecart')
 })

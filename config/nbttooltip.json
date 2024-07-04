@@ -1,0 +1,12 @@
+{
+  "triggerType": "SHOW_ON_KEY",
+  "showSeparator": false,
+  "maxLinesShown": 10,
+  "showDelimiters": false,
+  "compress": false,
+  "ticksBeforeScroll": 20,
+  "ctrlSuppressesRest": true,
+  "splitLongLines": true,
+  "tooltipEngine": "JSON",
+  "copyingEngine": "JSON"
+}

@@ -1,0 +1,38 @@
+{
+  "groups": {
+	"trident1": [
+	  "minecraft:loyalty",
+	  "minecraft:riptide"
+	],
+	"melee_damage": [
+	  "minecraft:bane_of_arthropods",
+	  "minecraft:smite",
+	  "minecraft:sharpness"
+	],
+	"crossbow": [
+	  "minecraft:multishot",
+	  "minecraft:piercing"
+	],
+	"protection": [
+	  "minecraft:protection",
+	  "minecraft:blast_protection",
+	  "minecraft:fire_protection",
+	  "minecraft:projectile_protection"
+	],
+	"bow": [
+	  "minecraft:mending",
+	  "minecraft:infinity"
+	],
+	"mining": [
+	  "minecraft:fortune",
+	  "minecraft:silk_touch"
+	],
+	"trident2": [
+	  "minecraft:channeling",
+	  "minecraft:riptide"
+	]
+  },
+  "treasures": [
+	"minecraft:frost_walker"
+  ]
+}

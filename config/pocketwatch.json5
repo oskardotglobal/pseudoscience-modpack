@@ -1,0 +1,17 @@
+{
+	"showDetails": true,
+	"slotLimit": 6,
+	"whitelist": [
+		"minecraft:clock",
+		"minecraft:compass",
+		"minecraft:recovery_compass",
+		"supplementaries:altimeter",
+		"speedometer:speedometer",
+		"respawnobelisks:bound_compass",
+		"minecraft:arrow",
+		"minecraft:spectral_arrow",
+		"minecraft:firework_rocket",
+		"minecraft:tipped_arrow",
+		"portallinkingcompass:portal_linking_compass
+	]
+}

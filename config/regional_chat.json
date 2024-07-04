@@ -1,0 +1,8 @@
+{
+  "range": 64,
+  "notify_distance": true,
+  "distance_prefix": "[From %.0f blocks away] ",
+  "op_bypass": false,
+  "op_required_permission_level": 3,
+  "op_unlimited_range": false
+}

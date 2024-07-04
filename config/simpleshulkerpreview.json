@@ -1,0 +1,32 @@
+{
+  "displayItem": "FIRST",
+  "showFullness": true,
+  "positionOptionsGeneral": {
+    "translateX": 12,
+    "translateY": 4,
+    "translateZ": 10,
+    "scale": 10
+  },
+  "stackSizeOptions": {
+    "minStackSize": 1,
+    "minStackCount": 1
+  },
+  "groupEnchantment": false,
+  "disableMod": false,
+  "supportBundles": false,
+  "positionOptionsBundle": {
+    "translateX": 12,
+    "translateY": 4,
+    "translateZ": 10,
+    "scale": 10
+  },
+  "supportCustomHeads": false,
+  "supportRecursiveShulkers": false,
+  "supportStackedShulkers": false,
+  "positionOptionsStacked": {
+    "translateX": 12,
+    "translateY": 4,
+    "translateZ": 10,
+    "scale": 10
+  }
+}
