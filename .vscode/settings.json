@@ -6,6 +6,6 @@
         "**/.gitkeep": true
     },
     "githubPullRequests.ignoredPullRequestBranches": [
-        "v1.1"
+        "v2"
     ]
 }
