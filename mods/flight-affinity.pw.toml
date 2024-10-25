@@ -1,0 +1,13 @@
+name = "Flight Affinity"
+filename = "flight-affinity-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wKICLTYc/versions/nBPuDwp0/flight-affinity-1.0.3.jar"
+hash-format = "sha1"
+hash = "2274e098ca99a90b7d8533f5d99081045925ea3c"
+
+[update]
+[update.modrinth]
+mod-id = "wKICLTYc"
+version = "nBPuDwp0"
