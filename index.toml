@@ -105,6 +105,11 @@ hash = "7e4bbcc9f93b5716cf113e1162a3bb52f8f099a8f1b7113d21b7e9b18b0bd0fe"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/beans-backpacks.pw.toml"
 hash = "f2a0134d8fa6a434aa0e569783c4593ba82c477f044912bd763c8b1e28134bc0"
 metafile = true
@@ -302,6 +307,16 @@ metafile = true
 [[files]]
 file = "mods/easy-deaths.pw.toml"
 hash = "ad982d047c77ca902a7c825b6c21235eec167bc342ce2720f57a996cde0e09e3"
+metafile = true
+
+[[files]]
+file = "mods/ebm.pw.toml"
+hash = "258e29b74d035f87a70b70d52b0737817c9c74d837d4f14280a4396f4b70b655"
+metafile = true
+
+[[files]]
+file = "mods/eden-ring-reforked.pw.toml"
+hash = "23aabb8aa32500e9d2501a8daeee918dd8068ac8f4304f482102413965081497"
 metafile = true
 
 [[files]]
@@ -537,6 +552,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "d61ec313523785b4a65542848ccc414d2387c826754a9ffd5d6ed43ad87b95d7"
+metafile = true
+
+[[files]]
+file = "mods/i-see-what-you-did-there.pw.toml"
+hash = "1d279252093fcba40dee1659988a91e5551680d1be48bddb27381d7f288ab18e"
 metafile = true
 
 [[files]]
@@ -837,6 +857,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
+metafile = true
+
+[[files]]
+file = "mods/segmented.pw.toml"
+hash = "2b24a78f6f6b874d8605a49bce24f192d92412af896e5687f2d3eb710f328d35"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Eden Ring Reforked"
+filename = "eden-ring-20.1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EMl3XyUs/versions/nifo2OxY/eden-ring-20.1.20.jar"
+hash-format = "sha1"
+hash = "48def6bb824f6aa879c9ac00b0bf16f1e63b5d82"
+
+[update]
+[update.modrinth]
+mod-id = "EMl3XyUs"
+version = "nifo2OxY"

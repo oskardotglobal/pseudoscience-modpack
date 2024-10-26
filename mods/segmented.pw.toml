@@ -1,0 +1,13 @@
+name = "segmented"
+filename = "segmented-0.3.0-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wcg2h4Y0/versions/r8nuV7b3/segmented-0.3.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "dea2e9312b356c4b387bfdc4c64b91c9911a52ee"
+
+[update]
+[update.modrinth]
+mod-id = "wcg2h4Y0"
+version = "r8nuV7b3"
