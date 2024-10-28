@@ -1,13 +1,13 @@
-name = "It's Still Explosive"
-filename = "itsstillexplosive-1.20.1-1.0.2.jar"
+name = "Doom's It's Still Explosive"
+filename = "itsstillexplosive-1.20.1-1.1.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/IRfEcbdS/versions/q77HuDZM/itsstillexplosive-1.20.1-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/IRfEcbdS/versions/ahoyiGl6/itsstillexplosive-1.20.1-1.1.0.jar"
 hash-format = "sha1"
-hash = "46478ccd0067dc489f89d216ffba6ae2d17fb446"
+hash = "52125219d109af1e5037328d8134f4b9cb1ea5f6"
 
 [update]
 [update.modrinth]
 mod-id = "IRfEcbdS"
-version = "q77HuDZM"
+version = "ahoyiGl6"

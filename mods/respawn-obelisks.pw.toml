@@ -1,13 +1,13 @@
 name = "Respawn Obelisks"
-filename = "respawnobelisks-2.5-c.jar"
+filename = "respawnobelisks-2.6-b.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZT5K3j93/versions/Q25lOHBG/respawnobelisks-2.5-c.jar"
+url = "https://cdn.modrinth.com/data/ZT5K3j93/versions/1DFCSEHr/respawnobelisks-2.6-b.jar"
 hash-format = "sha1"
-hash = "c6a8e9b0326bd7fd315f421cc4992ac59e5940de"
+hash = "34c6403418b4445770c2f14312833bd86a20ed01"
 
 [update]
 [update.modrinth]
 mod-id = "ZT5K3j93"
-version = "Q25lOHBG"
+version = "1DFCSEHr"
