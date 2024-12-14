@@ -1,0 +1,3 @@
+mainScalar = 1.0
+crosshairSafeAreaScalar = 1.0
+visibleInDebugHud = false

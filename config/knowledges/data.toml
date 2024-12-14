@@ -1,0 +1,22 @@
+autoTidiesUp = false
+
+[noteBlockInformation]
+noteModifier = "SHARPS"
+musicalAlphabet = "ENGLISH"
+
+[available]
+"knowledges:info/block//block_information/banner" = true
+"knowledges:info/block//block_information/beehive" = true
+"knowledges:info/block//block_information/brewing_stand" = true
+"knowledges:info/block//block_information/composter" = true
+"knowledges:info/block//block_information/crop" = true
+"knowledges:info/block//block_information/note_block" = true
+"knowledges:info/block//block_information/redstone_wire" = true
+"knowledges:info/block//block_information/sapling" = true
+"knowledges:info/block//mineable_tool" = true
+"knowledges:info/entity//entity_description/animal_owner" = true
+"knowledges:info/entity//entity_description/item_frame" = true
+"knowledges:info/entity//entity_description/villager" = true
+"knowledges:info/entity//entity_information/item_frame" = true
+"knowledges:info/entity//entity_information/painting" = true
+"knowledges:info/entity//entity_information/villager" = true

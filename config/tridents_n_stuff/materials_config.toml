@@ -1,0 +1,123 @@
+# Don't change this! Version used to track needed updates.
+version = 0
+
+[slumbering]
+durability = 650
+miningSpeedMultiplier = 8.0
+attackDamage = 9.0
+miningLevel = 3
+enchantability = 15
+
+[slumbering.repairIngredient]
+type = "stack"
+value = "minecraft:nautilus_shell"
+
+[stormseeker]
+durability = 2250
+miningSpeedMultiplier = 8.0
+attackDamage = 11.0
+miningLevel = 3
+enchantability = 15
+
+[stormseeker.repairIngredient]
+type = "stack"
+value = "minecraft:conduit"
+
+[desecrator]
+durability = 2250
+miningSpeedMultiplier = 8.0
+attackDamage = 13.0
+miningLevel = 3
+enchantability = 25
+
+[desecrator.repairIngredient]
+type = "stack"
+value = "minecraft:wither_skeleton_skull"
+
+[echo]
+durability = 2250
+miningSpeedMultiplier = 8.0
+attackDamage = 9.0
+miningLevel = 3
+enchantability = 19
+
+[echo.repairIngredient]
+type = "stack"
+value = "minecraft:echo_shard"
+
+[stellaris]
+durability = 2250
+miningSpeedMultiplier = 8.0
+attackDamage = 11.0
+miningLevel = 3
+enchantability = 25
+
+[stellaris.repairIngredient]
+type = "stack"
+value = "minecraft:crying_obsidian"
+
+[sanguine]
+durability = 2250
+miningSpeedMultiplier = 8.0
+attackDamage = 13.0
+miningLevel = 3
+enchantability = 10
+
+[sanguine.repairIngredient]
+type = "stack"
+value = "minecraft:totem_of_undying"
+
+[frenzied]
+durability = 350
+miningSpeedMultiplier = 6.0
+attackDamage = 6.0
+miningLevel = 3
+enchantability = 20
+
+[frenzied.repairIngredient]
+type = "stack"
+value = "minecraft:redstone_block"
+
+[ancient]
+durability = 2031
+miningSpeedMultiplier = 10.0
+attackDamage = 11.0
+miningLevel = 4
+enchantability = 22
+
+[ancient.repairIngredient]
+type = "stack"
+value = "minecraft:netherite_scrap"
+
+[oceanic]
+durability = 350
+miningSpeedMultiplier = 6.0
+attackDamage = 9.0
+miningLevel = 3
+enchantability = 20
+
+[oceanic.repairIngredient]
+type = "stack"
+value = "minecraft:nautilus_shell"
+
+[holy]
+durability = 350
+miningSpeedMultiplier = 6.0
+attackDamage = 9.0
+miningLevel = 3
+enchantability = 15
+
+[holy.repairIngredient]
+type = "stack"
+value = "minecraft:golden_apple"
+
+[farshot]
+durability = 350
+miningSpeedMultiplier = 6.0
+attackDamage = 9.0
+miningLevel = 3
+enchantability = 25
+
+[farshot.repairIngredient]
+type = "stack"
+value = "minecraft:phantom_membrane"

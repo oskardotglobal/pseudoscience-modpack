@@ -1,0 +1,8 @@
+{
+  "#README": "This config file does not support comments. To see them configure it in-game using YACL or Cloth Config",
+  "visuals": {
+    "animated_icons": true,
+    "centered_text": true,
+    "stat_update_interval": 60
+  }
+}

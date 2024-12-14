@@ -1,0 +1,8 @@
+autoTidiesUp = false
+
+[available]
+"knowledges:block/beehive" = true
+"knowledges:block/brewing_stand" = true
+"knowledges:block/chiseled_bookshelf" = true
+"knowledges:entity/animal_owner" = true
+"knowledges:entity/chicken_egg" = true

@@ -1,0 +1,29 @@
+autoTidiesUp = false
+
+[crosshair]
+ringShape = "OVAL"
+cursorRingOutlineEnabled = false
+textsRightEnabled = true
+textsLeftEnabled = true
+subtitlesEnabled = true
+primaryOpacity = 0.72
+secondaryOpacity = 0.5
+
+[infoBlock]
+showsBlockPoweredStatus = true
+
+[infoEntity]
+showsNumericHealth = false
+
+[infoFluid]
+ignoresWater = false
+ignoresLava = false
+ignoresOtherFluids = false
+
+[available]
+"knowledges:armor_durability" = true
+"knowledges:crosshair" = true
+"knowledges:info" = true
+"knowledges:info/block" = true
+"knowledges:info/entity" = true
+"knowledges:info/fluid" = true

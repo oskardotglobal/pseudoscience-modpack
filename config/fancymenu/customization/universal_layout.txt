@@ -1,0 +1,62 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1717193961641
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:1846f2eb-9aec-4948-b509-90d9be43279c-1717193945961] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/ferit/chungus-sunday_uglyburger.ogg
+  audio_instance_1 = [source:local]/config/fancymenu/assets/ferit/deaths-whistle_puss-in-boots.ogg
+  audio_instance_2 = [source:local]/config/fancymenu/assets/ferit/elevator-jam-remix_lsplash.ogg
+  audio_instance_3 = [source:local]/config/fancymenu/assets/ferit/elevator-remix_lsplash.ogg
+  audio_instance_4 = [source:local]/config/fancymenu/assets/ferit/level-run_soundtrackidk.ogg
+  audio_instance_5 = [source:local]/config/fancymenu/assets/ferit/moon-men_vsauce.ogg
+  audio_instance_6 = [source:local]/config/fancymenu/assets/ferit/pigstep_lena-raine.ogg
+  audio_instance_7 = [source:local]/config/fancymenu/assets/ferit/rabbit-hole.ogg
+  audio_instance_8 = [source:local]/config/fancymenu/assets/ferit/thunder_deepwoken.ogg
+  audio_instance_9 = [source:local]/config/fancymenu/assets/ferit/unhinged_lsplash.ogg
+  audio_instance_10 = [source:local]/config/fancymenu/assets/ferit/warden-run_tenm.ogg
+  play_mode = shuffle
+  looping = false
+  volume = 0.25
+  sound_source = music
+  element_type = audio_v2
+  instance_identifier = 8f989176-9c17-46ac-aeef-1551163da6b2-1712410257239
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = mid-centered
+  x = 0
+  y = 0
+  width = 100
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = ba41d82f-2a8c-4eba-970d-5b5e515f472b-1712410257239
+  [loading_requirement_container_meta:ba41d82f-2a8c-4eba-970d-5b5e515f472b-1712410257239] = [groups:][instances:]
+}
+

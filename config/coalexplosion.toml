@@ -1,0 +1,5 @@
+[general]
+explosionRange = 5.0
+causeFire = true
+configuredIgniters = []
+configuredBlocks = []

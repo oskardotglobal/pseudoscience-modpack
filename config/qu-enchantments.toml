@@ -1,0 +1,127 @@
+[runeOptions]
+breakOnNoDurability = false
+[accuracyOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+[aggressionBlessingOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+attackSpeed = 0.8
+[agitationCurseOptions]
+isEnabled = true
+randomSelection = false
+bookOffer = false
+radius = 16.0
+[arrowsFlightOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+arrowSpeed = 1.0
+[bashingOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+knockbackStrength = 0.6
+[essenceOfEnderOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+entityTeleportDistance = 5
+[fidelityOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+[freezingAspectOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+duration = 75
+[inaneAspectOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+duration = 40
+[leechingAspectOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+healing = 0.25
+[lightningBoundOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+[luckyMinerOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = false
+bookOffer = true
+[moltenWalkerOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+radius = 2
+[nightbloodOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+disablesExperience = true
+witherDuration = 200
+witherAmplifier = 1
+drainRate = 1.0
+[omenOfImmunityOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+breakOnNoDurability = true
+[reflectionOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+divergence = 1.0
+[regenerationBlessingOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+[shapedGlassOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+damageMultiplier = 2.0
+itemDamage = 1.0
+[skywalkerOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+radius = 0
+cloudDuration = 25
+[speedBlessingOptions]
+isEnabled = true
+randomSelection = true
+enchantingTable = true
+bookOffer = true
+speedBoost = 0.2
+[stripMinerOptions]
+isEnabled = true
+randomSelection = false
+enchantingTable = false
+bookOffer = false
+radius = 1
