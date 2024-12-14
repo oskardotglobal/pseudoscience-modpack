@@ -5,7 +5,7 @@ fix-envs:
     #!/usr/bin/env bash
     set -euxo pipefail
 
-#    sed -i 's/^side = "client"/side = "both"/' mods/jei.pw.toml
+    # sed -i 's/^side = "client"/side = "both"/' mods/jei.pw.toml
     
     packwiz refresh
 
@@ -13,7 +13,9 @@ fix-envs:
 prism:
     #!/usr/bin/env bash
     set -euxo pipefail
-    
+   
+    mkdir -p build
+
     cd include/Prism
     cp ../unsup.ini .minecraft
     
@@ -26,6 +28,8 @@ prism:
 curseforge:
     #!/usr/bin/env bash
     set -euxo pipefail
+
+    mkdir -p build
 
     cp pack.toml include/Curseforge
     
