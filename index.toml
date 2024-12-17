@@ -189,54 +189,6 @@ file = "config/fancymenu/assets/darkomnis/darkordurorange.png"
 hash = "86f6b27fc64464bf7084975fabdbfe520ce3be0981908baf3def923ee8db773f"
 
 [[files]]
-file = "config/fancymenu/assets/ferit/chungus-sunday_uglyburger.ogg"
-hash = "7d5e6afa5c121a1ca0105be75e82ebcb67864510aad4d024f77f7bdab0ee2e87"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/deaths-whistle_puss-in-boots.ogg"
-hash = "2e8ce423913cdc45b6a974c3c9110daf3ff658fd27bb65798f170fbfac7317f3"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/elevator-jam-remix_lsplash.ogg"
-hash = "cb57367bcbd1b6cf65be236a42a9ddfb9c2950cabc63b37e3d89db1a0ff07e59"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/elevator-remix_lsplash.ogg"
-hash = "6ac61cac5eed5a0cd418e423b3f0990bd3cc9a048f52f458062917fd23758b4d"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/level-run_backrooms.ogg"
-hash = "b077e01e0a75d0d7c6af51f1d014b5a6904c1d493ef97fa8404e801e9423aace"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/level-run_soundtrackidk.ogg"
-hash = "29c91b5c4ce9aa5b4d996c5a5d588c598f6a25f64bc6c4bb6a69e6528a80ff4e"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/moon-men_vsauce.ogg"
-hash = "c7fbbb53bd32e4d36f6e9b9078660f9f92a816c80b7cabba4013bb9ab2a60ecd"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/pigstep_lena-raine.ogg"
-hash = "9755b8ce0cc4a3daf02c28caa91f189e051eb6c5f8fa17a31c03360ecfb0d868"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/rabbit-hole.ogg"
-hash = "31c322617846da6e59e613d72401e8d0c8b2e9a182973453886978c9aa84f472"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/thunder_deepwoken.ogg"
-hash = "e924c0e047af50920eb45accdfddcf15590d3df128e8a8b83c42efe2a9be1c92"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/unhinged_lsplash.ogg"
-hash = "35fceeebca1791200dedb25cc64d885916e8c740feb59669d24bedad8244638c"
-
-[[files]]
-file = "config/fancymenu/assets/ferit/warden-run_tenm.ogg"
-hash = "a934c89a94ff4fd300a67a6c86412932d73ace91e80d7baba7bab485500ceefc"
-
-[[files]]
 file = "config/fancymenu/assets/icons/hoversudolanguage.png"
 hash = "a70f050466f4c36afae7ecdbe7017c9105b274e4db0cdbd32360c95deb1b323a"
 
@@ -259,10 +211,6 @@ hash = "c07447803b73e4dbf2c200cb2d73f434f68a5db0fa34810bd23fa96f7a2e7ae8"
 [[files]]
 file = "config/fancymenu/assets/nihil.png"
 hash = "30b03105682f4f609934cfa4c35678b97982bc54ddcf47a4e1323fa39e4b52fd"
-
-[[files]]
-file = "config/fancymenu/assets/pigstep-stereo.ogg"
-hash = "9755b8ce0cc4a3daf02c28caa91f189e051eb6c5f8fa17a31c03360ecfb0d868"
 
 [[files]]
 file = "config/fancymenu/assets/pseudosciencemctitle.png"
