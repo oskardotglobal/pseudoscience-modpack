@@ -1,0 +1,13 @@
+name = "Off Hand Combat [Fabric]"
+filename = "off-hand-combat-2.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f0b325a58c5948c156d89f584f1fe407374f4ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5020567
+project-id = 568423

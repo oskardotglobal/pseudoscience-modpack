@@ -983,3 +983,23 @@ hash = "da0b43cfd254b740c120ebf84669998bed34038b12d7f0bd02be340893679246"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "520067d48b7575264595d4954582401e879710e301a1afaba2ee463115329170"
+metafile = true
+
+[[files]]
+file = "mods/off-hand-combat-fabric.pw.toml"
+hash = "cd3d2ef8f4b81f58283021af5938a5f1fa673ff89747b04fc62e5179d581106b"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "bd1dc13316e2aa9b56c89e7e974057f8da8d6bbfe707ba4210109fc612b782e3"
+metafile = true
