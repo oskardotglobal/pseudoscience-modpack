@@ -250,6 +250,16 @@ hash = "7d8fe92da9ff5b1a8d370c5e68c2e29ba68b400660266347106d7d9ec6f71182"
 metafile = true
 
 [[files]]
+file = "mods/create-curios-jetpack.pw.toml"
+hash = "09e463c4b882dd091cbb8f7de2663de8383a19a9085aa9c2a16a3cd40fb8c271"
+metafile = true
+
+[[files]]
+file = "mods/create-data-and-plots.pw.toml"
+hash = "1c9af5c57280ac824a09ca0e46a45078e789ad5655074c4f43bf4269135111a5"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
 hash = "c444817bb4da81488458646b19c2c4ad49284d9a99961a61958628c71c0dfced"
 metafile = true
@@ -262,6 +272,21 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "5dcba5c878d3321a9bbe4dfffd11b39c1f902217d680baaac336e6347a201127"
+metafile = true
+
+[[files]]
+file = "mods/create-let-the-adventure-begin.pw.toml"
+hash = "deea0a081f56e9eb12bab3ba1a154acb4e848715406016b5007d0d74bcf2fc27"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+hash = "1fe08f60c51289080650f5d441fbf208d021b85e82ffd7ba2200f65ab4e8be2b"
 metafile = true
 
 [[files]]
@@ -282,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/createaddition.pw.toml"
 hash = "d7efd7d686ed6465c3eb2a71a5be177876a774388fbb31804c29f3c55141b8df"
+metafile = true
+
+[[files]]
+file = "mods/customhud.pw.toml"
+hash = "f98ee7233777b4829902596e07f31a177b019dbd26cca89d92a35e5ba71e517c"
 metafile = true
 
 [[files]]
@@ -540,6 +570,11 @@ hash = "bd0c76f438f67e2611fa8458ab153be304acfb4aaed4acebd0dcdfbbb74f1388"
 metafile = true
 
 [[files]]
+file = "mods/haunt-furnace.pw.toml"
+hash = "34fab439b8b7cd1cdee71be65a63b5ee75f8582512cfdd1762a68132d052d571"
+metafile = true
+
+[[files]]
 file = "mods/hearths.pw.toml"
 hash = "5d4381413d502b8bd3e41908df40b0da103b01c3b9e9e557c7549aeca0b1c260"
 metafile = true
@@ -582,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-stronghold.pw.toml"
 hash = "b0f4b48c7e028dfea65c221c40b7203fb3ed48b2453d7d45e9a2640a3f2f7ad2"
+metafile = true
+
+[[files]]
+file = "mods/interiors.pw.toml"
+hash = "727974dcf1669e218ba5ba312054695ccb7fbd0cbd24e4fcd26bcdeafda91ff2"
 metafile = true
 
 [[files]]
@@ -655,6 +695,11 @@ hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
 metafile = true
 
 [[files]]
+file = "mods/luna-slimes.pw.toml"
+hash = "fcc438b7ed6f280be9cc7191a4b41c2066cd692e8bb63b3e3890f4623a040d11"
+metafile = true
+
+[[files]]
 file = "mods/majrusz-library.pw.toml"
 hash = "c2e2f7409348534023bdbe5a0ebb8644832a9d24ef728a44ad2ed143df5ce581"
 metafile = true
@@ -677,6 +722,11 @@ metafile = true
 [[files]]
 file = "mods/melody.pw.toml"
 hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+metafile = true
+
+[[files]]
+file = "mods/memory-manager.pw.toml"
+hash = "d1eaa52a92f3abeeb9478f97531b2f1c8199a346e2c0cb8c42fe4d09fec23d42"
 metafile = true
 
 [[files]]

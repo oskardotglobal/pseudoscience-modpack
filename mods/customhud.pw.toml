@@ -1,0 +1,13 @@
+name = "CustomHud"
+filename = "custom_hud-3.1.4+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/6jis0UTI/versions/rrAlAiEk/custom_hud-3.1.4%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "4d70b61d9eda3dc8c7f2c65a148d661fd3fb614c"
+
+[update]
+[update.modrinth]
+mod-id = "6jis0UTI"
+version = "rrAlAiEk"
