@@ -1,0 +1,13 @@
+name = "TenshiLib"
+filename = "tenshilib-1.20.1-1.7.6-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/P2rffivS/versions/FLaJvJmr/tenshilib-1.20.1-1.7.6-fabric.jar"
+hash-format = "sha1"
+hash = "e8d7b01169ac6fe9b1c87152aeb5bb17505725a1"
+
+[update]
+[update.modrinth]
+mod-id = "P2rffivS"
+version = "FLaJvJmr"
