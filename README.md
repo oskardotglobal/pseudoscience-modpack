@@ -12,7 +12,7 @@
 #### #2 (Prism Launcher)
 > [!NOTE]
 > This doesn't work with MultiMC.
-1. Open "Add Instance," navigate to Import & input the direct download: https://github.com/sapientes/pseudoscience-modpack/releases/download/v1.1.2/Pseudoscience.SMP.Modpack.Iteration.1.Prism.zip
+1. Open "Add Instance," navigate to Import & input the direct download: https://github.com/sapientes/pseudoscience-modpack/releases/download/v2.0.0/Pseudoscience.SMP.Modpack.Iteration.1.Prism.zip
 #### #3 (Curseforge)
 1. Download the Curseforge .zip modpack.
 2. In the vanilla launcher, under the profile CF created go to settings => advanced => JVM arguments  
