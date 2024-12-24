@@ -8,3 +8,6 @@ Justfile
 build
 .devcontainer
 .vscode
+.envrc
+shell.nix
+.direnv

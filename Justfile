@@ -1,27 +1,23 @@
 default: build
 
-# Set the envs of some mods correctly, overwriting them
-fix-envs:
-    #!/usr/bin/env bash
-    set -euxo pipefail
+iteration := "II"
 
-    # sed -i 's/^side = "client"/side = "both"/' mods/jei.pw.toml
-    
-    packwiz refresh
+# Force env for server mods to be both
+fix-envs:
+  rg -l 'side = "server"' \
+    | xargs -i sed -i 's/^side = "server"/side = "both"/' "{}"
 
 # Build the prism pack
 prism:
     #!/usr/bin/env bash
     set -euxo pipefail
-   
-    mkdir -p build
 
     cd include/Prism
     cp ../unsup.ini .minecraft
-    
+
     zip -r Prism.zip * .minecraft
-    
-    mv Prism.zip ../../build/Pseudoscience.SMP.Modpack.Iteration.II.Prism.zip
+
+    mv Prism.zip ../../build/Pseudoscience.Iteration.{{iteration}}.Prism.zip
     rm .minecraft/unsup.ini
 
 # Build the cf pack
@@ -29,10 +25,8 @@ curseforge:
     #!/usr/bin/env bash
     set -euxo pipefail
 
-    mkdir -p build
-
     cp pack.toml include/Curseforge
-    
+
     cd include/Curseforge
     touch index.toml
 
@@ -40,7 +34,7 @@ curseforge:
     cp ../unsup.ini .
 
     packwiz refresh
-    packwiz cf export -y -o ../../build/Pseudoscience.SMP.Modpack.Iteration.II.Curseforge.zip
+    packwiz cf export -y -o ../../build/Pseudoscience.Iteration.{{iteration}}.Curseforge.zip
 
 # Build a profile for the vanilla launcher
 launcher:
@@ -49,12 +43,18 @@ launcher:
 
     eval "$(tombl -e VERSIONS=versions pack.toml)"
 
-    export ITERATION=$(git rev-parse --abbrev-ref HEAD | cut -c 2-)
+    export ITERATION='{{iteration}}'
     export MC_VERSION=${VERSIONS[minecraft]}
     export FABRIC_VERSION=${VERSIONS[fabric]}
 
-    cat include/Launcher/profile.json.template | envsubst | tee include/Launcher/profile.json
+    cat include/Launcher/profile.json.template \
+      | envsubst \
+      | tee build/profile.json
 
+# Clean old builds
+clean:
+  rm -rf build
+  mkdir -p build
 
 # Build all packs
-build: fix-envs prism curseforge launcher
+build: clean fix-envs prism curseforge launcher

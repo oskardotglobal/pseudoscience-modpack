@@ -1,13 +1,13 @@
 name = "Improved Mobs"
-filename = "improvedmobs-1.20.1-1.13.0-fabric.jar"
+filename = "improvedmobs-1.20.1-1.13.2-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/23MovWyi/versions/S5eWZVOY/improvedmobs-1.20.1-1.13.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/23MovWyi/versions/hufWUUer/improvedmobs-1.20.1-1.13.2-fabric.jar"
 hash-format = "sha1"
-hash = "b13dd08ae007a58b109b6c6b9fea4d8439497128"
+hash = "ced336ed88655cd1a06f0c3ccd469565896d7767"
 
 [update]
 [update.modrinth]
 mod-id = "23MovWyi"
-version = "S5eWZVOY"
+version = "hufWUUer"

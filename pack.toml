@@ -1,4 +1,4 @@
-name = "Pseudoscience Modpack Iteration II"
+name = "Pseudoscience: Iteration II"
 author = "oskardotglobal, emorydeer2"
 version = "2"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "5e38de63e8450c41ca266c60fe3efa50a8a6d0653182bbd7539528be10360ef4"
+hash = "7f527bfc227885790597dfd4ed75d185c90f2ecca6fff1846e6cf27d6df0a3e1"
 
 [versions]
 fabric = "0.16.9"
