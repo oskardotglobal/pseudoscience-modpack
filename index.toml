@@ -418,7 +418,7 @@ hash = "4f5e8497a91ddd6ef8ea9e2dce18f6d8b93e3728d5c2bfd3ca7b30d8a15dce1b"
 
 [[files]]
 file = "config/respawnobelisks.jsonc"
-hash = "3aa445c615949fd548bd090ea909430fa860f887be7a00d505399c1d4d305608"
+hash = "9c9f4b49bb1c26718a244817fe7641eda0d02ea3ba2ce6084653478f16466369"
 
 [[files]]
 file = "config/status-effect-bars.json"
