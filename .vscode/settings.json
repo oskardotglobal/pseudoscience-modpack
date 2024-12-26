@@ -5,8 +5,7 @@
         ".gitattributes": true,
         "**/.gitkeep": true,
         ".envrc": true,
-        ".direnv": true,
-        "shell.nix": true
+        ".direnv": true
     },
     "githubPullRequests.ignoredPullRequestBranches": [
         "v2"

@@ -49,7 +49,7 @@ curseforge:
 
 # Build a profile for the vanilla launcher
 launcher:
-    #!/usr/bin/env zsh
+    #!/usr/bin/env bash
     set -euxo pipefail
 
     eval "$(tombl -e VERSIONS=versions pack.toml)"

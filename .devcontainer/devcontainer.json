@@ -1,6 +1,11 @@
 {
   "image": "ghcr.io/xtruder/nix-devcontainer:v1",
-  "extensions": [
-    "arrterian.nix-env-selector"
-  ]
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "arrterian.nix-env-selector",
+        "jnoortheen.nix-ide"
+      ]
+    }
+  }
 }
