@@ -270,7 +270,7 @@ hash = "0b0f0508f390de3ca9158fead1352069e00ba42395ac5cc25681eaa8c1bf6664"
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "3d626932724da156be2b65029675e06df681eab0017b1a3dc25c1cf8421e3781"
+hash = "cd98407539c40030c52666058a44c999c6f54e1bbff6a3855377b195ecb1fc28"
 
 [[files]]
 file = "config/fancymenu/customization/universal_layout.txt"
@@ -286,7 +286,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "106b496255e8a733b079011ecd8dddb5e8880cc38f6fdc62fc029da14e71bc01"
+hash = "c130ac7e4c8a7316652022b53fff0c2774d78296e93b8f797d2542274c1b5d78"
 
 [[files]]
 file = "config/fancymenu/panoramas/archwoodpanorama/panorama/panorama_0.png"
