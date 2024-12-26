@@ -1005,6 +1005,11 @@ hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
 metafile = true
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "edaf94417c62154a22e485b669f0e289488558c453ad57b820978d4072c9cfbe"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
@@ -1022,6 +1027,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
+metafile = true
+
+[[files]]
+file = "mods/async-locator.pw.toml"
+hash = "1c03a3f5b5e061890585ecf6e41995fdc9c9b5081fff50cac3b3e9fd412c63dc"
 metafile = true
 
 [[files]]
@@ -1107,6 +1117,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
@@ -1540,6 +1555,16 @@ hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "424ec31aec85a288c85f101fd5f05c8b02bffbb0215d7e1c06502538139278e8"
 metafile = true
@@ -1552,6 +1577,11 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "a6454ef50734986eb1f1540b1ec56a910a8f728532769b65665f7c11af420b29"
 metafile = true
 
 [[files]]
@@ -1685,6 +1715,11 @@ hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "fd3657dfc971aff9705e1b023b682510a60dba30208deb69f9fa12f4fd75df48"
 metafile = true
@@ -1740,6 +1775,11 @@ hash = "7fe699e64664b556ea43a5f33ea10c2d6ca6d56d1eaaace78906a8fea2bc0f34"
 metafile = true
 
 [[files]]
+file = "mods/potatoptimize.pw.toml"
+hash = "75c044ff166ab00e48dd57245ffd38508724843ebe978242ffa582b9d2096fde"
+metafile = true
+
+[[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "a878f1e84810c2fdfe58945b07ae680e3e483d89f33e378aa5a950d6b99f38a3"
 metafile = true
@@ -1782,6 +1822,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
 
 [[files]]
@@ -1870,6 +1915,11 @@ hash = "d88f78d490fbfe15149a92f5aa1c66f3349cbb35c9599cbf9c4bba88e5ffb53a"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "3cf1b48839868331bb9ec3370507aed6468399f0370ba2e7defbc59a9279fdcc"
 metafile = true
@@ -1892,6 +1942,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "75b8ac35dee78b95e98d995a1d22e2b122e39425b2ab8838334b8cac849ca0f4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
