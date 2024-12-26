@@ -64,7 +64,9 @@
         */
         "secondarySpawnMode": "ALWAYS",
         // A list of block ids which players are not allowed to choose to respawn at, unless it is their main respawn point.
-        "secondarySpawnBlockBlacklist": ["#minecraft:beds"],
+        "secondarySpawnBlockBlacklist": [
+            "#minecraft:beds"
+        ],
         // Whether 'secondarySpawnBlockBlacklist' should act as a whitelist instead of a blacklist.
         "secondarySpawnBlocksAsWhitelist": false,
         /*
@@ -106,7 +108,7 @@
             "minecraft:chorus_fruit": 2.0,
             "minecraft:popped_chorus_fruit": 4.0,
             "minecraft:ender_pearl": 16.0,
-            "minecraft:ender_eye": 32.0,
+            "minecraft:ender_eye": 32.0
         },
         // Whether dispensers can be used to charge obelisks.
         "allowDispenserCharging": false,
@@ -119,8 +121,7 @@
         // How much radiance should be consumed when respawning at an obelisk. (a normal obelisk has 100 max radiance)
         "respawnCost": 20.0,
         // A list of blocks that can be used to provide an obelisk with infinite radiance.
-        "infiniteRadianceBlocks": [
-        ],
+        "infiniteRadianceBlocks": [],
         // The beacon level required for it to provide infinite radiance.
         "requiredBeaconLevel": 5,
         // Whether players can set their spawn at obelisks with no radiance.
@@ -142,7 +143,7 @@
         // The delay before being able to teleport again after an unsuccessful teleport. (Eg. player moves or switches items, etc.
         "teleportationBackupCooldown": 1200,
         // Whether players drop their items when teleporting. If enabled, all enabled perks in the 'perks' section will apply.
-        "dropItemsOnTeleport": false,
+        "dropItemsOnTeleport": true,
         // Whether players drop their recovery compass when teleporting.
         "dropCompassOnTp": true,
         /*
@@ -184,8 +185,7 @@
         '$animals' (pigs, cows, sheep, etc.),
         '$merchants' (villagers)
         */
-        "revivableEntities": [
-        ],
+        "revivableEntities": [],
         // Whether the revivable entities list should act as a blacklist.
         "entitiesIsBlacklist": true,
         // Obelisk radiance depletion amount when reviving entities.
