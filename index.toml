@@ -1005,11 +1005,6 @@ hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
 metafile = true
 
 [[files]]
-file = "mods/almanac.pw.toml"
-hash = "84da114b518ecda7ed4fe0160a7986c2446e55820675016e3630ad87177dc55f"
-metafile = true
-
-[[files]]
 file = "mods/amecs.pw.toml"
 hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
@@ -1310,11 +1305,6 @@ hash = "e0024a1ca07a6a4c44eb815049e9a69b89bac1626f5b8ad644421192a158de4a"
 metafile = true
 
 [[files]]
-file = "mods/enchancement.pw.toml"
-hash = "2a08c1c8c0c07f55d0c315a38e338f6458ca7abb50e3692e11482213cabfefe4"
-metafile = true
-
-[[files]]
 file = "mods/enchant-the-rainbow.pw.toml"
 hash = "504124cc10bc84fe035b8d8c393aa5cf9d9f6f9d0455b63b4833cc6e50fa7011"
 metafile = true
@@ -1332,11 +1322,6 @@ metafile = true
 [[files]]
 file = "mods/enchanting-tweaks.pw.toml"
 hash = "6d52523de4234435124fbf3cf3f28be5cdeaa210b2f731b62574e47aefe7ac27"
-metafile = true
-
-[[files]]
-file = "mods/enchantmentgroups.pw.toml"
-hash = "1ff9d378de04e9cdfe66d88ce01aa623354be6f747d95cc39ebd59a1d67bcf54"
 metafile = true
 
 [[files]]
@@ -1392,11 +1377,6 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "a3124745545f667a1949522edc955fd3c0b6f62c321be7cfad45e5962c5cc98e"
-metafile = true
-
-[[files]]
-file = "mods/extra-enchantments-and-curses.pw.toml"
-hash = "29320d9de73f76fda0c0e5a68d80606c2c23e0d1653fedc7aa18a52ec6cedb7d"
 metafile = true
 
 [[files]]
@@ -1462,11 +1442,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "f1dadbb98e8accd56b315598b519c187f5013911369eec3ef8785dccd418166a"
-metafile = true
-
-[[files]]
-file = "mods/fully-enchanced.pw.toml"
-hash = "3b21652e34b0dfad35f1f234657d465d06de9fb6b79215d4f7baa3d9f9eeef3f"
 metafile = true
 
 [[files]]
@@ -1560,11 +1535,6 @@ hash = "6a590638084fc3387ea05b6ecb0d2b8b4fbb059cfc314ba2b883d9c17fe69f0e"
 metafile = true
 
 [[files]]
-file = "mods/knowledges.pw.toml"
-hash = "70b26d20e08b657c492ba75107a329bd58fdeb0f04a29d3eaf8584cd3eb6e50b"
-metafile = true
-
-[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
@@ -1597,11 +1567,6 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
-metafile = true
-
-[[files]]
-file = "mods/lmd.pw.toml"
-hash = "6a3d0929ea1d8d68110cfb79de2c283df554b6232533b2e90175d845a1ebf47a"
 metafile = true
 
 [[files]]
@@ -1777,11 +1742,6 @@ metafile = true
 [[files]]
 file = "mods/prism-lib.pw.toml"
 hash = "a878f1e84810c2fdfe58945b07ae680e3e483d89f33e378aa5a950d6b99f38a3"
-metafile = true
-
-[[files]]
-file = "mods/probejs.pw.toml"
-hash = "355e75d75a828f1fcc536a729d5a3d7c6a3ae207bd63a71c33240124e163aae4"
 metafile = true
 
 [[files]]
