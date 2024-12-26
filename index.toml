@@ -1060,6 +1060,11 @@ hash = "7fe142bc3d56cdac133f7adc82c7bdebdcd43e2cc142d96ab72a4823542827de"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
+metafile = true
+
+[[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "030dd0477a7fb9815fda9ee031dd652a382a3436bba596ab4e628802d05b971f"
 metafile = true
