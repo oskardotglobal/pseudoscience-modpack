@@ -389,6 +389,10 @@ file = "config/pocketwatch.json5"
 hash = "dfa2ba69dbdd377d036734499511d6a368c5a857a8ca81b62345f217ae3dfac6"
 
 [[files]]
+file = "config/potatoptimize.properties"
+hash = "40e528980f59b586d761d01f5563465c4b43782b31a6ffe85ee4fbec60389ec9"
+
+[[files]]
 file = "config/qu-enchantments.toml"
 hash = "e0a3dd1ccefb36b8cd951b65dfa6f49d513de7717c82d678e5027aecc4c00e39"
 
