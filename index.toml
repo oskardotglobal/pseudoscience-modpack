@@ -1275,11 +1275,6 @@ hash = "ad982d047c77ca902a7c825b6c21235eec167bc342ce2720f57a996cde0e09e3"
 metafile = true
 
 [[files]]
-file = "mods/embeddium.pw.toml"
-hash = "6f0cbd3c8de69c34134a782b3727740947947884de33d93782293a0f87e73a41"
-metafile = true
-
-[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "0c3c85967808550cd2fcc3de024342ac79c3b6c73484ad040b11a2e3347a2275"
 metafile = true
