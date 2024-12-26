@@ -1,6 +1,6 @@
 name = "Respawning Animals"
 filename = "RespawningAnimals-v8.2.1-1.20.1-Fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WnwcSeWc/versions/HY4ut1Q0/RespawningAnimals-v8.2.1-1.20.1-Fabric.jar"

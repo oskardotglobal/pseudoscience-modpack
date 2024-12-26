@@ -1,6 +1,6 @@
 name = "Enchant Tweaker"
 filename = "enchanttweaker-1.4.9.1+mc1.20-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/e4Vpm1dD/versions/FkK0xTTO/enchanttweaker-1.4.9.1%2Bmc1.20-1.20.1.jar"

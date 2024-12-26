@@ -1,6 +1,6 @@
 name = "Regional Chat"
 filename = "regional-chat-1.1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/B6Z2SJET/versions/BUYtbb1y/regional-chat-1.1.2.jar"

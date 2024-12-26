@@ -1,6 +1,6 @@
 name = "Steve's Realistic Sleep"
 filename = "stevesrealisticsleep-fabric-1.11.2+mc1.20-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZPywkPEo/versions/W6XWL7Sh/stevesrealisticsleep-fabric-1.11.2%2Bmc1.20-1.20.1.jar"
