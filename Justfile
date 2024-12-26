@@ -12,12 +12,23 @@ prism:
     #!/usr/bin/env bash
     set -euxo pipefail
 
+    eval "$(tombl -e VERSIONS=versions pack.toml)"
+
+    export ITERATION='{{iteration}}'
+    export MC_VERSION=${VERSIONS[minecraft]}
+    export FABRIC_VERSION=${VERSIONS[fabric]}
+
     cd include/Prism
+
+    for file in *.template; do
+      envsubst -i "$file" -o "${file%.template}"
+    done
+
     cp ../unsup.ini .minecraft
 
-    zip -r Prism.zip * .minecraft
+    zip -r Prism.zip * .minecraft -x '*.template'
 
-    mv Prism.zip ../../build/Pseudoscience.Iteration.{{iteration}}.Prism.zip
+    mv Prism.zip "../../build/Pseudoscience.Iteration.$ITERATION.Prism.zip"
     rm .minecraft/unsup.ini
 
 # Build the cf pack
@@ -47,9 +58,8 @@ launcher:
     export MC_VERSION=${VERSIONS[minecraft]}
     export FABRIC_VERSION=${VERSIONS[fabric]}
 
-    cat include/Launcher/profile.json.template \
-      | envsubst \
-      | tee build/profile.json
+    envsubst -i include/Launcher/profile.json.template \
+      -o build/profile.json
 
 # Clean old builds
 clean:

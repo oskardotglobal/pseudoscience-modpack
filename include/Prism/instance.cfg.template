@@ -1,0 +1,19 @@
+[General]
+ConfigVersion=1.2
+InstanceType=OneSix
+JoinServerOnLaunch=false
+OverrideCommands=false
+OverrideConsole=false
+OverrideGameTime=false
+OverrideJavaArgs=false
+OverrideJavaLocation=false
+OverrideMemory=false
+OverrideMiscellaneous=false
+OverrideModLoaderSettings=false
+OverrideNativeWorkarounds=false
+OverridePerformance=false
+OverrideWindow=false
+UseAccountForInstance=false
+iconKey=default
+name=Pseudoscience: Iteration ${ITERATION}
+notes=
