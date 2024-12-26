@@ -1,13 +1,13 @@
 name = "Respawning Animals"
-filename = "RespawningAnimals-v8.2.0-1.20.1-Fabric.jar"
-side = "both"
+filename = "RespawningAnimals-v8.2.1-1.20.1-Fabric.jar"
+side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/WnwcSeWc/versions/uwE2f5y5/RespawningAnimals-v8.2.0-1.20.1-Fabric.jar"
+url = "https://cdn.modrinth.com/data/WnwcSeWc/versions/HY4ut1Q0/RespawningAnimals-v8.2.1-1.20.1-Fabric.jar"
 hash-format = "sha1"
-hash = "61e5b5d56af354ef4f4557a8035b4825416fe975"
+hash = "1791ddd41141217d8a193a9b56cee7dd5c5aa1c8"
 
 [update]
 [update.modrinth]
 mod-id = "WnwcSeWc"
-version = "uwE2f5y5"
+version = "HY4ut1Q0"
