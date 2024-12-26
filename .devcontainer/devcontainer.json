@@ -1,9 +1,11 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/eitsupi/devcontainer-features/just:0": {},
-    "ghcr.io/wxw-matt/devcontainer-features/command_runner:0": {
-      "command1": "go install github.com/packwiz/packwiz@latest"
+  "image": "ghcr.io/xtruder/nix-devcontainer:v1",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "arrterian.nix-env-selector",
+        "jnoortheen.nix-ide"
+      ]
     }
   }
 }

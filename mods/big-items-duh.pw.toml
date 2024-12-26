@@ -1,0 +1,13 @@
+name = "Big items, duh!"
+filename = "big-items-duh-1.1.4+mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/W3k8Z0Vz/versions/gxmCCXtM/big-items-duh-1.1.4%2Bmc1.20.1.jar"
+hash-format = "sha1"
+hash = "286ef3e6a3f94413326db454fe19892d98e7e3b9"
+
+[update]
+[update.modrinth]
+mod-id = "W3k8Z0Vz"
+version = "gxmCCXtM"

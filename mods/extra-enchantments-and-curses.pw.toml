@@ -1,0 +1,13 @@
+name = "Extra Enchantments and Curses"
+filename = "Extra-Enchantments-and-Curses-1.8.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ybgcuKbF/versions/uP0d9ZK8/Extra-Enchantments-and-Curses-1.8.1.jar"
+hash-format = "sha1"
+hash = "ab05445f7579f98fde2b573346401c072131c7fe"
+
+[update]
+[update.modrinth]
+mod-id = "ybgcuKbF"
+version = "uP0d9ZK8"

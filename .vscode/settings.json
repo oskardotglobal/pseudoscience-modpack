@@ -3,9 +3,12 @@
         ".devcontainer": true,
         ".github": true,
         ".gitattributes": true,
-        "**/.gitkeep": true
+        "**/.gitkeep": true,
+        ".envrc": true,
+        ".direnv": true
     },
     "githubPullRequests.ignoredPullRequestBranches": [
         "v2"
-    ]
+    ],
+    "nixEnvSelector.nixFile": "${workspaceRoot}/shell.nix"
 }

@@ -2,5 +2,7 @@
 build
 include/Curseforge/*
 !include/Curseforge/.gitkeep
+include/Prism/instance.cfg
+include/Prism/mmc-pack.json
 .direnv
 

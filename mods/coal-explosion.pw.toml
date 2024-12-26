@@ -1,0 +1,13 @@
+name = "Coal Explosion"
+filename = "coalexplosion-fabric-1.20.1-1.9.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6pcjc08X/versions/tyqvW6nn/coalexplosion-fabric-1.20.1-1.9.1.jar"
+hash-format = "sha1"
+hash = "247db5ece2ed94606358d119517c2a05d4593ef3"
+
+[update]
+[update.modrinth]
+mod-id = "6pcjc08X"
+version = "tyqvW6nn"

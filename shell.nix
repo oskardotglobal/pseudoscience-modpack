@@ -10,15 +10,17 @@
       hash = "sha256-XHvAgJ8/+ZkBxwZpMgaDchr0hBa1FXAd/j1+HH9N6qw=";
     };
 
-    cargoHash = "sha256-w6LiKSH0koxtWxieyob9e+u5kRdbJOda2mtD4FQBxq0=";
+    cargoHash = "sha256-3hgfAyMydSHnHqPLUQDR/5OWS4GUGeYsJNCX1TDN/wA=";
   };
 in
-  pkgs.mkShell {
+  pkgs.mkShellNoCC {
     packages = with pkgs; [
       wget
       tombl
       packwiz
       just
       envsubst
+      ripgrep
+      zip
     ];
   }
