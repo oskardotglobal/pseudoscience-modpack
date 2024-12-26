@@ -1,6 +1,6 @@
 name = "Doom's It's Still Explosive"
 filename = "itsstillexplosive-1.20.1-1.1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/IRfEcbdS/versions/ahoyiGl6/itsstillexplosive-1.20.1-1.1.0.jar"

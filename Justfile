@@ -5,7 +5,8 @@ iteration := "II"
 # Force env for server mods to be both
 fix-envs:
   rg -l 'side = "server"' \
-    | xargs -i sed -i 's/^side = "server"/side = "both"/' "{}"
+    | xargs -i sed -i 's/^side = "server"/side = "both"/'" {}"
+  sed -i 's/^side = "both"/side = "client"/' mods/fancymenu.pw.toml
 
 # Build the prism pack
 prism:
