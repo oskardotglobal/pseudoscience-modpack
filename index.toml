@@ -1178,6 +1178,11 @@ hash = "f6a88dddbee551dadd9f8c8b52912a30c70bf381f152d67d97ebe0e5c6201898"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6e0f65ee18b813423cc838f9fde4114d0b26b624232990c228372fb06e9e9b40"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "be484c508ba6866ae478956e053a069643d489b8a92eb6079057d70e3337c106"
 metafile = true
