@@ -1134,6 +1134,11 @@ hash = "787ec3dcce9e24a4e41e242c42b553926c607fa2cbabc9b5019e5653d7e249ac"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
@@ -2027,3 +2032,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
+
+[[files]]
+file = "world/carpet.conf"
+hash = "9472c2964b7fe64e67d699e445b915caec998f7420f771f12ca990701f1fb0df"
