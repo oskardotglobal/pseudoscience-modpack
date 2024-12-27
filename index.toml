@@ -29,10 +29,6 @@ file = "config/backslot.json5"
 hash = "f3217acf5cf5ffd2e7a1fededdcb969af14cb04091e9a61fd41fe192d26627d2"
 
 [[files]]
-file = "config/beansbackpacks-common copy.json5"
-hash = "f704e8800f0c67b74efe9807f7c649fb95e8951b0fbe747e8f6aac092b9977e2"
-
-[[files]]
 file = "config/beansbackpacks-common.json5"
 hash = "b5611fd01a61ddd19364c51a80254ec3e1349d7ecd795e0e4707e3f02ec3f5eb"
 
@@ -102,7 +98,7 @@ hash = "4d04c9a1ccaebcd6b0e9c8b7985c7b0d7904a5961fe9021fcd750a120da6e008"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "427aadd29aea1256db321fcac7f33d3fd3e858324d85269a77deee7a0614c701"
+hash = "21193d1a6c974f4dfd4a91884fcfe5e9589bac3d71c7c1ee3e44d0a2f1c0aa0c"
 
 [[files]]
 file = "config/eec-config.json5"
@@ -131,6 +127,10 @@ hash = "3eb996de055fbd201638c4845c900738b2d5c0d5b08f61d1957d7d3cf6bd77c2"
 [[files]]
 file = "config/enchantment_groups.json"
 hash = "b03f35154eb1241f9444b10ef79162db4f16e557c363c5d4f48ec985bd4a9a5d"
+
+[[files]]
+file = "config/environmentalcreepers.json"
+hash = "afe07ce45cb24c337efae483c0ffddd825b2431dbe7229ece0d6ef2ee711ab09"
 
 [[files]]
 file = "config/eso/config.json"
@@ -277,6 +277,178 @@ file = "config/fancymenu/customization/universal_layout.txt"
 hash = "68752c17a2f6241734ed5ccd54182d92f9c0ea41cbf74a2a314f8f8cf51149bf"
 
 [[files]]
+file = "config/fancymenu/fancymenu/assets/darkeromnis/darkerkhaospurple.png"
+hash = "5f0f67564070f351758d812cb7d620998e48d542c79f32f5cc29280ce732f5bf"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/darkeromnis/darkerlibrapink.png"
+hash = "1fa828aa786284a3155e3f9c7c092a77c2ff6db03022ab6a5c12acbf3fced007"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/darkeromnis/darkernihilgreen.png"
+hash = "4f59b6787a5b7a0a138ee811ec2d362b29c79488422971859d6311343d279738"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/darkeromnis/darkerordurorange.png"
+hash = "c69fa2af5d1deba1c22b034b41e20096948f40d629df494bfa744aec5024ab4b"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/darkomnis/darkkhaospurple.png"
+hash = "b08bcc3d2258c9e73732dbeff5479631bda96b99165584390a9c380882bbf076"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/darkomnis/darklibrapink.png"
+hash = "7ed13f0acf1de4569f6769359be46d9270d5e8d1c7937ccc2d828dec37d30022"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/darkomnis/darknihilgreen.png"
+hash = "1b3c8594c42ae5b43404e96cfe69936345baf08aa8331d2f278879a391a9d8e3"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/darkomnis/darkordurorange.png"
+hash = "86f6b27fc64464bf7084975fabdbfe520ce3be0981908baf3def923ee8db773f"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/icons/hoversudolanguage.png"
+hash = "a70f050466f4c36afae7ecdbe7017c9105b274e4db0cdbd32360c95deb1b323a"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/icons/pseudosharp3216.png"
+hash = "ec725aacdaeccfe8562db81b2212b10563891d99cf899048dd7b6227ff98cb24"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/icons/sudoaccessbilityhover.png"
+hash = "ef0544eea9c8a976f3034b3533cd4126dc354638e6f78616afd11448f2589fab"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/icons/sudoaccessibility.png"
+hash = "5410fe4ef82ad7a17fac55bfd8f17122bfd7cda6e58ad02ca71f9c1a5dbe2222"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/icons/sudolanguage.png"
+hash = "c07447803b73e4dbf2c200cb2d73f434f68a5db0fa34810bd23fa96f7a2e7ae8"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/nihil.png"
+hash = "30b03105682f4f609934cfa4c35678b97982bc54ddcf47a4e1323fa39e4b52fd"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/pseudosciencemctitle.png"
+hash = "89a7ed42b202b489afe44ed13173f59327523def1d5133be5963f2f8456d339b"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/pseudosharp3216.icns"
+hash = "e5786f4a3160564482ed9598f30c0d9d95e23487a7e9496a7efa603b372ea181"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/pseudosharp3216_1_16x16.png"
+hash = "8984c72624f13588035ed02a09f223e2d8f84ed21f1558178c7ecb8e88def51f"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/pseudosharp3216_32x32.png"
+hash = "f13945f92ac959c8b3e0edbf662ae247f4f4344f2fce88df75a5e9acc3f0caf8"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/satomnis/khaospurple.png"
+hash = "d1089b218c21091b739fb64fb5b013576bc40c918b5a9ba8cb9f4e8b618a9c96"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/satomnis/librapink.png"
+hash = "075a6f4c69224e66502986997a6644b421025d411a9f74a3e9a8e01a5337cd1b"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/satomnis/nihilgreen.png"
+hash = "c1d3c8cbc8647968cd073729e0376ab7359c0d1da5b08cc0e26ddf75bda61c0d"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/satomnis/ordurorange.png"
+hash = "03cec5c5949dd96d33f9c310279e1d6e26e49c54eb4523d199b0ef024e2d687f"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/sudobanner.png"
+hash = "e5c48356f1607ff8b29432eab1d5d62793105748ebc708e78d48205f7851146c"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/sudobanner180.png"
+hash = "4271f5bbeb62996787af0adfa46c066be1c7ea7125902cdfb7cb7bce6a084736"
+
+[[files]]
+file = "config/fancymenu/fancymenu/assets/sudobanner240.png"
+hash = "c3c820a927da9a5dcc83e24111b4503bdba908e0e48a7b93ca7073dab3096aa4"
+
+[[files]]
+file = "config/fancymenu/fancymenu/audio_element_controller_metas.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/fancymenu/fancymenu/custom_gui_screens.txt"
+hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+
+[[files]]
+file = "config/fancymenu/fancymenu/customizablemenus.txt"
+hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
+
+[[files]]
+file = "config/fancymenu/fancymenu/customization/title_screen_layout.txt"
+hash = "56c651a5d51883eaae585e00e18269ce22a869a3428bdaac6a2066db3918418a"
+
+[[files]]
+file = "config/fancymenu/fancymenu/customization/universal_layout.txt"
+hash = "4666fc09c60a2aa26b1d29d9819b95a895b86a25cc1a0f5e8495bc5d5107a8e1"
+
+[[files]]
+file = "config/fancymenu/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "9d6f4d040d90e8f0da49ad4878eb9ba80702c659d8888378615cebadb6e53cbc"
+
+[[files]]
+file = "config/fancymenu/fancymenu/legacy_checklist.txt"
+hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
+
+[[files]]
+file = "config/fancymenu/fancymenu/options.txt"
+hash = "b04e68b82e1f23175393c5370663fc8ea13dd18eb1f17f76636ad5ff45c5efd0"
+
+[[files]]
+file = "config/fancymenu/fancymenu/panoramas/archwoodpanorama/panorama/panorama_0.png"
+hash = "5b0b8e0661963874b69c6185463f956ee7bd493ae7b5788d2c24c6879e760eac"
+
+[[files]]
+file = "config/fancymenu/fancymenu/panoramas/archwoodpanorama/panorama/panorama_1.png"
+hash = "a550b0298cb173aaf501b1eb8514221711a251d3969681adf90eece0fc4c5a03"
+
+[[files]]
+file = "config/fancymenu/fancymenu/panoramas/archwoodpanorama/panorama/panorama_2.png"
+hash = "a7325ecd6966e73de5f01c1204249abfcf775b944f88905e0c72c26035bcb5ac"
+
+[[files]]
+file = "config/fancymenu/fancymenu/panoramas/archwoodpanorama/panorama/panorama_3.png"
+hash = "68a0b0843b55192c0983388ba776163f5f2ed72e4ebc0f438be39bbc4ccf6715"
+
+[[files]]
+file = "config/fancymenu/fancymenu/panoramas/archwoodpanorama/panorama/panorama_4.png"
+hash = "f55c9444da6122cf81a11094216fd93712b341ac5d76aaed780d6b27fc44bb96"
+
+[[files]]
+file = "config/fancymenu/fancymenu/panoramas/archwoodpanorama/panorama/panorama_5.png"
+hash = "777925d5a7f7734eb9f4b7f69245a01d0e657172040a619b0548ecb21ddf9680"
+
+[[files]]
+file = "config/fancymenu/fancymenu/panoramas/archwoodpanorama/properties.txt"
+hash = "2aa14460dcba625202dd88875917b4085eb9aa186133e0d94a4ec9088cb31594"
+
+[[files]]
+file = "config/fancymenu/fancymenu/ui_themes/dark.json"
+hash = "43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9"
+
+[[files]]
+file = "config/fancymenu/fancymenu/ui_themes/light.json"
+hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
+
+[[files]]
+file = "config/fancymenu/fancymenu/user_variables.db"
+hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+
+[[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
 hash = "111e79a73da37b65a13b6d2cd2b81b168e6b65d91ddffa98d863b139b86b8b1b"
 
@@ -406,7 +578,7 @@ hash = "1e389d23e58138dc6a1286954c8d396005a035975e055cb25cc346913e4ba543"
 
 [[files]]
 file = "config/regional_chat.json"
-hash = "50378d607e565c0ad69b220a520a90dfde84622f9e06fb91561822e308601763"
+hash = "5938cdda4cd845113fd10427c89ac4f4df696b0f5c231ec356aff2fc55524372"
 
 [[files]]
 file = "config/regions_unexplored.conf"
@@ -427,6 +599,10 @@ hash = "4f5e8497a91ddd6ef8ea9e2dce18f6d8b93e3728d5c2bfd3ca7b30d8a15dce1b"
 [[files]]
 file = "config/respawnobelisks.jsonc"
 hash = "9c9f4b49bb1c26718a244817fe7641eda0d02ea3ba2ce6084653478f16466369"
+
+[[files]]
+file = "config/servercore/config.yml"
+hash = "1a4c57cfbeea0885a0c0e182d69833b900070810bc9ddc1412495b4f0531852b"
 
 [[files]]
 file = "config/status-effect-bars.json"
@@ -1599,11 +1775,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
 metafile = true
 
 [[files]]
