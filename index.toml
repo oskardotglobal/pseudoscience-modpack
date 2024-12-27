@@ -102,7 +102,7 @@ hash = "4d04c9a1ccaebcd6b0e9c8b7985c7b0d7904a5961fe9021fcd750a120da6e008"
 
 [[files]]
 file = "config/dynamiccrosshair.json5"
-hash = "39fa36f7f068dc389c4754f7a902855da3f4f2f95e6668cfe3946907eefe2fe1"
+hash = "21193d1a6c974f4dfd4a91884fcfe5e9589bac3d71c7c1ee3e44d0a2f1c0aa0c"
 
 [[files]]
 file = "config/eec-config.json5"
