@@ -1332,18 +1332,28 @@ hash = "d4b79652245914a4f376f13a0a11c12b624613be9df788e227572ee7f5281f6c"
 metafile = true
 
 [[files]]
+file = "mods/brrp.pw.toml"
+hash = "b133b5ca4007f772467d0b6fcc1baedcb287bc46d7a2864a83b0e038a51954dd"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "7bdc3d711b404db28144992cba4c9da51f0fc1bff483e9ef7ba9a28e256677fa"
 metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "787ec3dcce9e24a4e41e242c42b553926c607fa2cbabc9b5019e5653d7e249ac"
+hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
 metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
 hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "041cfe22ed9a42cb4acf300d185b276bf2c973b4061f90687d7b7132f2ce34ec"
 metafile = true
 
 [[files]]
@@ -1862,6 +1872,11 @@ hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
+file = "mods/minitweaks.pw.toml"
+hash = "ca633beb2fc83774df5f1ca358f3ff6de129cc9dd502c5d977c5fd695626d5bd"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "bae7c12667c70b9e56f806214a619ef5cd6462511c0026dfe9764348fd339582"
 metafile = true
@@ -2044,6 +2059,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
+metafile = true
+
+[[files]]
+file = "mods/rug.pw.toml"
+hash = "3f59e69cec6cb984464d16c926e85afb3d65aec268ad26e7f6782f8af32cff3c"
 metafile = true
 
 [[files]]

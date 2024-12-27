@@ -1,0 +1,13 @@
+name = "Minitweaks"
+filename = "minitweaks-1.20-1.4.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/gdCHYfN8/versions/nENO15o1/minitweaks-1.20-1.4.0.jar"
+hash-format = "sha1"
+hash = "4516f9618c3781cff5e118f30d50e9e035945e8d"
+
+[update]
+[update.modrinth]
+mod-id = "gdCHYfN8"
+version = "nENO15o1"
