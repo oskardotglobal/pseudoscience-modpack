@@ -1,7 +1,7 @@
 {
   "range": 64,
-  "notify_distance": true,
-  "distance_prefix": "[From %.0f blocks away] ",
+  "notify_distance": false,
+  "distance_prefix": "[%.0fm away]",
   "op_bypass": true,
   "op_required_permission_level": 3,
   "op_unlimited_range": false
