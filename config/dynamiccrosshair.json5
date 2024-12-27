@@ -12,7 +12,7 @@
 		"holdingTool": "Always",
 		"displayCorrectTool": true,
 		"holdingMeleeWeapon": true,
-		"meleeWeaponOnEntity": false,
+		"meleeWeaponOnEntity": true,
 		"meleeWeaponOnBreakableBlock": false,
 		"holdingRangedWeapon": "IfInteractable",
 		"holdingThrowable": "IfInteractable",
@@ -37,49 +37,49 @@
 			"coalesce": true
 		},
 		"onBlock": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-open.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-9.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
 			"coalesce": true
 		},
 		"onEntity": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-open-diagonal.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-7.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
-			"coalesce": true
+			"coalesce": false
 		},
 		"holdingTool": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/square.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-4.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
 			"coalesce": true
 		},
 		"holdingMeleeWeapon": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-open.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-6.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
 			"coalesce": true
 		},
 		"holdingRangedWeapon": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-open-diagonal.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-10.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
 			"coalesce": true
 		},
 		"holdingThrowable": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/circle.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-8.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
 			"coalesce": true
 		},
 		"holdingBlock": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/diamond-large.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-1.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
@@ -100,7 +100,7 @@
 			"coalesce": true
 		},
 		"shield": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/brackets-bottom.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-2.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
@@ -109,14 +109,14 @@
 	},
 	"crosshairModifiers": {
 		"modCorrectTool": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/dot.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-5.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
 			"coalesce": true
 		},
 		"modIncorrectTool": {
-			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/cross-open-diagonal.png",
+			"style": "dynamiccrosshair:textures/gui/sprites/crosshair/custom-3.png",
 			"overrideColor": false,
 			"customColor": -5588020,
 			"enableBlend": true,
