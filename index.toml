@@ -1757,6 +1757,11 @@ hash = "bf90fb21fcd2f9ea1f8b6b9abdd489e3fa56cb706602ea37741234630efd56ad"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "ee900299b13f25787c8258c2b76072f353c15d4510d8ad2d2ee6e6d636c54668"
 metafile = true
