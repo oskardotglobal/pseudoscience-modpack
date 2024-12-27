@@ -634,7 +634,7 @@ hash = "37b871cd3a0e56564ee751be6e3b6e1c6b49b0a34b4fe75448f572ce25d24236"
 
 [[files]]
 file = "config/traverse/biome.json"
-hash = "e54af6ff51f52bffcbacd1a0df7b882ec54e54ada65077ae4a0e6b31aa805d4e"
+hash = "628ec51db3881ee81edadd2b0321e72a5b984d6d21cf0926544536c019d6adce"
 
 [[files]]
 file = "config/tridents_n_stuff/items_config.toml"
