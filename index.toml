@@ -93,6 +93,10 @@ file = "config/crosshairs/9.png"
 hash = "a8bcf7a22af4e888062c85fd242d67ea19f2eb6b4fc46d0afa96346bb929d25c"
 
 [[files]]
+file = "config/custom-hud/profile1.txt"
+hash = "102d8fda497ea9b14cf6024d65817e989c16295e88935070115d3cb0cbec2360"
+
+[[files]]
 file = "config/doomsitsstillexplosive.properties"
 hash = "4d04c9a1ccaebcd6b0e9c8b7985c7b0d7904a5961fe9021fcd750a120da6e008"
 
