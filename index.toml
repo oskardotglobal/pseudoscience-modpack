@@ -2034,5 +2034,9 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
+file = "world/carpet-fixes.conf"
+hash = "9add3787e0f85e280da20a63a71f329d939a562990a35e84e4dd08abdf9f280d"
+
+[[files]]
 file = "world/carpet.conf"
-hash = "9472c2964b7fe64e67d699e445b915caec998f7420f771f12ca990701f1fb0df"
+hash = "5417779a7a9b99c2551564e10f1fd533c5ef505611d4798c8cac1a9cbb3e7a8f"
