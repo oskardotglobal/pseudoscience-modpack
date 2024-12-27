@@ -67,7 +67,7 @@ element {
 
 element {
   button_element_executable_block_identifier = b5103010-385f-4647-90ed-148217927dc2-1712409588213
-  [executable_action_instance:db1e0dfa-74ff-4f4e-87ac-1b3de1e6edf3-1712409597579][action_type:joinserver] = pseudoscience.sapientes.ovh:25565
+  [executable_action_instance:db1e0dfa-74ff-4f4e-87ac-1b3de1e6edf3-1712409597579][action_type:joinserver] = pseudoscience.sapientes.ovh
   [executable_block:b5103010-385f-4647-90ed-148217927dc2-1712409588213][type:generic] = [executables:db1e0dfa-74ff-4f4e-87ac-1b3de1e6edf3-1712409597579;]
   backgroundnormal = [source:local]/config/fancymenu/assets/sudobanner.png
   backgroundhovered = [source:local]/config/fancymenu/assets/sudobanner240.png
@@ -77,7 +77,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  hoverlabel = {"placeholder":"servermotd","values":{"line":"1","ip":"pseudoscience.sapientes.ovh:25565"}}
+  hoverlabel = {"placeholder":"servermotd","values":{"line":"1","ip":"pseudoscience.sapientes.ovh"}}
   description = The official server of the Pseudoscience Modpack
   label = Join the Pseudoscience SMP
   navigatable = true
