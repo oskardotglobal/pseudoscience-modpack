@@ -5,4 +5,5 @@ include/Curseforge/*
 include/Prism/instance.cfg
 include/Prism/mmc-pack.json
 .direnv
+overrides
 
