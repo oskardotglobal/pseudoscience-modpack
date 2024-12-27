@@ -2,7 +2,7 @@
   "biomes": {
     "woodlands": true,
     "desert_shrubland": true,
-    "autumnal_woods": true,
+    "autumnal_woods": false,
     "lush_swamp": true,
     "coniferous_forest": true,
     "flatlands": true,
