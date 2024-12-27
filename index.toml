@@ -1577,11 +1577,6 @@ hash = "2dfcb2cfbd297d87bc7d11617712c903a49c225278b7cc2e024f112f33412a61"
 metafile = true
 
 [[files]]
-file = "mods/ends-phantasm.pw.toml"
-hash = "2ed6379a705a63452feafb34f3afe7e4a52f99b0b8b34111cc1d8a479779fafb"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
