@@ -206,7 +206,7 @@
       "crystal_enchanting": 3
     },
     "ash": {
-      "enabled": true,
+      "enabled": false,
       "ash_from_fire_chance": 1.0,
       "rain_wash_ash": true
     },

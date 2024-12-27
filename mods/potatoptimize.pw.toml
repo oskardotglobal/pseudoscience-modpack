@@ -1,0 +1,13 @@
+name = "Potatoptimize"
+filename = "potatoptimize-0.0.1-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tCUVz9xy/versions/VZRV2ZfU/potatoptimize-0.0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "39a1aafa9221168aec9bdfa4d66443280cddff41"
+
+[update]
+[update.modrinth]
+mod-id = "tCUVz9xy"
+version = "VZRV2ZfU"

@@ -11,3 +11,4 @@ build
 .envrc
 shell.nix
 .direnv
+overrides
