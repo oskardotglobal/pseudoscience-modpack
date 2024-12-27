@@ -953,12 +953,40 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+file = "kubejs/assets/minecraft/optifine/cit/jar/communist.json"
+hash = "675f9da0e8da266b087fc5745facfdfea2e2cadb9291cde21d65edef8ebf139e"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/minecraft/optifine/cit/jar/communist.png"
+hash = "7bb1363db43b53348ccc7a344c508025878c501b173344017ed4395b959e97bb"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/jar/communist.properties"
+hash = "bafaf0559a846fe172c8bcfda9de692b26309a47ee4e5ba8763f86d54199b72b"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/jar/communist2.properties"
+hash = "9effdab3dfa3529430097cd39e730985ceab98bfe3e8b36a7ebb619d1a0b4f7d"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/jar/glass.png"
+hash = "552044391117c3d95d6c4486fe2ef59057213af5a5dc4a0fbf56b3864f5cd906"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/plushie/communist.json"
+hash = "3c02b05e69ebe0f5f64fcdc97f136bf2ae3d413d1a3218ff5fbdb6b9ec90d825"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/plushie/communist.png"
+hash = "7bb1363db43b53348ccc7a344c508025878c501b173344017ed4395b959e97bb"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/plushie/communist.properties"
+hash = "e2de3fdd21ca0e8b72987c1263e5df3ec2e33fdc853447f8680834a0d6625876"
+
+[[files]]
+file = "kubejs/assets/minecraft/optifine/cit/plushie/communist2.properties"
+hash = "fd22adb88ba4e66f88f70dab5df1d58c047bbaf11b55f26848c27938eb69ea13"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -987,10 +1015,6 @@ hash = "4141e8fe19d597e96c39e96f2442d92416c7ae7fc9e22fb1924280a98d213a20"
 [[files]]
 file = "kubejs/server_scripts/sudosignsitemtags.js"
 hash = "da0b43cfd254b740c120ebf84669998bed34038b12d7f0bd02be340893679246"
-
-[[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
 
 [[files]]
 file = "mods/additional-placements-fabric.pw.toml"
