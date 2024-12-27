@@ -438,7 +438,7 @@ hash = "ea01744c4f14140c883e63f85b3665b2fc0f28469c65340611b94784a36331a5"
 
 [[files]]
 file = "config/supplementaries-common.json"
-hash = "b25f230e91eb66da6fb70c202e4d2c14257885ddef7bc7f4a969da7273b22017"
+hash = "a67940889613c4f4c54f9ea9cb1f659a14520128fa5f88a1632e3e3ab9282886"
 
 [[files]]
 file = "config/terrestria/biome.json"
