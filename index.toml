@@ -2038,6 +2038,10 @@ hash = "3f0ac032a4f89382745b03a8e1078041f728d9e4f2df14fa9eb910382b98b1c4"
 metafile = true
 
 [[files]]
+file = "server.properties"
+hash = "d3cea5384c1d2a44041b26b27c8edf97b3217fb7089882c2b5dac1e4f20e0ae2"
+
+[[files]]
 file = "world/carpet-fixes.conf"
 hash = "9add3787e0f85e280da20a63a71f329d939a562990a35e84e4dd08abdf9f280d"
 
