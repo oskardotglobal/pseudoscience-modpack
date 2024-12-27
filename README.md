@@ -7,8 +7,8 @@
 ### #1 (Vanilla Launcher)
 0. Ensure you have [the latest Fabric for 1.20.1](https://fabricmc.net/use/installer/) installed
 1. Download and execute this script for: 
-- Windows: https://github.com/sapientes/pseudoscience-modpack/raw/v2/include/Launcher/install.ps1
-- Mac: https://github.com/sapientes/pseudoscience-modpack/raw/v2/include/Launcher/install.command
+	- Windows: https://github.com/sapientes/pseudoscience-modpack/raw/v2/include/Launcher/install.ps1
+	- Mac: https://github.com/sapientes/pseudoscience-modpack/raw/v2/include/Launcher/install.command
 #### #2 (Prism Launcher)
 > [!NOTE]
 > This doesn't work with MultiMC.
