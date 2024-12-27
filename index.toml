@@ -333,6 +333,10 @@ file = "config/fullyenchanced.json"
 hash = "ef9a085f749dd04a06f8c8ac16c94312e915d8431a163f2a064f25c307cb1396"
 
 [[files]]
+file = "config/immersive_weathering-common.json"
+hash = "559a46efe65f72419f94607e67edb1c50a135275f0bb6c1515c3423e11ad4d1a"
+
+[[files]]
 file = "config/improvedmobs/client.json"
 hash = "8fc0ae707eb111ba0bff515aef764f50c54a9784f66418decc3aa7d95893fe5d"
 
