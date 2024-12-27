@@ -2248,7 +2248,7 @@ metafile = true
 
 [[files]]
 file = "server.properties"
-hash = "728dbf84910bef57884abf5f74b940d2be5f35c49c1127aca90634629cfaa225"
+hash = "604ca05225e79d9c8526043175f6dedc635ce20a62635c17a2df867df0d620ac"
 
 [[files]]
 file = "world/carpet-fixes.conf"
