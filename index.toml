@@ -657,6 +657,10 @@ file = "config/tweakeroo.json"
 hash = "5d1ad46e54246c1bd9dd7eadb672c5f8e6e2efdec35ce8411168e0816bff07ba"
 
 [[files]]
+file = "config/votifier/votifier.json"
+hash = "ad7300b668a64b2d6ea352c09d7cdfc1ec74046e8f79176586acb2dbd561c358"
+
+[[files]]
 file = "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -1142,11 +1146,11 @@ hash = "7bb1363db43b53348ccc7a344c508025878c501b173344017ed4395b959e97bb"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/jar/communist.properties"
-hash = "bafaf0559a846fe172c8bcfda9de692b26309a47ee4e5ba8763f86d54199b72b"
+hash = "8e327988e5b714625fe8d378b7b72d1c9d21a0c63bfdb60d54c0a08ea687996d"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/jar/communist2.properties"
-hash = "9effdab3dfa3529430097cd39e730985ceab98bfe3e8b36a7ebb619d1a0b4f7d"
+hash = "3609a2a4ccff4086cf6d2f9bc261bf454a5239412f92c84351fda93eb3b2d2b6"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/jar/glass.png"
@@ -1162,11 +1166,11 @@ hash = "7bb1363db43b53348ccc7a344c508025878c501b173344017ed4395b959e97bb"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/plushie/communist.properties"
-hash = "e2de3fdd21ca0e8b72987c1263e5df3ec2e33fdc853447f8680834a0d6625876"
+hash = "3bbc2c0e623b5546da679e4fb75b58e740d7e03b30fe6c8055d168e51458ba20"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/plushie/communist2.properties"
-hash = "fd22adb88ba4e66f88f70dab5df1d58c047bbaf11b55f26848c27938eb69ea13"
+hash = "6d29bc86e4ca2b151f43c0a22551b98236a3b4381adb8dbbb9eb9720488f211d"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -2057,11 +2061,6 @@ hash = "75159247003092efc839be7e290102aacae32f4b3dcc31dbb3bfc1df7f54979a"
 metafile = true
 
 [[files]]
-file = "mods/rug.pw.toml"
-hash = "3f59e69cec6cb984464d16c926e85afb3d65aec268ad26e7f6782f8af32cff3c"
-metafile = true
-
-[[files]]
 file = "mods/servercore.pw.toml"
 hash = "2a3f43bcb818999b3228849ad0e3dacc97e9809654076adf483fe6046cab21ea"
 metafile = true
@@ -2187,6 +2186,11 @@ hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
+file = "mods/votifier-for-fabric.pw.toml"
+hash = "c6a872b956d24a3906abfee2ce06e7fd84c7cc8af32d0408b8a489c12804a2ee"
+metafile = true
+
+[[files]]
 file = "mods/wakes.pw.toml"
 hash = "2c27fa315f6a06c0c56b12151417d5b3c2f6f1a551b881ffa3a54f010c63956c"
 metafile = true
@@ -2271,4 +2275,4 @@ hash = "9add3787e0f85e280da20a63a71f329d939a562990a35e84e4dd08abdf9f280d"
 
 [[files]]
 file = "world/carpet.conf"
-hash = "d4ade6ee51cfddf628bef2a8448ee6e5de82b0d6dd8911f10a08f22202af8857"
+hash = "9759c3e6ca196b0b0d4f62310efaee51641871cbe9a665d970de681fa6541f91"

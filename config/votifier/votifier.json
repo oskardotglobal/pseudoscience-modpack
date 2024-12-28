@@ -1,0 +1,8 @@
+{
+  "host": "0.0.0.0",
+  "port": "8192",
+  "debug": false,
+  "command-after-voting": "",
+  "voting-link": ""
+}
+

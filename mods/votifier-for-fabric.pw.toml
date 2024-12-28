@@ -1,0 +1,13 @@
+name = "Votifier for Fabric"
+filename = "votifier-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/8k8d2Dbx/versions/oLTPPYWG/votifier-1.1.jar"
+hash-format = "sha1"
+hash = "6f264bbc1595e4fbae21f31d7e66bf2f7bdd05ff"
+
+[update]
+[update.modrinth]
+mod-id = "8k8d2Dbx"
+version = "oLTPPYWG"
