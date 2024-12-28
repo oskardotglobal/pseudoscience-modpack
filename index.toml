@@ -1146,11 +1146,11 @@ hash = "7bb1363db43b53348ccc7a344c508025878c501b173344017ed4395b959e97bb"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/jar/communist.properties"
-hash = "8e327988e5b714625fe8d378b7b72d1c9d21a0c63bfdb60d54c0a08ea687996d"
+hash = "bafaf0559a846fe172c8bcfda9de692b26309a47ee4e5ba8763f86d54199b72b"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/jar/communist2.properties"
-hash = "3609a2a4ccff4086cf6d2f9bc261bf454a5239412f92c84351fda93eb3b2d2b6"
+hash = "9effdab3dfa3529430097cd39e730985ceab98bfe3e8b36a7ebb619d1a0b4f7d"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/jar/glass.png"
@@ -1166,11 +1166,11 @@ hash = "7bb1363db43b53348ccc7a344c508025878c501b173344017ed4395b959e97bb"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/plushie/communist.properties"
-hash = "3bbc2c0e623b5546da679e4fb75b58e740d7e03b30fe6c8055d168e51458ba20"
+hash = "e2de3fdd21ca0e8b72987c1263e5df3ec2e33fdc853447f8680834a0d6625876"
 
 [[files]]
 file = "kubejs/assets/minecraft/optifine/cit/plushie/communist2.properties"
-hash = "6d29bc86e4ca2b151f43c0a22551b98236a3b4381adb8dbbb9eb9720488f211d"
+hash = "fd22adb88ba4e66f88f70dab5df1d58c047bbaf11b55f26848c27938eb69ea13"
 
 [[files]]
 file = "kubejs/config/client.properties"
