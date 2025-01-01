@@ -2,7 +2,6 @@
   "host": "0.0.0.0",
   "port": "8192",
   "debug": false,
-  "command-after-voting": "",
-  "voting-link": ""
+  "command-after-voting": "give %player% create:experience_nugget",
+  "voting-link": "https://www.planetminecraft.com/server/pseudoscience/vote/"
 }
-
