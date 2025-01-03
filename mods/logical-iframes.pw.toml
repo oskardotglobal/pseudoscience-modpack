@@ -1,0 +1,13 @@
+name = "Logical IFrames"
+filename = "logical-iframes-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6sYYcZFx/versions/ogY1TqWD/logical-iframes-1.0.1.jar"
+hash-format = "sha1"
+hash = "c6f32b2aafda3f39880022026b1b58702d1863ab"
+
+[update]
+[update.modrinth]
+mod-id = "6sYYcZFx"
+version = "ogY1TqWD"

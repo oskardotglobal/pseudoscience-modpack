@@ -1266,6 +1266,11 @@ hash = "7e4bbcc9f93b5716cf113e1162a3bb52f8f099a8f1b7113d21b7e9b18b0bd0fe"
 metafile = true
 
 [[files]]
+file = "mods/banhammer.pw.toml"
+hash = "73fcb65b1d53a39fef80d972e697fb742104d1b03179080ab2abd44cc88b9fcf"
+metafile = true
+
+[[files]]
 file = "mods/beans-backpacks.pw.toml"
 hash = "a44c0ff77fae9fb67a39b82704620f523b9b8bbec6dbd5f0d9e48d66bee8b41b"
 metafile = true
@@ -1413,6 +1418,11 @@ metafile = true
 [[files]]
 file = "mods/coal-explosion.pw.toml"
 hash = "61e7d42f82e59087421a5be5b02d4bde0a274451cbd73af581ee36bbb6e74d29"
+metafile = true
+
+[[files]]
+file = "mods/combat-timer.pw.toml"
+hash = "4577a0630b84c91f2b8c2634cae17e7e5bff484509b6ac4ef125fb0dbfce9718"
 metafile = true
 
 [[files]]
@@ -1823,6 +1833,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/logical-iframes.pw.toml"
+hash = "6a3a7d6d55b7b3ddbba530d766a9ea7e52b8aa502a2c7cb5f8e2a74a87934ad8"
 metafile = true
 
 [[files]]
