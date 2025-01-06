@@ -658,7 +658,7 @@
       "Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 0.75
   },
   "Max Health Increase": {
     "__comment": [
@@ -672,14 +672,14 @@
       "Round health to the nearest x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 0.5
+    "input": 0.25
   },
   "Damage Increase Multiplier": {
     "__comment": [
       "Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 0.25
   },
   "Max Damage Increase": {
     "__comment": [
@@ -693,7 +693,7 @@
       "Speed will be increased by difficulty*0.0008*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 0.5
   },
   "Max Speed": {
     "__comment": [
@@ -707,7 +707,7 @@
       "Knockback will be increased by difficulty*0.002*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 0.25
   },
   "Max Knockback": {
     "__comment": [
@@ -735,7 +735,7 @@
       "Projectile Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 0.375
   },
   "Max Projectile Damage": {
     "__comment": [
@@ -749,7 +749,7 @@
       "Explosion Damage will be multiplied by 1 + difficulty*0.003*x. Set to 0 to disable",
       "Range: > 0.0"
     ],
-    "input": 1.0
+    "input": 0.5
   },
   "Max Explosion Damage": {
     "__comment": [
