@@ -514,19 +514,11 @@ hash = "559a46efe65f72419f94607e67edb1c50a135275f0bb6c1515c3423e11ad4d1a"
 
 [[files]]
 file = "config/improvedmobs/client.json"
-hash = "8fc0ae707eb111ba0bff515aef764f50c54a9784f66418decc3aa7d95893fe5d"
+hash = "b3e1fc12255bf33d048bfa8f51ca0975ee6a47532f5bf56e58096cdfcfcbbf28"
 
 [[files]]
 file = "config/improvedmobs/common.json"
-hash = "097efe7c2db3b51514c154f802f5660003126356b7c3c8339abd1bf98fa16ee8"
-
-[[files]]
-file = "config/improvedmobs/common.json_back"
-hash = "0d65f9b2ffe2d3e908e2b6fdcd71e547e40741b1f28642c6c4f08f7ceb4ed061"
-
-[[files]]
-file = "config/improvedmobs/equipment.json"
-hash = "e6f3f1e1c0013789568e8197dbc27646fa299b363f9507a070dd3dae731012e0"
+hash = "9f62b5b4a5c64724a906e66e1ec957c92513249b1c1b65359bc09edc0e2df2b8"
 
 [[files]]
 file = "config/knowledges/cache/username.json"
