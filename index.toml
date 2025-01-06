@@ -658,7 +658,7 @@ hash = "5d1ad46e54246c1bd9dd7eadb672c5f8e6e2efdec35ce8411168e0816bff07ba"
 
 [[files]]
 file = "config/votifier/votifier.json"
-hash = "ad7300b668a64b2d6ea352c09d7cdfc1ec74046e8f79176586acb2dbd561c358"
+hash = "e319658a7b8758dc4accb5e463086ff7009c76cd40d458a518ff99c311407833"
 
 [[files]]
 file = "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished"
@@ -1503,6 +1503,11 @@ metafile = true
 [[files]]
 file = "mods/customhud.pw.toml"
 hash = "f98ee7233777b4829902596e07f31a177b019dbd26cca89d92a35e5ba71e517c"
+metafile = true
+
+[[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "1af769bd9f498ed9eeb3ca10a6895bf1eaff8799c37f2b57bb58e5aa413c8666"
 metafile = true
 
 [[files]]
