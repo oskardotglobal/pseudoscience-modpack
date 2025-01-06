@@ -29,12 +29,11 @@
       "If you want to use negative values use | instead of - as the delimiter."
     ],
     "input": [
-      "0-0.0333",
-      "0.999-0.001",
-      "1-0.1",
-      "100-1",
-      "1000-10",
-      "10000-100"
+      "0|0.03333333",
+      "1|0.03472222",
+      "25|0.04960317",
+      "250|0.04563182",
+      "1000|0"
     ]
   },
   "Ignore Players": {
@@ -110,37 +109,37 @@
       "<minecraft> disables everything for all minecraft mobs"
     ],
     "input": [
-      "botania:doppleganger",
-      "netherdepthsupgrade:magmacubefish",
-      "minecraft:glow_squid",
-      "netherdepthsupgrade:glowdine",
-      "netherdepthsupgrade:eyeball_fish",
-      "minecraft:strider",
+      "botania:doppleganger|ATTRIBUTES,REVERSE",
+      "netherdepthsupgrade:magmacubefish|REVERSE,PEHKUI",
+      "minecraft:glow_squid|REVERSE,PEHKUI",
+      "netherdepthsupgrade:glowdine|REVERSE,PEHKUI",
+      "netherdepthsupgrade:eyeball_fish|REVERSE,PEHKUI",
+      "minecraft:strider|REVERSE,PEHKUI",
       "minecraft:trader_llama",
       "minecraft:parrot",
       "minecraft:horse",
-      "minecraft:polar_bear",
-      "minecraft:bat",
+      "minecraft:polar_bear|REVERSE,ATTRIBUTES,BLOCKBREAK,LADDER,PEHKUI",
+      "minecraft:bat|REVERSE,PEHKUI",
       "minecraft:wandering_trader",
       "minecraft:llama",
       "minecraft:pig",
       "minecraft:frog",
-      "minecraft:iron_golem",
+      "minecraft:iron_golem|ATTRIBUTES",
       "minecraft:turtle",
-      "netherdepthsupgrade:lava_pufferfish",
-      "netherdepthsupgrade:blazefish",
+      "netherdepthsupgrade:lava_pufferfish|REVERSE,PEHKUI",
+      "netherdepthsupgrade:blazefish|REVERSE,PEHKUI",
       "minecraft:sheep",
-      "netherdepthsupgrade:searing_cod",
+      "netherdepthsupgrade:searing_cod|REVERSE,PEHKUI",
       "minecraft:tadpole",
       "minecraft:goat",
       "botania:pixie",
-      "minecraft:dolphin",
+      "minecraft:dolphin|REVERSE,ATTRIBUTES,PEHKUI",
       "dummmmmmy:target_dummy",
       "railways:conductor",
-      "netherdepthsupgrade:bonefish",
-      "minecraft:cod",
-      "netherdepthsupgrade:wither_bonefish",
-      "netherdepthsupgrade:soulsucker",
+      "netherdepthsupgrade:bonefish|REVERSE,PEHKUI",
+      "minecraft:cod|REVERSE,PEHKUI",
+      "netherdepthsupgrade:wither_bonefish|REVERSE,PEHKUI",
+      "netherdepthsupgrade:soulsucker|REVERSE,PEHKUI,ATTRIBUTES",
       "minecraft:donkey",
       "estrogen:moth",
       "minecraft:squid",
@@ -158,7 +157,7 @@
       "minecraft:fox",
       "minecraft:allay",
       "minecraft:tropical_fish",
-      "minecraft:snow_golem",
+      "minecraft:snow_golem|REVERSE,ATTRIBUTES",
       "minecraft:mooshroom",
       "netherdepthsupgrade:obsidianfish",
       "netherdepthsupgrade:fortressgrouper",
@@ -166,11 +165,16 @@
       "minecraft:ocelot",
       "enchancement:frozen_player",
       "minecraft:chicken",
-      "minecraft:wolf",
+      "minecraft:wolf|REVERSE,ATTRIBUTES",
       "supplementaries:red_merchant",
-      "minecraft:panda",
+      "minecraft:panda|REVERSE,ATTRIBUTES",
       "minecraft:rabbit",
-      "minecraft:axolotl"
+      "minecraft:axolotl|REVERSE,ATTRIBUTES",
+      "minecraft:creeper|REVERSE,ATTRIBUTES,PEKHUI,GUARDIAN,PARROT",
+      "minecraft:slime|REVERSE,ATTRIBUTES,PEKHUI,GUARDIAN,PARROT",
+      "minecraft:magma_cream|REVERSE,ATTRIBUTES,PEKHUI,GUARDIAN,PARROT",
+      "minecraft:spider|REVERSE,ATTRIBUTES,PEKHUI,GUARDIAN,PARROT",
+      "minecraft:cave_spider|REVERSE,ATTRIBUTES,PEKHUI,GUARDIAN,PARROT"
     ]
   },
   "Flag Blacklist": {
@@ -395,7 +399,7 @@
       "Chance a breaker mob to ignore line of sight",
       "Range: 0.0 ~ 1.0"
     ],
-    "input": 0.5
+    "input": 0.25
   },
   "Breaking Speed Base": {
     "__comment": [
@@ -446,7 +450,7 @@
     "__comment": [
       "Should mobs be able to break block entities? Evaluated before the break list"
     ],
-    "input": true
+    "input": false
   },
   "Neutral Aggressive Chance": {
     "__comment": [
@@ -467,7 +471,7 @@
       "Difficulty at which mobs are able to break blocks",
       "Range: > 0.0"
     ],
-    "input": 0.0
+    "input": 2.0
   },
   "Difficulty Steal AI": {
     "__comment": [
@@ -568,7 +572,7 @@
       "Adds additional x*difficulty% to base equip chance",
       "Range: > 0.0"
     ],
-    "input": 0.25
+    "input": 0.125
   },
   "Armor Trim Chance": {
     "__comment": [
@@ -589,7 +593,7 @@
       "Adds additional x*difficulty% to base weapon chance",
       "Range: > 0.0"
     ],
-    "input": 0.125
+    "input": 0.0625
   },
   "Enchanting Chance": {
     "__comment": [
@@ -610,12 +614,11 @@
       "Specify min and max enchanting levels according to difficulty. difficulty-minLevel-maxLevel"
     ],
     "input": [
-      "0.0-1-5",
-      "25.0-5-15",
-      "50.0-10-17",
-      "100.0-15-25",
-      "200.0-20-30",
-      "250.0-30-35"
+      "0.0-1-3",
+      "25.0-1-5",
+      "50.0-2-8",
+      "100.0-3-10",
+      "250.0-5-15"
     ]
   },
   "Enchanting Blacklist": {
@@ -635,14 +638,14 @@
       "Chance for mobs to have an item in offhand",
       "Range: 0.0 ~ 1.0"
     ],
-    "input": 0.5
+    "input": 0.25
   },
   "Item Chance add": {
     "__comment": [
       "Adds additional x*difficulty% to base item chance",
       "Range: > 0.0"
     ],
-    "input": 0.20000000298023224
+    "input": 0.125
   },
   "Should drop equipment": {
     "__comment": [
@@ -683,7 +686,7 @@
       "Damage will be multiplied by at maximum this. Set to 0 means no limit",
       "Range: > 0.0"
     ],
-    "input": 3.0
+    "input": 5.0
   },
   "Speed Increase": {
     "__comment": [
@@ -725,7 +728,7 @@
       "Maximum increase in magic resistance. Magic reduction is percentage",
       "Range: 0.0 ~ 1.0"
     ],
-    "input": 0.4000000059604645
+    "input": 0.375
   },
   "Projectile Damage Increase": {
     "__comment": [
@@ -753,6 +756,6 @@
       "Explosion damage will be multiplied by maximum of this",
       "Range: > 0.0"
     ],
-    "input": 1.75
+    "input": 5
   }
 }
