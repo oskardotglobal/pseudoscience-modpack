@@ -518,7 +518,7 @@ hash = "b3e1fc12255bf33d048bfa8f51ca0975ee6a47532f5bf56e58096cdfcfcbbf28"
 
 [[files]]
 file = "config/improvedmobs/common.json"
-hash = "532b49c869e5d229b07f9e69a7744f29f9b4bd1188f1aac39f7884b8c6785009"
+hash = "2cd41c35ae8a2cdaef624c2dc96df2ca08dbcd1f3145c2b7e228d357ec2664b8"
 
 [[files]]
 file = "config/knowledges/cache/username.json"
@@ -650,7 +650,7 @@ hash = "5d1ad46e54246c1bd9dd7eadb672c5f8e6e2efdec35ce8411168e0816bff07ba"
 
 [[files]]
 file = "config/votifier/votifier.json"
-hash = "e319658a7b8758dc4accb5e463086ff7009c76cd40d458a518ff99c311407833"
+hash = "35a5c70250c278e8df5848e80e2c3845a6d9319c486cdae550fac205da8a5b58"
 
 [[files]]
 file = "config/worldedit/.archive-unpack/2e1dd752/.unpack_finished"
@@ -1191,6 +1191,10 @@ hash = "4141e8fe19d597e96c39e96f2442d92416c7ae7fc9e22fb1924280a98d213a20"
 [[files]]
 file = "kubejs/server_scripts/sudosignsitemtags.js"
 hash = "da0b43cfd254b740c120ebf84669998bed34038b12d7f0bd02be340893679246"
+
+[[files]]
+file = "kubejs/startup_scripts/nothighhighs.js"
+hash = "529be375a9933d9a188378bc6a2a2d2ccb33f2c0a38e8bb30dae7d2ec68b150c"
 
 [[files]]
 file = "mods/additional-placements-fabric.pw.toml"
