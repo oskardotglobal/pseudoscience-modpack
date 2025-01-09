@@ -1189,12 +1189,12 @@ file = "kubejs/server_scripts/crops.js"
 hash = "4141e8fe19d597e96c39e96f2442d92416c7ae7fc9e22fb1924280a98d213a20"
 
 [[files]]
-file = "kubejs/server_scripts/sudosignsitemtags.js"
-hash = "da0b43cfd254b740c120ebf84669998bed34038b12d7f0bd02be340893679246"
+file = "kubejs/server_scripts/nothighhighs.js"
+hash = "529be375a9933d9a188378bc6a2a2d2ccb33f2c0a38e8bb30dae7d2ec68b150c"
 
 [[files]]
-file = "kubejs/startup_scripts/nothighhighs.js"
-hash = "529be375a9933d9a188378bc6a2a2d2ccb33f2c0a38e8bb30dae7d2ec68b150c"
+file = "kubejs/server_scripts/sudosignsitemtags.js"
+hash = "da0b43cfd254b740c120ebf84669998bed34038b12d7f0bd02be340893679246"
 
 [[files]]
 file = "mods/additional-placements-fabric.pw.toml"
