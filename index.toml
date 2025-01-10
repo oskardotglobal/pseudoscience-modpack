@@ -518,7 +518,7 @@ hash = "b3e1fc12255bf33d048bfa8f51ca0975ee6a47532f5bf56e58096cdfcfcbbf28"
 
 [[files]]
 file = "config/improvedmobs/common.json"
-hash = "2cd41c35ae8a2cdaef624c2dc96df2ca08dbcd1f3145c2b7e228d357ec2664b8"
+hash = "443ee56c3dd9d81ec77d7b2b4eee8ebd23b27afad5e326b5b80a32bebafe43fe"
 
 [[files]]
 file = "config/knowledges/cache/username.json"
@@ -1190,7 +1190,7 @@ hash = "4141e8fe19d597e96c39e96f2442d92416c7ae7fc9e22fb1924280a98d213a20"
 
 [[files]]
 file = "kubejs/server_scripts/nothighhighs.js"
-hash = "529be375a9933d9a188378bc6a2a2d2ccb33f2c0a38e8bb30dae7d2ec68b150c"
+hash = "7528bbff64a343f06bc9f84fe9a3e72807a150d1cbccbc17cf82c9f8fcb05489"
 
 [[files]]
 file = "kubejs/server_scripts/sudosignsitemtags.js"
