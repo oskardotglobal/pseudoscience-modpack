@@ -1185,6 +1185,10 @@ file = "kubejs/jsconfig.json"
 hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
+file = "kubejs/server_scripts/calciteischalk.js"
+hash = "dc0fbaa9ac8e557b166aaf220d4b01e4422aee334350d8197e09f35f692759fa"
+
+[[files]]
 file = "kubejs/server_scripts/crops.js"
 hash = "4141e8fe19d597e96c39e96f2442d92416c7ae7fc9e22fb1924280a98d213a20"
 
@@ -1194,7 +1198,7 @@ hash = "7528bbff64a343f06bc9f84fe9a3e72807a150d1cbccbc17cf82c9f8fcb05489"
 
 [[files]]
 file = "kubejs/server_scripts/sudosignsitemtags.js"
-hash = "da0b43cfd254b740c120ebf84669998bed34038b12d7f0bd02be340893679246"
+hash = "396d9fe79530b6be88496460d64627ba70984ff485b101c674b9f1706b794745"
 
 [[files]]
 file = "mods/additional-placements-fabric.pw.toml"
