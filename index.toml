@@ -1190,7 +1190,7 @@ hash = "28cdcc08a491899a5d5e0e19204124e37c90876b1e7d24bf3c39663971d13e4f"
 
 [[files]]
 file = "kubejs/server_scripts/crops.js"
-hash = "bcccce9ef7c661c6087bae3977471819f201ec51d8076ac513535be9f7ca8624"
+hash = "4141e8fe19d597e96c39e96f2442d92416c7ae7fc9e22fb1924280a98d213a20"
 
 [[files]]
 file = "kubejs/server_scripts/nothighhighs.js"
