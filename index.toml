@@ -1186,7 +1186,7 @@ hash = "121ec9d7902090c050b096aa83792aeb7580946392785f5bae5f8e4bc6dbcce4"
 
 [[files]]
 file = "kubejs/server_scripts/calciteischalk.js"
-hash = "dc0fbaa9ac8e557b166aaf220d4b01e4422aee334350d8197e09f35f692759fa"
+hash = "28cdcc08a491899a5d5e0e19204124e37c90876b1e7d24bf3c39663971d13e4f"
 
 [[files]]
 file = "kubejs/server_scripts/crops.js"
